@@ -10,4 +10,4 @@
 
  ## Procedures
  1. Run `python3 xml2md.py` first to generate some md files to training folder
- 2. Run `python .\md2pdf.py` -p ./training`` to generate some pdf files to pdfs directory, and also generate some html files on output direcotory 
+ 2. Run `python .\md2pdf.py` -p ./training`` to generate some pdf files to /pdfs directory, and also generate some html files on /htmls direcotory 

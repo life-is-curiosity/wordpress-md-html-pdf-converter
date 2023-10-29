@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<base href="./" target="_blank">
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+	<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+	<link href="github.css" rel="stylesheet">
+	<style>
+		table {
+			border-collapse:collapse;
+				}
+		figure img {
+			margin: 0 auto;
+			display: table-cell;
+		}
+		figcaption{
+			text-align: center;
+		}
+		p img:not(:nth-child(1)) {
+			margin:0 auto;
+			display: table-cell;
+		}
+	
+
+		img.emoji {
+		   height: 1em;
+		   width: 1em;
+		   margin: 0 .05em 0 .1em;
+		   vertical-align: -0.1em;
+		}
+</style>
+<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.2"></script>
+<script>window.onload = function () { twemoji.parse(document.body);}</script>	
+</head>
+
+<body><h1 id="does-assigning-null-really-help-garbage-collection">Does
+assigning NULL really help Garbage Collection?</h1>
+<p>Date: 2020-09-15 00:02:03</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">
+<strong>Assign NULL to an object.</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+One of the reasons of my friend hating java was “Java variable needs to
+be assigned NULL to help GC.”. And actually, I remember someone told me
+that we could call the System.gc() for manually triggering the Garbage
+Collection.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">
+<strong>What is Garbage Collection <strong>(GC)</strong>? </strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+GC is an automatical storage management system. In the GC perspective,
+It automatically collects all USELESS resources (Such as an object which
+is not being referenced). The GC thread monitors the Heap resource
+within the application lifecycle.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">
+<strong>Stack and Heap</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+First of all, I have to explain what are the Stack and Heap memories and
+how GC works on Java. There are lines of code right here for the
+example.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:jetpack/markdown {"source":"```Java\nclass Car {\n    int id;\n    String name;\n    public Car(int id, String name) {\n        this.id = id;\n        this.name = name;\n    }\n}\npublic class Main {\n    private static Car build(int id, String name) {\n        return new Car(id, name);\n    }\n    public static void main(String[] args) {\n        int id = 1;\n        String name = \u0022Tesla\u0022;\n        Car car = null;\n        car = build(id, name);\n    }\n}"} -->
+<div class="wp-block-jetpack-markdown">
+<pre><code class="language-Java">class Car {
+    int id;
+    String name;
+    public Car(int id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+}
+public class Main {
+    private static Car build(int id, String name) {
+        return new Car(id, name);
+    }
+    public static void main(String[] args) {
+        int id = 1;
+        String name = &quot;Tesla&quot;;
+        Car car = null;
+        car = build(id, name);
+    }
+}</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+<!-- wp:paragraph -->
+<p>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">
+<strong>What happens in the code?</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:image {"id":78,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large">
+<img src="https://curiosityforever.files.wordpress.com/2020/09/stack-call-heap-reference-1.png?w=931" alt="" class="wp-image-78" />
+</figure>
+<!-- /wp:image -->
+<!-- wp:paragraph -->
+<p>
+The variable of the Car object in Stack which references to a Heap
+memory resource in each function calls. Assigning NULL to Car object
+only redirects the reference of Car to a NULL reference. The occupied
+resource still in Heap and probably not going to trigger the GC
+operation whether the Young Generation (Survivor Space 1 &amp; 2) not
+being full.<br>Meanwhile, the string “Tesla” probably will not
+immediately be collected if you assign NULL to the name of the Car
+object as well.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">
+<strong>How about explicitly calls System.gc() method?</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+I haven’t encountered that many good reasons to invoke System.gc() from
+the application. Here is the code inside System.gc():
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:jetpack/markdown {"source":"```java\npublic static void gc() {\n    Runtime.getRuntime().gc();\n}"} -->
+<div class="wp-block-jetpack-markdown">
+<pre><code class="language-java">public static void gc() {
+    Runtime.getRuntime().gc();
+}</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+<!-- wp:paragraph -->
+<p>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+As java has another thread for the GC usage while the resources in Heap
+being insufficient. Triggering the System.gc() is like sending a signal
+to the JVM for preparing the GC operation. And the GC operation is
+unpredictable and delay, that means you could not know when the GC
+started. GC can also reject your request if all the resources are still
+being referenced (Memory Leak?) and it will throw OutOfMemory Exception
+when the Heap memory is fully occupied.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">
+<strong>How to optimize the GC operation?</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+According to the diagram above, when an object created, the functions in
+the Stack will keep the reference only. At the same time, Heap will
+assign a block of resources and keep the object. The lifecycle of stack
+memory is generally shorter then Heap, the stack memory collection is
+always faster than Heap and invisible to other threads. I encourage to
+frequently use the variables in function scope instead of global.
+StackOverFlow Exception will be thrown if the stack memory is fully
+occupied.
+</p>
+<!-- /wp:paragraph -->
+
+</body>
+</html>

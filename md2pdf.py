@@ -36,6 +36,10 @@ def convert(input, output):
         f.close()
     pdfkit.from_file("tmp.html", output, options={"enable-local-file-access": None})
     if os.path.exists("tmp.html"):
+        html_file = input.replace(".md", ".html").replace("training", "htmls")
+        with open(html_file, "w", encoding="utf-8") as f2:
+            f2.write(html_body)
+            f2.close()
         os.remove("tmp.html")
     print(input + " conversion successful ！")
 

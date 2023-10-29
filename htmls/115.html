@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<base href="./" target="_blank">
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+	<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+	<link href="github.css" rel="stylesheet">
+	<style>
+		table {
+			border-collapse:collapse;
+				}
+		figure img {
+			margin: 0 auto;
+			display: table-cell;
+		}
+		figcaption{
+			text-align: center;
+		}
+		p img:not(:nth-child(1)) {
+			margin:0 auto;
+			display: table-cell;
+		}
+	
+
+		img.emoji {
+		   height: 1em;
+		   width: 1em;
+		   margin: 0 .05em 0 .1em;
+		   vertical-align: -0.1em;
+		}
+</style>
+<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.2"></script>
+<script>window.onload = function () { twemoji.parse(document.body);}</script>	
+</head>
+
+<body><h1 id="solitaire-encryption">Solitaire Encryption</h1>
+<p>Date: 2020-11-15 19:31:07</p>
+<!-- wp:paragraph -->
+<p>
+This algorithm uses a standard deck of cards with 52 suited cards and
+two jokers which are distinguishable from each other, called the A joker
+and the B joker. For simplicity’s sake, only two suits will be used in
+this example, clubs and diamonds. Each card is assigned a numerical
+value: the clubs will be numbered from 1 to 13 (Ace through King) and
+the diamonds will be numbered 14 through 26 in the same manner. The
+jokers will be assigned the values of 27 and 28. Thus, the jack of clubs
+would have the value 11, and the deuce of diamonds would have the value
+15. (In a full deck of cards, the suits are valued in bridge order:
+clubs, diamonds, hearts, spades, with the suited cards numbered 1
+through 52, and the jokers numbered 53 and 54.)
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+To begin encryption or decryption, arrange the deck of cards face-up in
+an order previously agreed upon. The person decrypting a message must
+have a deck arranged in the same order as the deck used by the person
+who encrypted the message. How the order is initially decided upon is up
+to the recipients; shuffling the deck perfectly randomly is preferable,
+although there are many other methods.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+The algorithm generates a keystream, a sequence of values which are
+combined with the message to encrypt and decrypt it. Each value of the
+keystream is used to encrypt one character of the message, so the
+keystream must be at least as long as the message. If the keystream is
+longer than the message the message may be padded with an additional
+repeated character, thus denying the attacker knowledge of the exact
+length of the message.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+<strong>To encrypt a message:</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:list {"ordered":true} -->
+<ol>
+<li>
+Remove all punctuation and spaces, leaving only the 26 letters A–Z.
+</li>
+<li>
+Convert each letter to its natural numerical value, A = 1, B = 2, …, Z =
+26.
+</li>
+<li>
+Generate one keystream value for each letter in the message using the
+keystream algorithm below.
+</li>
+<li>
+Add each keystream value to the corresponding plaintext number,
+subtracting 26 if the resulting value is greater than 26. (In
+mathematics this is
+called <a href="https://en.wikipedia.org/wiki/Modular_arithmetic">modular
+arithmetic</a>.)
+</li>
+<li>
+Convert the resulting numbers back to letters. This sequence of letters
+is
+the <a href="https://en.wikipedia.org/wiki/Ciphertext">ciphertext</a>.
+</li>
+</ol>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p>
+<strong>To decrypt a ciphertext:</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:list {"ordered":true} -->
+<ol>
+<li>
+Convert each letter in the ciphertext to its natural numerical value.
+</li>
+<li>
+Generate one keystream value for each letter in the ciphertext.
+</li>
+<li>
+Subtract each keystream value from the corresponding ciphertext value,
+adding 26 if the resulting value is less than 1.
+</li>
+<li>
+Convert the resulting numbers back to letters.
+</li>
+</ol>
+<!-- /wp:list -->
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">
+<strong>Let’ s try on it</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:table -->
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td>
+Plaintext
+</td>
+<td>
+D
+</td>
+<td>
+O
+</td>
+<td>
+N
+</td>
+<td>
+O
+</td>
+<td>
+T
+</td>
+<td>
+U
+</td>
+<td>
+S
+</td>
+<td>
+E
+</td>
+<td>
+P
+</td>
+<td>
+C
+</td>
+</tr>
+<tr>
+<td>
+(number representation)
+</td>
+<td>
+4
+</td>
+<td>
+15
+</td>
+<td>
+14
+</td>
+<td>
+15
+</td>
+<td>
+20
+</td>
+<td>
+21
+</td>
+<td>
+19
+</td>
+<td>
+5
+</td>
+<td>
+16
+</td>
+<td>
+3
+</td>
+</tr>
+<tr>
+<td>
+Keystream values
+</td>
+<td>
+21
+</td>
+<td>
+6
+</td>
+<td>
+13
+</td>
+<td>
+1
+</td>
+<td>
+18
+</td>
+<td>
+20
+</td>
+<td>
+25
+</td>
+<td>
+24
+</td>
+<td>
+9
+</td>
+<td>
+7
+</td>
+</tr>
+<tr>
+<td>
+(encoded numbers)
+</td>
+<td>
+25
+</td>
+<td>
+15
+</td>
+<td>
+1
+</td>
+<td>
+16
+</td>
+<td>
+12
+</td>
+<td>
+15
+</td>
+<td>
+18
+</td>
+<td>
+3
+</td>
+<td>
+25
+</td>
+<td>
+10
+</td>
+</tr>
+<tr>
+<td>
+Ciphertext
+</td>
+<td>
+Y
+</td>
+<td>
+O
+</td>
+<td>
+A
+</td>
+<td>
+P
+</td>
+<td>
+L
+</td>
+<td>
+O
+</td>
+<td>
+R
+</td>
+<td>
+C
+</td>
+<td>
+Y
+</td>
+<td>
+J
+</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<!-- /wp:table -->
+<!-- wp:paragraph -->
+<p>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:image {"id":628,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large">
+<img src="https://curiosityforever.files.wordpress.com/2020/11/key-generation.jpg?w=726" alt="" class="wp-image-628" />
+</figure>
+<!-- /wp:image -->
+<!-- wp:image {"id":627,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large">
+<img src="https://curiosityforever.files.wordpress.com/2020/11/encryption-and-decryption.jpg?w=708" alt="" class="wp-image-627" />
+</figure>
+<!-- /wp:image -->
+<!-- wp:paragraph -->
+<p>
+<a href="https://github.com/alleynightowl/solitaire-encryption" target="_blank" rel="noreferrer noopener">https://github.com/alleynightowl/solitaire-encryption</a>
+</p>
+<!-- /wp:paragraph -->
+
+</body>
+</html>

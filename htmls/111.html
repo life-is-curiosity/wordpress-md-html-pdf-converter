@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<base href="./" target="_blank">
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+	<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+	<link href="github.css" rel="stylesheet">
+	<style>
+		table {
+			border-collapse:collapse;
+				}
+		figure img {
+			margin: 0 auto;
+			display: table-cell;
+		}
+		figcaption{
+			text-align: center;
+		}
+		p img:not(:nth-child(1)) {
+			margin:0 auto;
+			display: table-cell;
+		}
+	
+
+		img.emoji {
+		   height: 1em;
+		   width: 1em;
+		   margin: 0 .05em 0 .1em;
+		   vertical-align: -0.1em;
+		}
+</style>
+<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.2"></script>
+<script>window.onload = function () { twemoji.parse(document.body);}</script>	
+</head>
+
+<body><h1 id="multiplexing-in-python3">Multiplexing in Python3</h1>
+<p>Date: 2020-11-03 00:11:20</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">
+<strong>What is Multiplexing</strong> <strong>and
+De-multiplexing?</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:image {"id":564,"width":722,"height":361,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized">
+<img src="https://curiosityforever.files.wordpress.com/2020/11/multiplexing-3.png?w=841" alt="" class="wp-image-564" width="722" height="361" />
+</figure>
+<!-- /wp:image -->
+<!-- wp:paragraph -->
+<p>
+Multiplexing is generally representing a concept of transferring
+multiple messages by the same road. By merging the slow road to a faster
+road, can efficiently bring advantage to the usage of the faster road.
+After the data has proceeded when the messages arrive at the destination
+server, we need to use De-multiplexing to the different sources. The
+advantage of multiplexing that includes saving the cost and efficiently
+use the resources for communication.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+Server-side example
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:code -->
+<pre class="wp-block-code"><code>
+import&nbsp;socket
+import&nbsp;queue
+import&nbsp;select
+
+buffer&nbsp;=&nbsp;1024
+available_connections&nbsp;=&nbsp;1000
+server&nbsp;=&nbsp;socket.socket()
+server.bind(('localhost',&nbsp;8888))
+server.listen(available_connections)
+server.setblocking(False)
+message_redirect&nbsp;=&nbsp;{}
+inputs&nbsp;=&nbsp;&#091;server,&nbsp;]
+outputs&nbsp;=&nbsp;&#091;]
+
+
+def&nbsp;add_readable(readable):
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;buffer
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;inputs
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;outputs
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;server
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;message_redirect
+&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;r&nbsp;in&nbsp;readable:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;r&nbsp;is&nbsp;server:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;conn,&nbsp;addr&nbsp;=&nbsp;server.accept()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inputs.append(conn)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;message_redirect&#091;conn]&nbsp;=&nbsp;queue.Queue()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data&nbsp;=&nbsp;r.recv(buffer)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;message_redirect&#091;r].put(data)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;outputs.append(r)
+
+
+def&nbsp;add_writable(writeable):
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;outputs
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;message_redirect
+&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;w&nbsp;in&nbsp;writeable:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data_to_client&nbsp;=&nbsp;message_redirect&#091;w].get()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;w.send(data_to_client)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;outputs.remove(w)
+
+
+def&nbsp;exception_handler():
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;inputs
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;outputs
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;message_redirect
+&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;e&nbsp;in&nbsp;exceptional:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;e&nbsp;in&nbsp;outputs:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;outputs.remove(e)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inputs.remove(e)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;del&nbsp;message_redirect&#091;e]
+
+
+while&nbsp;True:
+&nbsp;&nbsp;&nbsp;&nbsp;readable,&nbsp;writeable,&nbsp;exceptional&nbsp;=&nbsp;select.select(inputs,&nbsp;outputs,&nbsp;inputs)
+&nbsp;&nbsp;&nbsp;&nbsp;add_readable(readable)
+&nbsp;&nbsp;&nbsp;&nbsp;add_writable(writeable)
+&nbsp;&nbsp;&nbsp;&nbsp;exception_handler()
+
+</code></pre>
+<!-- /wp:code -->
+<!-- wp:paragraph -->
+<p>
+Client-side example (Test client)
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:code -->
+<pre class="wp-block-code"><code>
+import&nbsp;socket
+import&nbsp;time
+import&nbsp;socket
+import&nbsp;sys
+
+buffer&nbsp;=&nbsp;1024
+host&nbsp;=&nbsp;'127.0.0.1'
+port&nbsp;=&nbsp;8888
+
+
+def&nbsp;send_msg(sock):
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;buffer
+&nbsp;&nbsp;&nbsp;&nbsp;while&nbsp;True:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sock.send(bytes(str.encode('test')))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;msg&nbsp;=&nbsp;sock.recv(buffer)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(msg.decode('utf-8'))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;time.sleep(2)
+
+
+def&nbsp;main():
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;host
+&nbsp;&nbsp;&nbsp;&nbsp;<em>global</em>&nbsp;port
+&nbsp;&nbsp;&nbsp;&nbsp;with&nbsp;socket.socket(socket.AF_INET,&nbsp;socket.SOCK_STREAM)&nbsp;as&nbsp;sock:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sock.connect((host,&nbsp;port))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;send_msg(sock)
+
+
+if&nbsp;__name__&nbsp;==&nbsp;"__main__":
+&nbsp;&nbsp;&nbsp;&nbsp;main()
+</code></pre>
+<!-- /wp:code -->
+
+</body>
+</html>

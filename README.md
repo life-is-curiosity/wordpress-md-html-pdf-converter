@@ -6,7 +6,7 @@
  - pypandoc
  - pdfkit
 #### OS Level (Windows/Mac/Linux)
- - wkhtmltox
+ - wkhtmltox (also need to be added as env. variable, otherwise the script will throw the error related with wkhtmltox)
 
  ## Procedures
  0. Download XML from wordpress export

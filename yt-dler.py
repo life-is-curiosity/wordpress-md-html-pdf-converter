@@ -11,31 +11,49 @@
 # =============================================================================
 from os import path as ospath
 from pytube import YouTube
+
 CURRENT_HOME = "C:\\Users\\alan9\\OneDrive\\桌面"
-VIDEO_FILE_PATH = ospath.join(CURRENT_HOME, '', '')
-AUDIO_FILE_PATH = ospath.join(CURRENT_HOME, '',  '')
+VIDEO_FILE_PATH = ospath.join(CURRENT_HOME, "", "")
+AUDIO_FILE_PATH = ospath.join(CURRENT_HOME, "", "")
+
 
 def getYTVid(URL):
     """Get Highest Quality Video from YT URL."""
     YT = YouTube(URL)
     try:
         print(f"Downloading Video: {YT.title}")
-        YTVIDEO_FILE_PATH = YT.streams.filter(only_audio=False, progressive=True, file_extension='mp4').order_by('resolution').desc().first().download(VIDEO_FILE_PATH)
+        YTVIDEO_FILE_PATH = (
+            YT.streams.filter(only_audio=False, progressive=True, file_extension="mp4")
+            .order_by("resolution")
+            .desc()
+            .first()
+            .download(VIDEO_FILE_PATH)
+        )
         print(f"Download Video Completed: {YTVIDEO_FILE_PATH}\\n")
     except Exception as e:
         print(f"Error: {e}")
+
 
 def getYTAudio(URL):
     """Get Highest Quality Audio from YT URL."""
     YT = YouTube(URL)
     try:
-        YTAUDIO_FILE_PATH = YT.streams.filter(only_audio=True, file_extension='mp4').order_by('abr').desc().first().download(AUDIO_FILE_PATH)
+        YTAUDIO_FILE_PATH = (
+            YT.streams.filter(only_audio=True, file_extension="mp4")
+            .order_by("abr")
+            .desc()
+            .first()
+            .download(AUDIO_FILE_PATH)
+        )
         print(f"Download Video Completed: {YTAUDIO_FILE_PATH}\n")
     except Exception as e:
         print(f"Error: {e}")
 
-if __name__ == '__main__':
-    links = ["https://www.youtube.com/watch?v=MedrWQe7xn8"]
+
+if __name__ == "__main__":
+    links = [
+        "https://www.youtube.com/watch?v=0NrX1rC-gy8"
+    ]
     for link in links:
         print("Downloading ", link)
         getYTAudio(link)

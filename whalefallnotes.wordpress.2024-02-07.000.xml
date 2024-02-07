@@ -17,17 +17,17 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2024-01-11 17:04"-->
+<!-- generator="WordPress.com" created="2024-02-07 14:22"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>鯨落筆記 Whale Fall Notes</title>
-<link>https://curiosityforever.wordpress.com</link>
-<description>原始佛教 Primitive Buddhism｜道教 Taoism｜古瑜伽 Ancient Yoga｜靈氣 Reiki｜哲學 Philosophy｜軟件工程 Software Engineering</description>
-<pubDate>Thu, 11 Jan 2024 17:04:43 +0000</pubDate>
+<link>http://whalefallnotes.blog</link>
+<description>原始佛教 Pre-sectarian (Original) Buddhism｜道教 Taoism (Daoism)｜古瑜伽 Ancient Yoga｜哲學 Philosophy｜靈氣 Reiki｜軟件工程 Software Engineering</description>
+<pubDate>Wed, 07 Feb 2024 14:22:03 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
-<wp:base_blog_url>https://curiosityforever.wordpress.com</wp:base_blog_url>
+<wp:base_blog_url>http://whalefallnotes.blog</wp:base_blog_url>
 <wp:author>
   <wp:author_id>193014733</wp:author_id>
   <wp:author_login>luciusbright</wp:author_login>
@@ -130,13 +130,13 @@
 <image>
 	<url>https://curiosityforever.files.wordpress.com/2022/10/cropped-92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a.jpeg?w=32</url>
 	<title>鯨落筆記 Whale Fall Notes</title>
-	<link>https://curiosityforever.wordpress.com</link>
+	<link>http://whalefallnotes.blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <item>
   <title><![CDATA[Placeholder Image]]></title>
-  <link>https://curiosityforever.wordpress.com/placeholder-image/</link>
+  <link>http://whalefallnotes.blog/placeholder-image/</link>
   <pubDate>Sun, 13 Sep 2020 14:30:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/d64d2-rosalind-chang-i2hjkaskj68-unsplash.jpg</guid>
@@ -169,7 +169,7 @@
 </item>
 <item>
   <title><![CDATA[Placeholder Image]]></title>
-  <link>https://curiosityforever.wordpress.com/placeholder-image-3/</link>
+  <link>http://whalefallnotes.blog/placeholder-image-3/</link>
   <pubDate>Sun, 13 Sep 2020 14:30:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/7a7e2-jakob-owens-5vei4utoq6m-unsplash.jpg</guid>
@@ -202,7 +202,7 @@
 </item>
 <item>
   <title><![CDATA[Placeholder Image]]></title>
-  <link>https://curiosityforever.wordpress.com/placeholder-image-4/</link>
+  <link>http://whalefallnotes.blog/placeholder-image-4/</link>
   <pubDate>Sun, 13 Sep 2020 14:30:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/d64d2-rosalind-chang-i2hjkaskj68-unsplash-1.jpg</guid>
@@ -235,7 +235,7 @@
 </item>
 <item>
   <title><![CDATA[Placeholder Image]]></title>
-  <link>https://curiosityforever.wordpress.com/placeholder-image-5/</link>
+  <link>http://whalefallnotes.blog/placeholder-image-5/</link>
   <pubDate>Sun, 13 Sep 2020 14:30:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/f79f7-omid-armin-px1g16eufsq-unsplash.jpg</guid>
@@ -268,7 +268,7 @@
 </item>
 <item>
   <title><![CDATA[Placeholder Image]]></title>
-  <link>https://curiosityforever.wordpress.com/placeholder-image-6/</link>
+  <link>http://whalefallnotes.blog/placeholder-image-6/</link>
   <pubDate>Sun, 13 Sep 2020 14:30:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/f79f7-omid-armin-px1g16eufsq-unsplash-1.jpg</guid>
@@ -301,7 +301,7 @@
 </item>
 <item>
   <title><![CDATA[Placeholder Image]]></title>
-  <link>https://curiosityforever.wordpress.com/placeholder-image-7/</link>
+  <link>http://whalefallnotes.blog/placeholder-image-7/</link>
   <pubDate>Sun, 13 Sep 2020 14:30:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/3a542-jakob-owens-hwo_sjignlq-unsplash.jpg</guid>
@@ -334,7 +334,7 @@
 </item>
 <item>
   <title><![CDATA[Placeholder Image]]></title>
-  <link>https://curiosityforever.wordpress.com/placeholder-image-8/</link>
+  <link>http://whalefallnotes.blog/placeholder-image-8/</link>
   <pubDate>Sun, 13 Sep 2020 14:30:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/3a542-jakob-owens-hwo_sjignlq-unsplash-1.jpg</guid>
@@ -367,7 +367,7 @@
 </item>
 <item>
   <title><![CDATA[Placeholder Image]]></title>
-  <link>https://curiosityforever.wordpress.com/placeholder-image-9/</link>
+  <link>http://whalefallnotes.blog/placeholder-image-9/</link>
   <pubDate>Sun, 13 Sep 2020 14:30:43 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/7a7e2-jakob-owens-5vei4utoq6m-unsplash-1.jpg</guid>
@@ -400,7 +400,7 @@
 </item>
 <item>
   <title><![CDATA[Placeholder Image]]></title>
-  <link>https://curiosityforever.wordpress.com/placeholder-image-10/</link>
+  <link>http://whalefallnotes.blog/placeholder-image-10/</link>
   <pubDate>Sun, 13 Sep 2020 14:30:43 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/group-of-person-1472334.jpg</guid>
@@ -433,7 +433,7 @@
 </item>
 <item>
   <title><![CDATA[me]]></title>
-  <link>https://curiosityforever.wordpress.com/me/</link>
+  <link>http://whalefallnotes.blog/me/</link>
   <pubDate>Mon, 14 Sep 2020 12:57:12 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/me.png</guid>
@@ -466,7 +466,7 @@
 </item>
 <item>
   <title><![CDATA[cropped-me.png]]></title>
-  <link>https://curiosityforever.wordpress.com/cropped-me-png/</link>
+  <link>http://whalefallnotes.blog/cropped-me-png/</link>
   <pubDate>Mon, 14 Sep 2020 12:57:24 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.files.wordpress.com/2020/09/cropped-me.png</guid>
@@ -503,7 +503,7 @@
 </item>
 <item>
   <title><![CDATA[stack-call-heap-reference]]></title>
-  <link>https://curiosityforever.wordpress.com/stack-call-heap-reference/</link>
+  <link>http://whalefallnotes.blog/stack-call-heap-reference/</link>
   <pubDate>Mon, 14 Sep 2020 15:27:51 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/stack-call-heap-reference.png</guid>
@@ -536,7 +536,7 @@
 </item>
 <item>
   <title><![CDATA[stack-call-heap-reference-1]]></title>
-  <link>https://curiosityforever.wordpress.com/stack-call-heap-reference-1/</link>
+  <link>http://whalefallnotes.blog/stack-call-heap-reference-1/</link>
   <pubDate>Mon, 14 Sep 2020 15:52:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/stack-call-heap-reference-1.png</guid>
@@ -569,7 +569,7 @@
 </item>
 <item>
   <title><![CDATA[single-window-algorithm]]></title>
-  <link>https://curiosityforever.wordpress.com/single-window-algorithm/</link>
+  <link>http://whalefallnotes.blog/single-window-algorithm/</link>
   <pubDate>Tue, 15 Sep 2020 16:21:52 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/single-window-algorithm.png</guid>
@@ -602,7 +602,7 @@
 </item>
 <item>
   <title><![CDATA[sliding-windows-algorithm]]></title>
-  <link>https://curiosityforever.wordpress.com/sliding-windows-algorithm/</link>
+  <link>http://whalefallnotes.blog/sliding-windows-algorithm/</link>
   <pubDate>Tue, 15 Sep 2020 16:22:08 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/sliding-windows-algorithm.png</guid>
@@ -635,7 +635,7 @@
 </item>
 <item>
   <title><![CDATA[token-bucket-algorithm]]></title>
-  <link>https://curiosityforever.wordpress.com/token-bucket-algorithm/</link>
+  <link>http://whalefallnotes.blog/token-bucket-algorithm/</link>
   <pubDate>Tue, 15 Sep 2020 16:22:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/token-bucket-algorithm.png</guid>
@@ -668,7 +668,7 @@
 </item>
 <item>
   <title><![CDATA[port-forwading-in-python]]></title>
-  <link>https://curiosityforever.wordpress.com/port-forwading-in-python/</link>
+  <link>http://whalefallnotes.blog/port-forwading-in-python/</link>
   <pubDate>Wed, 16 Sep 2020 11:29:59 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/port-forwading-in-python.png</guid>
@@ -701,7 +701,7 @@
 </item>
 <item>
   <title><![CDATA[modulize-coding-style]]></title>
-  <link>https://curiosityforever.wordpress.com/modulize-coding-style/</link>
+  <link>http://whalefallnotes.blog/modulize-coding-style/</link>
   <pubDate>Thu, 24 Sep 2020 14:29:51 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/09/modulize-coding-style.png</guid>
@@ -734,7 +734,7 @@
 </item>
 <item>
   <title><![CDATA[cropped-me-2.png]]></title>
-  <link>https://curiosityforever.wordpress.com/cropped-me-2-png/</link>
+  <link>http://whalefallnotes.blog/cropped-me-2-png/</link>
   <pubDate>Fri, 25 Sep 2020 14:11:34 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.files.wordpress.com/2020/09/cropped-me-2.png</guid>
@@ -771,7 +771,7 @@
 </item>
 <item>
   <title><![CDATA[jones_Nleuy_1200x0]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/10/12/%e6%89%80%e8%ac%82%e5%a0%b1%e6%87%89%ef%bc%8c%e5%8f%af%e8%83%bd%e5%be%9e%e4%b8%8d%e5%ad%98%e5%9c%a8-%e6%96%b0%e8%81%9e%e5%ae%88%e8%ad%b7%e8%80%85/jones_nleuy_1200x0/</link>
+  <link>http://whalefallnotes.blog/2020/10/12/%e6%89%80%e8%ac%82%e5%a0%b1%e6%87%89%ef%bc%8c%e5%8f%af%e8%83%bd%e5%be%9e%e4%b8%8d%e5%ad%98%e5%9c%a8-%e6%96%b0%e8%81%9e%e5%ae%88%e8%ad%b7%e8%80%85/jones_nleuy_1200x0/</link>
   <pubDate>Sun, 11 Oct 2020 17:47:11 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/10/jones_nleuy_1200x0.jpg</guid>
@@ -804,7 +804,7 @@
 </item>
 <item>
   <title><![CDATA[Destruction_of_Leviathan]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/10/12/%e4%b8%8a%e5%b8%9d%e5%b7%b2%e6%ad%bb/destruction_of_leviathan/</link>
+  <link>http://whalefallnotes.blog/2020/10/12/%e4%b8%8a%e5%b8%9d%e5%b7%b2%e6%ad%bb/destruction_of_leviathan/</link>
   <pubDate>Sun, 11 Oct 2020 17:52:17 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/10/destruction_of_leviathan.png</guid>
@@ -837,7 +837,7 @@
 </item>
 <item>
   <title><![CDATA[pexels-photo-327540]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/10/18/%e5%84%aa%e8%b6%8a%e6%84%9f/pexels-photo-327540/</link>
+  <link>http://whalefallnotes.blog/2020/10/18/%e5%84%aa%e8%b6%8a%e6%84%9f/pexels-photo-327540/</link>
   <pubDate>Sun, 18 Oct 2020 09:46:44 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/10/pexels-photo-327540.jpeg</guid>
@@ -870,7 +870,7 @@
 </item>
 <item>
   <title><![CDATA[pexels-cottonbro-3693039]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/10/24/%e6%98%8e%e6%98%8e%e6%98%af%e5%be%9e%e6%9c%aa%e6%93%81%e6%9c%89%e9%81%8e%ef%bc%8c%e7%82%ba%e4%bd%95%e5%8d%bb%e5%83%8f%e7%b6%93%e6%ad%b7%e7%84%a1%e6%95%b8%e6%ac%a1%e5%a4%b1%e5%8e%bb/pexels-cottonbro-3693039/</link>
+  <link>http://whalefallnotes.blog/2020/10/24/%e6%98%8e%e6%98%8e%e6%98%af%e5%be%9e%e6%9c%aa%e6%93%81%e6%9c%89%e9%81%8e%ef%bc%8c%e7%82%ba%e4%bd%95%e5%8d%bb%e5%83%8f%e7%b6%93%e6%ad%b7%e7%84%a1%e6%95%b8%e6%ac%a1%e5%a4%b1%e5%8e%bb/pexels-cottonbro-3693039/</link>
   <pubDate>Sat, 24 Oct 2020 07:55:10 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/10/pexels-cottonbro-3693039.jpg</guid>
@@ -903,7 +903,7 @@
 </item>
 <item>
   <title><![CDATA[websocket-forwarding]]></title>
-  <link>https://curiosityforever.wordpress.com/websocket-forwarding/</link>
+  <link>http://whalefallnotes.blog/websocket-forwarding/</link>
   <pubDate>Sun, 08 Nov 2020 10:59:17 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/11/websocket-forwarding.png</guid>
@@ -936,7 +936,7 @@
 </item>
 <item>
   <title><![CDATA[multiplexing-3]]></title>
-  <link>https://curiosityforever.wordpress.com/multiplexing-3/</link>
+  <link>http://whalefallnotes.blog/multiplexing-3/</link>
   <pubDate>Sun, 08 Nov 2020 11:03:27 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/11/multiplexing-3.png</guid>
@@ -969,7 +969,7 @@
 </item>
 <item>
   <title><![CDATA[shopping-cart]]></title>
-  <link>https://curiosityforever.wordpress.com/?attachment_id=570</link>
+  <link>http://whalefallnotes.blog/?attachment_id=570</link>
   <pubDate>Sun, 08 Nov 2020 13:22:21 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/11/shopping-cart.jpg</guid>
@@ -1002,7 +1002,7 @@
 </item>
 <item>
   <title><![CDATA[havilah-galaxy-B5bsNIdLnf4-unsplash]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/11/11/bug-fixing-and-the-responsibilities-of-coding/havilah-galaxy-b5bsnidlnf4-unsplash/</link>
+  <link>http://whalefallnotes.blog/2020/11/11/bug-fixing-and-the-responsibilities-of-coding/havilah-galaxy-b5bsnidlnf4-unsplash/</link>
   <pubDate>Tue, 10 Nov 2020 17:04:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/11/havilah-galaxy-b5bsnidlnf4-unsplash.jpg</guid>
@@ -1035,7 +1035,7 @@
 </item>
 <item>
   <title><![CDATA[encryption-and-decryption]]></title>
-  <link>https://curiosityforever.wordpress.com/encryption-and-decryption/</link>
+  <link>http://whalefallnotes.blog/encryption-and-decryption/</link>
   <pubDate>Sun, 15 Nov 2020 11:18:27 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/11/encryption-and-decryption.jpg</guid>
@@ -1068,7 +1068,7 @@
 </item>
 <item>
   <title><![CDATA[key-generation]]></title>
-  <link>https://curiosityforever.wordpress.com/key-generation/</link>
+  <link>http://whalefallnotes.blog/key-generation/</link>
   <pubDate>Sun, 15 Nov 2020 11:18:49 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/11/key-generation.jpg</guid>
@@ -1101,7 +1101,7 @@
 </item>
 <item>
   <title><![CDATA[image]]></title>
-  <link>https://curiosityforever.wordpress.com/image/</link>
+  <link>http://whalefallnotes.blog/image/</link>
   <pubDate>Sun, 15 Nov 2020 11:20:01 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/11/image.png</guid>
@@ -1134,7 +1134,7 @@
 </item>
 <item>
   <title><![CDATA[daniel-rykhev-G6wlppP4EN8-unsplash]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/11/15/solitaire-encryption/daniel-rykhev-g6wlppp4en8-unsplash/</link>
+  <link>http://whalefallnotes.blog/2020/11/15/solitaire-encryption/daniel-rykhev-g6wlppp4en8-unsplash/</link>
   <pubDate>Sun, 15 Nov 2020 11:33:07 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/11/daniel-rykhev-g6wlppp4en8-unsplash.jpg</guid>
@@ -1167,7 +1167,7 @@
 </item>
 <item>
   <title><![CDATA[images]]></title>
-  <link>https://curiosityforever.wordpress.com/?attachment_id=663</link>
+  <link>http://whalefallnotes.blog/?attachment_id=663</link>
   <pubDate>Sun, 29 Nov 2020 15:31:47 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2020/11/images.png</guid>
@@ -1200,7 +1200,7 @@
 </item>
 <item>
   <title><![CDATA[v2-aea16b3e407006368f1d05b522a8873f_r]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/13/%e8%ad%af%e6%91%a9%e8%a8%b6%e8%88%ac%e8%8b%a5%e6%b3%a2%e7%be%85%e5%af%86%e5%a4%9a%e5%bf%83%e7%b6%93/v2-aea16b3e407006368f1d05b522a8873f_r/</link>
+  <link>http://whalefallnotes.blog/2023/04/13/%e8%ad%af%e6%91%a9%e8%a8%b6%e8%88%ac%e8%8b%a5%e6%b3%a2%e7%be%85%e5%af%86%e5%a4%9a%e5%bf%83%e7%b6%93/v2-aea16b3e407006368f1d05b522a8873f_r/</link>
   <pubDate>Thu, 18 Feb 2021 00:35:10 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/02/v2-aea16b3e407006368f1d05b522a8873f_r.jpg</guid>
@@ -1233,7 +1233,7 @@
 </item>
 <item>
   <title><![CDATA[4784b7105f9d7468fb98cb1d983b7d3a_715__2]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/28/%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e4%b8%ad%e7%9a%84%e5%9b%a0%e6%9e%9c%e8%88%87%e6%a5%ad%e5%8a%9b/4784b7105f9d7468fb98cb1d983b7d3a_715__2/</link>
+  <link>http://whalefallnotes.blog/2023/03/28/%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e4%b8%ad%e7%9a%84%e5%9b%a0%e6%9e%9c%e8%88%87%e6%a5%ad%e5%8a%9b/4784b7105f9d7468fb98cb1d983b7d3a_715__2/</link>
   <pubDate>Sun, 07 Mar 2021 14:00:09 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/03/4784b7105f9d7468fb98cb1d983b7d3a_715__2.jpg</guid>
@@ -1266,7 +1266,7 @@
 </item>
 <item>
   <title><![CDATA[fire-punch]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/03/16/%e8%ab%96%e6%96%87%e5%8c%96/fire-punch/</link>
+  <link>http://whalefallnotes.blog/2021/03/16/%e8%ab%96%e6%96%87%e5%8c%96/fire-punch/</link>
   <pubDate>Thu, 11 Mar 2021 11:59:03 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/03/fire-punch.jpg</guid>
@@ -1299,7 +1299,7 @@
 </item>
 <item>
   <title><![CDATA[01-33]]></title>
-  <link>https://curiosityforever.wordpress.com/01-33/</link>
+  <link>http://whalefallnotes.blog/01-33/</link>
   <pubDate>Fri, 28 May 2021 06:32:40 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/05/01-33.jpeg</guid>
@@ -1332,7 +1332,7 @@
 </item>
 <item>
   <title><![CDATA[02-60]]></title>
-  <link>https://curiosityforever.wordpress.com/02-60/</link>
+  <link>http://whalefallnotes.blog/02-60/</link>
   <pubDate>Fri, 28 May 2021 06:32:54 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/05/02-60.jpeg</guid>
@@ -1365,7 +1365,7 @@
 </item>
 <item>
   <title><![CDATA[03-26]]></title>
-  <link>https://curiosityforever.wordpress.com/03-26/</link>
+  <link>http://whalefallnotes.blog/03-26/</link>
   <pubDate>Fri, 28 May 2021 06:33:10 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/05/03-26.jpeg</guid>
@@ -1398,7 +1398,7 @@
 </item>
 <item>
   <title><![CDATA[04-29]]></title>
-  <link>https://curiosityforever.wordpress.com/04-29/</link>
+  <link>http://whalefallnotes.blog/04-29/</link>
   <pubDate>Fri, 28 May 2021 06:33:20 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/05/04-29.jpeg</guid>
@@ -1431,7 +1431,7 @@
 </item>
 <item>
   <title><![CDATA[02-60-1]]></title>
-  <link>https://curiosityforever.wordpress.com/02-60-1/</link>
+  <link>http://whalefallnotes.blog/02-60-1/</link>
   <pubDate>Fri, 28 May 2021 06:43:25 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/05/02-60-1.jpeg</guid>
@@ -1464,7 +1464,7 @@
 </item>
 <item>
   <title><![CDATA[03-26-1]]></title>
-  <link>https://curiosityforever.wordpress.com/03-26-1/</link>
+  <link>http://whalefallnotes.blog/03-26-1/</link>
   <pubDate>Fri, 28 May 2021 06:43:28 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/05/03-26-1.jpeg</guid>
@@ -1497,7 +1497,7 @@
 </item>
 <item>
   <title><![CDATA[04-29-1]]></title>
-  <link>https://curiosityforever.wordpress.com/04-29-1/</link>
+  <link>http://whalefallnotes.blog/04-29-1/</link>
   <pubDate>Fri, 28 May 2021 06:43:31 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/05/04-29-1.jpeg</guid>
@@ -1530,7 +1530,7 @@
 </item>
 <item>
   <title><![CDATA[alfons-morales-YLSwjSy7stw-unsplash]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/08/16/%e5%b0%8d%e4%ba%8b%e7%89%a9%e7%9a%84%e8%a9%ae%e9%87%8b%e8%a7%92%e5%ba%a6%e5%95%8f%e9%a1%8c/alfons-morales-ylswjsy7stw-unsplash/</link>
+  <link>http://whalefallnotes.blog/2021/08/16/%e5%b0%8d%e4%ba%8b%e7%89%a9%e7%9a%84%e8%a9%ae%e9%87%8b%e8%a7%92%e5%ba%a6%e5%95%8f%e9%a1%8c/alfons-morales-ylswjsy7stw-unsplash/</link>
   <pubDate>Mon, 16 Aug 2021 07:30:45 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/08/alfons-morales-ylswjsy7stw-unsplash.jpg</guid>
@@ -1563,7 +1563,7 @@
 </item>
 <item>
   <title><![CDATA[Abstract psychedelic patter]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/15/the-relationship-between-emotion-breathing-serotonin-meditation-dmtdimethyltryptamine/abstract-psychedelic-patter/</link>
+  <link>http://whalefallnotes.blog/2023/04/15/the-relationship-between-emotion-breathing-serotonin-meditation-dmtdimethyltryptamine/abstract-psychedelic-patter/</link>
   <pubDate>Wed, 15 Sep 2021 15:00:08 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/09/golden-flower-1.jpg</guid>
@@ -1596,7 +1596,7 @@
 </item>
 <item>
   <title><![CDATA[cropped-golden-flower-1.jpg]]></title>
-  <link>https://curiosityforever.wordpress.com/cropped-golden-flower-1-jpg/</link>
+  <link>http://whalefallnotes.blog/cropped-golden-flower-1-jpg/</link>
   <pubDate>Wed, 15 Sep 2021 15:23:50 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.files.wordpress.com/2021/09/cropped-golden-flower-1.jpg</guid>
@@ -1641,7 +1641,7 @@
 </item>
 <item>
   <title><![CDATA[bayan]]></title>
-  <link>https://curiosityforever.wordpress.com/bayan/</link>
+  <link>http://whalefallnotes.blog/bayan/</link>
   <pubDate>Sun, 10 Oct 2021 12:49:08 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/10/bayan.png</guid>
@@ -1674,7 +1674,7 @@
 </item>
 <item>
   <title><![CDATA[e58a9be58d97e58a88]]></title>
-  <link>https://curiosityforever.wordpress.com/e58a9be58d97e58a88/</link>
+  <link>http://whalefallnotes.blog/e58a9be58d97e58a88/</link>
   <pubDate>Sun, 10 Oct 2021 13:02:30 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/10/e58a9be58d97e58a88.png</guid>
@@ -1707,7 +1707,7 @@
 </item>
 <item>
   <title><![CDATA[balaga]]></title>
-  <link>https://curiosityforever.wordpress.com/balaga/</link>
+  <link>http://whalefallnotes.blog/balaga/</link>
   <pubDate>Sun, 10 Oct 2021 13:19:04 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/10/balaga.png</guid>
@@ -1740,7 +1740,7 @@
 </item>
 <item>
   <title><![CDATA[bayan-1]]></title>
-  <link>https://curiosityforever.wordpress.com/bayan-1/</link>
+  <link>http://whalefallnotes.blog/bayan-1/</link>
   <pubDate>Sun, 10 Oct 2021 13:25:26 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/10/bayan-1.png</guid>
@@ -1773,7 +1773,7 @@
 </item>
 <item>
   <title><![CDATA[my-car-is-read]]></title>
-  <link>https://curiosityforever.wordpress.com/my-car-is-read/</link>
+  <link>http://whalefallnotes.blog/my-car-is-read/</link>
   <pubDate>Sun, 10 Oct 2021 13:29:58 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/10/my-car-is-read.png</guid>
@@ -1806,7 +1806,7 @@
 </item>
 <item>
   <title><![CDATA[metaverse]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/10/30/%e8%99%9b%e6%93%ac%e8%88%87%e7%8f%be%e5%af%a6/metaverse/</link>
+  <link>http://whalefallnotes.blog/2021/10/30/%e8%99%9b%e6%93%ac%e8%88%87%e7%8f%be%e5%af%a6/metaverse/</link>
   <pubDate>Sat, 30 Oct 2021 11:14:49 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/10/metaverse.jpeg</guid>
@@ -1839,7 +1839,7 @@
 </item>
 <item>
   <title><![CDATA[20200224121222-f337eef68a95ce80c2e792302b9d0d71-mobile]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/11/12/%e5%b0%91%e5%b9%b4%e6%b4%be%e7%9a%84%e5%a5%87%e5%b9%bb%e6%bc%82%e6%b5%81%e6%98%af%e4%b8%80%e9%83%a8%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e9%9b%bb%e5%bd%b1/20200224121222-f337eef68a95ce80c2e792302b9d0d71-mobile/</link>
+  <link>http://whalefallnotes.blog/2021/11/12/%e5%b0%91%e5%b9%b4%e6%b4%be%e7%9a%84%e5%a5%87%e5%b9%bb%e6%bc%82%e6%b5%81%e6%98%af%e4%b8%80%e9%83%a8%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e9%9b%bb%e5%bd%b1/20200224121222-f337eef68a95ce80c2e792302b9d0d71-mobile/</link>
   <pubDate>Fri, 12 Nov 2021 08:14:27 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/11/20200224121222-f337eef68a95ce80c2e792302b9d0d71-mobile.jpeg</guid>
@@ -1872,7 +1872,7 @@
 </item>
 <item>
   <title><![CDATA[definition]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/11/29/%e5%bf%ab%e9%80%9f%e8%aa%8d%e7%9f%a5%e4%ba%8b%e7%89%a9%e7%9a%84%e6%9c%ac%e8%b3%aa%e7%9a%84%e6%96%b9%e6%b3%95/definition/</link>
+  <link>http://whalefallnotes.blog/2021/11/29/%e5%bf%ab%e9%80%9f%e8%aa%8d%e7%9f%a5%e4%ba%8b%e7%89%a9%e7%9a%84%e6%9c%ac%e8%b3%aa%e7%9a%84%e6%96%b9%e6%b3%95/definition/</link>
   <pubDate>Mon, 29 Nov 2021 08:27:39 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/11/definition.jpg</guid>
@@ -1905,7 +1905,7 @@
 </item>
 <item>
   <title><![CDATA[dream]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/12/12/%e6%9c%80%e5%be%8c%e6%94%be%e6%a3%84%e6%89%80%e6%9c%89%e8%a7%80%e9%bb%9e%e5%93%b2%e5%ad%b8%e6%80%9d%e6%83%b3%e6%a1%86%e6%9e%b6%e4%bb%a5%e5%8f%8a%e6%97%a2%e5%ae%9a%e7%ab%8b%e5%a0%b4%e6%9c%80%e5%be%8c/dream/</link>
+  <link>http://whalefallnotes.blog/2021/12/12/%e6%9c%80%e5%be%8c%e6%94%be%e6%a3%84%e6%89%80%e6%9c%89%e8%a7%80%e9%bb%9e%e5%93%b2%e5%ad%b8%e6%80%9d%e6%83%b3%e6%a1%86%e6%9e%b6%e4%bb%a5%e5%8f%8a%e6%97%a2%e5%ae%9a%e7%ab%8b%e5%a0%b4%e6%9c%80%e5%be%8c/dream/</link>
   <pubDate>Sun, 12 Dec 2021 12:37:16 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/12/dream.jpeg</guid>
@@ -1938,7 +1938,7 @@
 </item>
 <item>
   <title><![CDATA[six-or-nice]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/12/12/%e6%9c%80%e5%be%8c%e6%94%be%e6%a3%84%e6%89%80%e6%9c%89%e8%a7%80%e9%bb%9e%e5%93%b2%e5%ad%b8%e6%80%9d%e6%83%b3%e6%a1%86%e6%9e%b6%e4%bb%a5%e5%8f%8a%e6%97%a2%e5%ae%9a%e7%ab%8b%e5%a0%b4%e6%9c%80%e5%be%8c/six-or-nice/</link>
+  <link>http://whalefallnotes.blog/2021/12/12/%e6%9c%80%e5%be%8c%e6%94%be%e6%a3%84%e6%89%80%e6%9c%89%e8%a7%80%e9%bb%9e%e5%93%b2%e5%ad%b8%e6%80%9d%e6%83%b3%e6%a1%86%e6%9e%b6%e4%bb%a5%e5%8f%8a%e6%97%a2%e5%ae%9a%e7%ab%8b%e5%a0%b4%e6%9c%80%e5%be%8c/six-or-nice/</link>
   <pubDate>Sun, 12 Dec 2021 13:02:50 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/12/six-or-nice.png</guid>
@@ -1971,7 +1971,7 @@
 </item>
 <item>
   <title><![CDATA[image]]></title>
-  <link>https://curiosityforever.wordpress.com/image-2/</link>
+  <link>http://whalefallnotes.blog/image-2/</link>
   <pubDate>Sun, 12 Dec 2021 13:04:17 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2021/12/image.png</guid>
@@ -2004,7 +2004,7 @@
 </item>
 <item>
   <title><![CDATA[wp-1642592765087]]></title>
-  <link>https://curiosityforever.wordpress.com/wp-1642592765087/</link>
+  <link>http://whalefallnotes.blog/wp-1642592765087/</link>
   <pubDate>Wed, 19 Jan 2022 11:46:06 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/01/wp-1642592765087.jpg</guid>
@@ -2037,7 +2037,7 @@
 </item>
 <item>
   <title><![CDATA[2576_Power-and-authority]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/01/19/%e4%b8%8d%e8%a6%81%e9%9a%a8%e4%be%bf%e5%b0%87%e8%87%aa%e5%b7%b1%e7%9a%84%e6%b1%ba%e5%ae%9a%e6%ac%8a%e4%ba%a4%e7%b5%a6%e6%ac%8a%e5%a8%81/2576_power-and-authority/</link>
+  <link>http://whalefallnotes.blog/2022/01/19/%e4%b8%8d%e8%a6%81%e9%9a%a8%e4%be%bf%e5%b0%87%e8%87%aa%e5%b7%b1%e7%9a%84%e6%b1%ba%e5%ae%9a%e6%ac%8a%e4%ba%a4%e7%b5%a6%e6%ac%8a%e5%a8%81/2576_power-and-authority/</link>
   <pubDate>Wed, 19 Jan 2022 14:52:35 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/01/2576_power-and-authority.jpg</guid>
@@ -2070,7 +2070,7 @@
 </item>
 <item>
   <title><![CDATA[Shutterstock-1354474802_img_750_h]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/02/12/%e5%85%a9%e6%80%a7%e9%97%9c%e4%bf%82%e5%b0%88%e5%ae%b6%e8%88%87%e6%95%99%e6%a2%9d%e4%b8%bb%e7%be%a9/shutterstock-1354474802_img_750_h/</link>
+  <link>http://whalefallnotes.blog/2022/02/12/%e5%85%a9%e6%80%a7%e9%97%9c%e4%bf%82%e5%b0%88%e5%ae%b6%e8%88%87%e6%95%99%e6%a2%9d%e4%b8%bb%e7%be%a9/shutterstock-1354474802_img_750_h/</link>
   <pubDate>Sat, 12 Feb 2022 13:13:24 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/02/shutterstock-1354474802_img_750_h.jpg</guid>
@@ -2103,7 +2103,7 @@
 </item>
 <item>
   <title><![CDATA[w644]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/03/29/medium-in-taiwan/w644/</link>
+  <link>http://whalefallnotes.blog/2022/03/29/medium-in-taiwan/w644/</link>
   <pubDate>Tue, 29 Mar 2022 05:50:30 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/03/w644.jpeg</guid>
@@ -2136,7 +2136,7 @@
 </item>
 <item>
   <title><![CDATA[black_and_white]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/04/16/%e4%b8%96%e7%95%8c%e5%9c%a8%e4%b8%8b%e6%b2%89%ef%bc%8c%e6%88%91%e5%80%91%e5%9c%a8%e7%8b%82%e6%ad%a1-%e6%95%99%e6%a2%9d%e4%b8%bb%e7%be%a9%e7%9a%84%e5%8d%b1%e5%ae%b3/black_and_white/</link>
+  <link>http://whalefallnotes.blog/2022/04/16/%e4%b8%96%e7%95%8c%e5%9c%a8%e4%b8%8b%e6%b2%89%ef%bc%8c%e6%88%91%e5%80%91%e5%9c%a8%e7%8b%82%e6%ad%a1-%e6%95%99%e6%a2%9d%e4%b8%bb%e7%be%a9%e7%9a%84%e5%8d%b1%e5%ae%b3/black_and_white/</link>
   <pubDate>Fri, 15 Apr 2022 18:01:32 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/04/black_and_white.jpeg</guid>
@@ -2169,7 +2169,7 @@
 </item>
 <item>
   <title><![CDATA[Coronavirus disease (COVID-19) outbreak in Beijing]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/coronavirus-disease-covid-19-outbreak-in-beijing/</link>
+  <link>http://whalefallnotes.blog/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/coronavirus-disease-covid-19-outbreak-in-beijing/</link>
   <pubDate>Sat, 16 Apr 2022 09:37:04 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/04/dd881ca95d9c4aaab2d324486252342a.jpg</guid>
@@ -2202,7 +2202,7 @@
 </item>
 <item>
   <title><![CDATA[Screenshot 2022-05-06 at 4.15.46 PM]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/27/common-misconceptions-about-taoist-and-buddhist-religious-and-cultural-concepts/screenshot-2022-05-06-at-4-15-46-pm/</link>
+  <link>http://whalefallnotes.blog/2023/04/27/common-misconceptions-about-taoist-and-buddhist-religious-and-cultural-concepts/screenshot-2022-05-06-at-4-15-46-pm/</link>
   <pubDate>Fri, 06 May 2022 08:15:58 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/05/screenshot-2022-05-06-at-4.15.46-pm.png</guid>
@@ -2235,7 +2235,7 @@
 </item>
 <item>
   <title><![CDATA[background-image-3535807_1280]]></title>
-  <link>https://curiosityforever.wordpress.com/background-image-3535807_1280/</link>
+  <link>http://whalefallnotes.blog/background-image-3535807_1280/</link>
   <pubDate>Fri, 06 May 2022 15:34:05 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/05/background-image-3535807_1280.jpg</guid>
@@ -2276,7 +2276,7 @@
 </item>
 <item>
   <title><![CDATA[20161107-115357_U6077_M215197_7732]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/05/07/%e7%a4%be%e6%9c%83%e6%95%99%e6%a2%9d%e8%88%87%e6%81%90%e6%87%bc/20161107-115357_u6077_m215197_7732/</link>
+  <link>http://whalefallnotes.blog/2022/05/07/%e7%a4%be%e6%9c%83%e6%95%99%e6%a2%9d%e8%88%87%e6%81%90%e6%87%bc/20161107-115357_u6077_m215197_7732/</link>
   <pubDate>Sat, 07 May 2022 17:26:07 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/05/20161107-115357_u6077_m215197_7732.jpg</guid>
@@ -2309,7 +2309,7 @@
 </item>
 <item>
   <title><![CDATA[maxresdefault]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/05/12/%e6%8e%9b%e7%be%8a%e9%a0%ad%e8%b3%a3%e7%8b%97%e8%82%89%ef%bc%8c%e4%b8%8d%e7%9f%a5%e6%89%80%e8%ac%82%ef%bc%8d%e6%9d%8e%e5%b1%85%e6%98%8e%e7%9a%84%e3%80%8a%e5%a4%a7%e5%89%83%e5%ba%a6%e3%80%8b/maxresdefault/</link>
+  <link>http://whalefallnotes.blog/2022/05/12/%e6%8e%9b%e7%be%8a%e9%a0%ad%e8%b3%a3%e7%8b%97%e8%82%89%ef%bc%8c%e4%b8%8d%e7%9f%a5%e6%89%80%e8%ac%82%ef%bc%8d%e6%9d%8e%e5%b1%85%e6%98%8e%e7%9a%84%e3%80%8a%e5%a4%a7%e5%89%83%e5%ba%a6%e3%80%8b/maxresdefault/</link>
   <pubDate>Thu, 12 May 2022 10:26:12 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/05/maxresdefault.jpeg</guid>
@@ -2342,7 +2342,7 @@
 </item>
 <item>
   <title><![CDATA[apigateway-components]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/11/23/api-gateway-in-nodejs/apigateway-components/</link>
+  <link>http://whalefallnotes.blog/2022/11/23/api-gateway-in-nodejs/apigateway-components/</link>
   <pubDate>Sat, 28 May 2022 13:37:11 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/05/apigateway-components.png</guid>
@@ -2375,7 +2375,7 @@
 </item>
 <item>
   <title><![CDATA[apigateway-components]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/11/23/api-gateway-in-nodejs/apigateway-components-2/</link>
+  <link>http://whalefallnotes.blog/2022/11/23/api-gateway-in-nodejs/apigateway-components-2/</link>
   <pubDate>Sat, 28 May 2022 13:37:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/05/apigateway-components-1.png</guid>
@@ -2408,7 +2408,7 @@
 </item>
 <item>
   <title><![CDATA[auth-login-sequence]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/11/23/api-gateway-in-nodejs/auth-login-sequence/</link>
+  <link>http://whalefallnotes.blog/2022/11/23/api-gateway-in-nodejs/auth-login-sequence/</link>
   <pubDate>Sat, 28 May 2022 13:37:40 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/05/auth-login-sequence.png</guid>
@@ -2441,7 +2441,7 @@
 </item>
 <item>
   <title><![CDATA[6136b83ea23607000166a393_1920x1080_fes_v1]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/10/11/%e9%9b%bb%e5%bd%b1the-medium-%e8%ad%af%e5%87%b6%e9%9d%88%e7%a5%ad%e3%80%81%e8%96%a9%e6%bb%bf%e6%88%96%e9%9d%88%e5%aa%92-%e6%b3%b0%e5%9c%8b%e5%b7%ab%e8%a1%93%e5%ae%97%e6%95%99%e6%96%87%e5%8c%96/6136b83ea23607000166a393_1920x1080_fes_v1/</link>
+  <link>http://whalefallnotes.blog/2021/10/11/%e9%9b%bb%e5%bd%b1the-medium-%e8%ad%af%e5%87%b6%e9%9d%88%e7%a5%ad%e3%80%81%e8%96%a9%e6%bb%bf%e6%88%96%e9%9d%88%e5%aa%92-%e6%b3%b0%e5%9c%8b%e5%b7%ab%e8%a1%93%e5%ae%97%e6%95%99%e6%96%87%e5%8c%96/6136b83ea23607000166a393_1920x1080_fes_v1/</link>
   <pubDate>Wed, 08 Jun 2022 13:21:03 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/06/6136b83ea23607000166a393_1920x1080_fes_v1.jpeg</guid>
@@ -2474,7 +2474,7 @@
 </item>
 <item>
   <title><![CDATA[tree]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/10/11/%e9%9b%bb%e5%bd%b1the-medium-%e8%ad%af%e5%87%b6%e9%9d%88%e7%a5%ad%e3%80%81%e8%96%a9%e6%bb%bf%e6%88%96%e9%9d%88%e5%aa%92-%e6%b3%b0%e5%9c%8b%e5%b7%ab%e8%a1%93%e5%ae%97%e6%95%99%e6%96%87%e5%8c%96/tree/</link>
+  <link>http://whalefallnotes.blog/2021/10/11/%e9%9b%bb%e5%bd%b1the-medium-%e8%ad%af%e5%87%b6%e9%9d%88%e7%a5%ad%e3%80%81%e8%96%a9%e6%bb%bf%e6%88%96%e9%9d%88%e5%aa%92-%e6%b3%b0%e5%9c%8b%e5%b7%ab%e8%a1%93%e5%ae%97%e6%95%99%e6%96%87%e5%8c%96/tree/</link>
   <pubDate>Wed, 08 Jun 2022 13:26:11 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/06/tree.jpeg</guid>
@@ -2507,7 +2507,7 @@
 </item>
 <item>
   <title><![CDATA[white-wire]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/10/11/%e9%9b%bb%e5%bd%b1the-medium-%e8%ad%af%e5%87%b6%e9%9d%88%e7%a5%ad%e3%80%81%e8%96%a9%e6%bb%bf%e6%88%96%e9%9d%88%e5%aa%92-%e6%b3%b0%e5%9c%8b%e5%b7%ab%e8%a1%93%e5%ae%97%e6%95%99%e6%96%87%e5%8c%96/white-wire/</link>
+  <link>http://whalefallnotes.blog/2021/10/11/%e9%9b%bb%e5%bd%b1the-medium-%e8%ad%af%e5%87%b6%e9%9d%88%e7%a5%ad%e3%80%81%e8%96%a9%e6%bb%bf%e6%88%96%e9%9d%88%e5%aa%92-%e6%b3%b0%e5%9c%8b%e5%b7%ab%e8%a1%93%e5%ae%97%e6%95%99%e6%96%87%e5%8c%96/white-wire/</link>
   <pubDate>Wed, 08 Jun 2022 13:35:48 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/06/white-wire.jpeg</guid>
@@ -2540,7 +2540,7 @@
 </item>
 <item>
   <title><![CDATA[ckturistando-HTCQCvwV9XY-unsplash]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/06/16/%e4%ba%ba%e7%94%9f%e7%9b%ae%e6%a8%99%e6%98%af%e8%a6%81%e8%bf%bd%e6%b1%82%e6%89%80%e8%ac%82%e5%b9%b8%e7%a6%8f%e5%97%8e%ef%bc%9f/ckturistando-htcqcvwv9xy-unsplash/</link>
+  <link>http://whalefallnotes.blog/2022/06/16/%e4%ba%ba%e7%94%9f%e7%9b%ae%e6%a8%99%e6%98%af%e8%a6%81%e8%bf%bd%e6%b1%82%e6%89%80%e8%ac%82%e5%b9%b8%e7%a6%8f%e5%97%8e%ef%bc%9f/ckturistando-htcqcvwv9xy-unsplash/</link>
   <pubDate>Thu, 16 Jun 2022 12:53:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/06/ckturistando-htcqcvwv9xy-unsplash.jpeg</guid>
@@ -2573,7 +2573,7 @@
 </item>
 <item>
   <title><![CDATA[image]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/06/16/%e4%ba%ba%e7%94%9f%e7%9b%ae%e6%a8%99%e6%98%af%e8%a6%81%e8%bf%bd%e6%b1%82%e6%89%80%e8%ac%82%e5%b9%b8%e7%a6%8f%e5%97%8e%ef%bc%9f/image-3/</link>
+  <link>http://whalefallnotes.blog/2022/06/16/%e4%ba%ba%e7%94%9f%e7%9b%ae%e6%a8%99%e6%98%af%e8%a6%81%e8%bf%bd%e6%b1%82%e6%89%80%e8%ac%82%e5%b9%b8%e7%a6%8f%e5%97%8e%ef%bc%9f/image-3/</link>
   <pubDate>Fri, 17 Jun 2022 12:21:22 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/06/image.png</guid>
@@ -2606,7 +2606,7 @@
 </item>
 <item>
   <title><![CDATA[020719_LS_consciousness_feat-800x430]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/07/28/%e3%80%8c%e9%ac%bc%e5%a3%93%e5%ba%8a%e3%80%8d%e5%85%b6%e5%af%a6%e6%98%af%e4%b8%80%e7%a8%ae%e5%81%b6%e7%84%b6%e9%80%b2%e5%85%a5%e6%b7%b1%e5%b1%a4%e5%86%a5%e6%83%b3%e7%9a%84%e6%84%8f%e8%ad%98%e7%8f%be/020719_ls_consciousness_feat-800x430/</link>
+  <link>http://whalefallnotes.blog/2022/07/28/%e3%80%8c%e9%ac%bc%e5%a3%93%e5%ba%8a%e3%80%8d%e5%85%b6%e5%af%a6%e6%98%af%e4%b8%80%e7%a8%ae%e5%81%b6%e7%84%b6%e9%80%b2%e5%85%a5%e6%b7%b1%e5%b1%a4%e5%86%a5%e6%83%b3%e7%9a%84%e6%84%8f%e8%ad%98%e7%8f%be/020719_ls_consciousness_feat-800x430/</link>
   <pubDate>Wed, 27 Jul 2022 16:47:16 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/07/020719_ls_consciousness_feat-800x430-1.jpeg</guid>
@@ -2639,7 +2639,7 @@
 </item>
 <item>
   <title><![CDATA[0 (1)]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/0-1/</link>
+  <link>http://whalefallnotes.blog/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/0-1/</link>
   <pubDate>Wed, 31 Aug 2022 07:51:36 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/04/0-1.jpeg</guid>
@@ -2672,7 +2672,7 @@
 </item>
 <item>
   <title><![CDATA[0 (2)]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/0-2/</link>
+  <link>http://whalefallnotes.blog/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/0-2/</link>
   <pubDate>Wed, 31 Aug 2022 07:51:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/04/0-2.jpeg</guid>
@@ -2705,7 +2705,7 @@
 </item>
 <item>
   <title><![CDATA[0 (3)]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/0-3/</link>
+  <link>http://whalefallnotes.blog/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/0-3/</link>
   <pubDate>Wed, 31 Aug 2022 07:51:40 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/04/0-3.jpeg</guid>
@@ -2738,7 +2738,7 @@
 </item>
 <item>
   <title><![CDATA[0]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/attachment/0/</link>
+  <link>http://whalefallnotes.blog/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/attachment/0/</link>
   <pubDate>Wed, 31 Aug 2022 07:51:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/04/0.jpeg</guid>
@@ -2771,7 +2771,7 @@
 </item>
 <item>
   <title><![CDATA[image-2]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/image-2-2/</link>
+  <link>http://whalefallnotes.blog/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/image-2-2/</link>
   <pubDate>Wed, 31 Aug 2022 07:52:57 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/08/image-2.png</guid>
@@ -2804,7 +2804,7 @@
 </item>
 <item>
   <title><![CDATA[859DC117C90B8457DD84F7ABC32_3E3A0E2B_D736]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/859dc117c90b8457dd84f7abc32_3e3a0e2b_d736/</link>
+  <link>http://whalefallnotes.blog/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/859dc117c90b8457dd84f7abc32_3e3a0e2b_d736/</link>
   <pubDate>Wed, 31 Aug 2022 08:19:14 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/08/859dc117c90b8457dd84f7abc32_3e3a0e2b_d736.jpeg</guid>
@@ -2837,7 +2837,7 @@
 </item>
 <item>
   <title><![CDATA[Yin_and_Yang_symbol.svg]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/15/the-separation-confrontation-dependence-and-balance-between-philosophy-and-religionunderstanding-of-consciousness-establishes-a-bridge-between-philosophy-and-religion/yin_and_yang_symbol-svg/</link>
+  <link>http://whalefallnotes.blog/2023/04/15/the-separation-confrontation-dependence-and-balance-between-philosophy-and-religionunderstanding-of-consciousness-establishes-a-bridge-between-philosophy-and-religion/yin_and_yang_symbol-svg/</link>
   <pubDate>Thu, 08 Sep 2022 08:43:46 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/09/yin_and_yang_symbol.svg_.png</guid>
@@ -2870,7 +2870,7 @@
 </item>
 <item>
   <title><![CDATA[kakie-priznaki-u-religioznogo-fanatizma]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/10/03/the-evil-caused-by-extreme-goodwill-popularizing-emotional-management-education-can-break-the-cycle-of-human-disasters-in-history/kakie-priznaki-u-religioznogo-fanatizma/</link>
+  <link>http://whalefallnotes.blog/2022/10/03/the-evil-caused-by-extreme-goodwill-popularizing-emotional-management-education-can-break-the-cycle-of-human-disasters-in-history/kakie-priznaki-u-religioznogo-fanatizma/</link>
   <pubDate>Mon, 03 Oct 2022 04:15:07 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/kakie-priznaki-u-religioznogo-fanatizma.jpg</guid>
@@ -2903,7 +2903,7 @@
 </item>
 <item>
   <title><![CDATA[hPgiPNC]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/hpgipnc/</link>
+  <link>http://whalefallnotes.blog/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/hpgipnc/</link>
   <pubDate>Wed, 12 Oct 2022 05:38:29 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/hpgipnc.jpg</guid>
@@ -2936,7 +2936,7 @@
 </item>
 <item>
   <title><![CDATA[image]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/image-4/</link>
+  <link>http://whalefallnotes.blog/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/image-4/</link>
   <pubDate>Sun, 16 Oct 2022 06:43:36 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/image.png</guid>
@@ -2969,7 +2969,7 @@
 </item>
 <item>
   <title><![CDATA[184256g8]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/184256g8/</link>
+  <link>http://whalefallnotes.blog/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/184256g8/</link>
   <pubDate>Sun, 16 Oct 2022 06:45:24 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/184256g8.jpg</guid>
@@ -3002,7 +3002,7 @@
 </item>
 <item>
   <title><![CDATA[20210202006009]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/attachment/20210202006009/</link>
+  <link>http://whalefallnotes.blog/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/attachment/20210202006009/</link>
   <pubDate>Sun, 16 Oct 2022 06:47:21 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/20210202006009.jpg</guid>
@@ -3035,7 +3035,7 @@
 </item>
 <item>
   <title><![CDATA[fake-budda]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/fake-budda/</link>
+  <link>http://whalefallnotes.blog/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/fake-budda/</link>
   <pubDate>Sun, 16 Oct 2022 06:48:32 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/fake-budda.png</guid>
@@ -3068,7 +3068,7 @@
 </item>
 <item>
   <title><![CDATA[92C6129D-FDD8-4CBC-A6EB-61B5C3D82FE6_1_201_a]]></title>
-  <link>https://curiosityforever.wordpress.com/92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a/</link>
+  <link>http://whalefallnotes.blog/92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a/</link>
   <pubDate>Mon, 24 Oct 2022 07:31:13 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a.jpeg</guid>
@@ -3101,7 +3101,7 @@
 </item>
 <item>
   <title><![CDATA[cropped-92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a]]></title>
-  <link>https://curiosityforever.wordpress.com/cropped-92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a/</link>
+  <link>http://whalefallnotes.blog/cropped-92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a/</link>
   <pubDate>Mon, 24 Oct 2022 07:31:20 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/cropped-92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a.jpeg</guid>
@@ -3134,7 +3134,7 @@
 </item>
 <item>
   <title><![CDATA[20190925000055]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/07/11/special-and-unknown-spiritual-and-conscious-phenomena-caused-by-religious-practices/attachment/20190925000055/</link>
+  <link>http://whalefallnotes.blog/2023/07/11/special-and-unknown-spiritual-and-conscious-phenomena-caused-by-religious-practices/attachment/20190925000055/</link>
   <pubDate>Thu, 27 Oct 2022 07:34:58 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/20190925000055.jpg</guid>
@@ -3167,7 +3167,7 @@
 </item>
 <item>
   <title><![CDATA[images_weather]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/10/27/%e5%a4%a9%e6%b0%a3%e8%88%87%e8%85%a6%e5%88%86%e6%b3%8c%ef%bc%9a%e8%bd%89%e5%a4%a9%e6%b0%a3%e6%99%82%e8%a6%81%e9%a1%8d%e5%a4%96%e7%95%99%e6%84%8f%e8%87%aa%e5%b7%b1%e5%92%8c%e8%ba%ab%e9%82%8a%e4%ba%ba/images_weather/</link>
+  <link>http://whalefallnotes.blog/2022/10/27/%e5%a4%a9%e6%b0%a3%e8%88%87%e8%85%a6%e5%88%86%e6%b3%8c%ef%bc%9a%e8%bd%89%e5%a4%a9%e6%b0%a3%e6%99%82%e8%a6%81%e9%a1%8d%e5%a4%96%e7%95%99%e6%84%8f%e8%87%aa%e5%b7%b1%e5%92%8c%e8%ba%ab%e9%82%8a%e4%ba%ba/images_weather/</link>
   <pubDate>Thu, 27 Oct 2022 10:47:26 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/10/images_weather.jpg</guid>
@@ -3200,7 +3200,7 @@
 </item>
 <item>
   <title><![CDATA[137f66b0105443da8a99005d13dbd8a5]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/11/21/%e6%a0%a1%e5%9c%92%e6%ac%ba%e5%87%8c%e6%98%af%e5%8f%af%e4%bb%a5%e5%ae%8c%e5%85%a8%e6%91%a7%e6%af%80%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%ba%e7%94%9f/137f66b0105443da8a99005d13dbd8a5/</link>
+  <link>http://whalefallnotes.blog/2022/11/21/%e6%a0%a1%e5%9c%92%e6%ac%ba%e5%87%8c%e6%98%af%e5%8f%af%e4%bb%a5%e5%ae%8c%e5%85%a8%e6%91%a7%e6%af%80%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%ba%e7%94%9f/137f66b0105443da8a99005d13dbd8a5/</link>
   <pubDate>Sun, 20 Nov 2022 17:12:14 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/11/137f66b0105443da8a99005d13dbd8a5.png</guid>
@@ -3233,7 +3233,7 @@
 </item>
 <item>
   <title><![CDATA[smart]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/22/iq-superstition-the-greatest-difference-between-people-is-not-in-their-intelligence-iq-but-rather-in-their-ability-to-control-their-emotions/smart/</link>
+  <link>http://whalefallnotes.blog/2023/06/22/iq-superstition-the-greatest-difference-between-people-is-not-in-their-intelligence-iq-but-rather-in-their-ability-to-control-their-emotions/smart/</link>
   <pubDate>Fri, 02 Dec 2022 22:07:33 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/smart.jpg</guid>
@@ -3266,7 +3266,7 @@
 </item>
 <item>
   <title><![CDATA[內觀捷徑]]></title>
-  <link>https://curiosityforever.wordpress.com/%e5%85%a7%e8%a7%80%e6%8d%b7%e5%be%91/</link>
+  <link>http://whalefallnotes.blog/%e5%85%a7%e8%a7%80%e6%8d%b7%e5%be%91/</link>
   <pubDate>Sat, 03 Dec 2022 13:47:26 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e585a7e8a780e68db7e5be91.pdf</guid>
@@ -3299,7 +3299,7 @@
 </item>
 <item>
   <title><![CDATA[天台小止觀]]></title>
-  <link>https://curiosityforever.wordpress.com/%e5%a4%a9%e5%8f%b0%e5%b0%8f%e6%ad%a2%e8%a7%80/</link>
+  <link>http://whalefallnotes.blog/%e5%a4%a9%e5%8f%b0%e5%b0%8f%e6%ad%a2%e8%a7%80/</link>
   <pubDate>Sat, 03 Dec 2022 13:47:30 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e5a4a9e58fb0e5b08fe6ada2e8a780.pdf</guid>
@@ -3332,7 +3332,7 @@
 </item>
 <item>
   <title><![CDATA[太乙金華宗旨]]></title>
-  <link>https://curiosityforever.wordpress.com/%e5%a4%aa%e4%b9%99%e9%87%91%e8%8f%af%e5%ae%97%e6%97%a8/</link>
+  <link>http://whalefallnotes.blog/%e5%a4%aa%e4%b9%99%e9%87%91%e8%8f%af%e5%ae%97%e6%97%a8/</link>
   <pubDate>Sat, 03 Dec 2022 13:47:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e5a4aae4b999e98791e88fafe5ae97e697a8.pdf</guid>
@@ -3365,7 +3365,7 @@
 </item>
 <item>
   <title><![CDATA[生活中的禪修]]></title>
-  <link>https://curiosityforever.wordpress.com/%e7%94%9f%e6%b4%bb%e4%b8%ad%e7%9a%84%e7%a6%aa%e4%bf%ae/</link>
+  <link>http://whalefallnotes.blog/%e7%94%9f%e6%b4%bb%e4%b8%ad%e7%9a%84%e7%a6%aa%e4%bf%ae/</link>
   <pubDate>Sat, 03 Dec 2022 13:47:44 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e7949fe6b4bbe4b8ade79a84e7a6aae4bfae.pdf</guid>
@@ -3398,7 +3398,7 @@
 </item>
 <item>
   <title><![CDATA[怀斯曼生存手册图文版]]></title>
-  <link>https://curiosityforever.wordpress.com/%e6%80%80%e6%96%af%e6%9b%bc%e7%94%9f%e5%ad%98%e6%89%8b%e5%86%8c%e5%9b%be%e6%96%87%e7%89%88/</link>
+  <link>http://whalefallnotes.blog/%e6%80%80%e6%96%af%e6%9b%bc%e7%94%9f%e5%ad%98%e6%89%8b%e5%86%8c%e5%9b%be%e6%96%87%e7%89%88/</link>
   <pubDate>Sat, 03 Dec 2022 13:48:28 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e68080e696afe69bbce7949fe5ad98e6898be5868ce59bbee69687e78988.pdf</guid>
@@ -3431,7 +3431,7 @@
 </item>
 <item>
   <title><![CDATA[定慧與「觀看心念」]]></title>
-  <link>https://curiosityforever.wordpress.com/%e5%ae%9a%e6%85%a7%e8%88%87%e3%80%8c%e8%a7%80%e7%9c%8b%e5%bf%83%e5%bf%b5%e3%80%8d/</link>
+  <link>http://whalefallnotes.blog/%e5%ae%9a%e6%85%a7%e8%88%87%e3%80%8c%e8%a7%80%e7%9c%8b%e5%bf%83%e5%bf%b5%e3%80%8d/</link>
   <pubDate>Sat, 03 Dec 2022 13:48:32 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e5ae9ae685a7e88887e3808ce8a780e79c8be5bf83e5bfb5e3808d.pdf</guid>
@@ -3464,7 +3464,7 @@
 </item>
 <item>
   <title><![CDATA[Does assigning NULL really help Garbage Collection?]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/09/15/does-assigning-null-really-help-gc/</link>
+  <link>http://whalefallnotes.blog/2020/09/15/does-assigning-null-really-help-gc/</link>
   <pubDate>Mon, 14 Sep 2020 16:02:03 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=75</guid>
@@ -3640,7 +3640,7 @@ O ... is that so?]]></excerpt:encoded>
 </item>
 <item>
   <title><![CDATA[Rate Limit Algorithms]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/09/16/rate-limit-algorithms/</link>
+  <link>http://whalefallnotes.blog/2020/09/16/rate-limit-algorithms/</link>
   <pubDate>Tue, 15 Sep 2020 16:25:22 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=130</guid>
@@ -3770,7 +3770,7 @@ O ... is that so?]]></excerpt:encoded>
 </item>
 <item>
   <title><![CDATA[TCP Port Forwarding in Python]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/09/17/simple-tcp-port-forwarding-in-python/</link>
+  <link>http://whalefallnotes.blog/2020/09/17/simple-tcp-port-forwarding-in-python/</link>
   <pubDate>Thu, 17 Sep 2020 05:37:32 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=142</guid>
@@ -3994,7 +3994,7 @@ def socket_pipeline(source, sink):
 </item>
 <item>
   <title><![CDATA[Why have we always been making Bugs on the system?]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/09/24/why-have-we-always-been-making-bugs-on-the-system/</link>
+  <link>http://whalefallnotes.blog/2020/09/24/why-have-we-always-been-making-bugs-on-the-system/</link>
   <pubDate>Thu, 24 Sep 2020 14:31:05 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=200</guid>
@@ -4101,7 +4101,7 @@ def socket_pipeline(source, sink):
 </item>
 <item>
   <title><![CDATA[社交禮儀和分寸]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=203</link>
+  <link>http://whalefallnotes.blog/?p=203</link>
   <pubDate>Fri, 18 Sep 2020 07:47:28 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=203</guid>
@@ -4207,7 +4207,7 @@ def socket_pipeline(source, sink):
 </item>
 <item>
   <title><![CDATA[為何很多人在旅行時會比日常生活時更積極?]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=258</link>
+  <link>http://whalefallnotes.blog/?p=258</link>
   <pubDate>Thu, 24 Sep 2020 15:07:40 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=258</guid>
@@ -4252,7 +4252,7 @@ def socket_pipeline(source, sink):
 </item>
 <item>
   <title><![CDATA[上帝已死]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/10/12/%e4%b8%8a%e5%b8%9d%e5%b7%b2%e6%ad%bb/</link>
+  <link>http://whalefallnotes.blog/2020/10/12/%e4%b8%8a%e5%b8%9d%e5%b7%b2%e6%ad%bb/</link>
   <pubDate>Sun, 11 Oct 2020 17:47:46 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=291</guid>
@@ -4327,7 +4327,7 @@ def socket_pipeline(source, sink):
 </item>
 <item>
   <title><![CDATA[所謂報應，可能從不存在 — 新聞守護者]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/10/12/%e6%89%80%e8%ac%82%e5%a0%b1%e6%87%89%ef%bc%8c%e5%8f%af%e8%83%bd%e5%be%9e%e4%b8%8d%e5%ad%98%e5%9c%a8-%e6%96%b0%e8%81%9e%e5%ae%88%e8%ad%b7%e8%80%85/</link>
+  <link>http://whalefallnotes.blog/2020/10/12/%e6%89%80%e8%ac%82%e5%a0%b1%e6%87%89%ef%bc%8c%e5%8f%af%e8%83%bd%e5%be%9e%e4%b8%8d%e5%ad%98%e5%9c%a8-%e6%96%b0%e8%81%9e%e5%ae%88%e8%ad%b7%e8%80%85/</link>
   <pubDate>Sun, 11 Oct 2020 17:32:33 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=301</guid>
@@ -4415,7 +4415,7 @@ def socket_pipeline(source, sink):
 </item>
 <item>
   <title><![CDATA[優越感]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/10/18/%e5%84%aa%e8%b6%8a%e6%84%9f/</link>
+  <link>http://whalefallnotes.blog/2020/10/18/%e5%84%aa%e8%b6%8a%e6%84%9f/</link>
   <pubDate>Sun, 18 Oct 2020 09:40:19 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=354</guid>
@@ -4482,7 +4482,7 @@ def socket_pipeline(source, sink):
 </item>
 <item>
   <title><![CDATA[明明是從未擁有過，為何卻像經歷無數次失去]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/10/24/%e6%98%8e%e6%98%8e%e6%98%af%e5%be%9e%e6%9c%aa%e6%93%81%e6%9c%89%e9%81%8e%ef%bc%8c%e7%82%ba%e4%bd%95%e5%8d%bb%e5%83%8f%e7%b6%93%e6%ad%b7%e7%84%a1%e6%95%b8%e6%ac%a1%e5%a4%b1%e5%8e%bb/</link>
+  <link>http://whalefallnotes.blog/2020/10/24/%e6%98%8e%e6%98%8e%e6%98%af%e5%be%9e%e6%9c%aa%e6%93%81%e6%9c%89%e9%81%8e%ef%bc%8c%e7%82%ba%e4%bd%95%e5%8d%bb%e5%83%8f%e7%b6%93%e6%ad%b7%e7%84%a1%e6%95%b8%e6%ac%a1%e5%a4%b1%e5%8e%bb/</link>
   <pubDate>Sat, 24 Oct 2020 07:51:40 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=402</guid>
@@ -4585,7 +4585,7 @@ def socket_pipeline(source, sink):
 </item>
 <item>
   <title><![CDATA[Multiplexing in Python3]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/11/03/simple-multiplexing-in-python3/</link>
+  <link>http://whalefallnotes.blog/2020/11/03/simple-multiplexing-in-python3/</link>
   <pubDate>Mon, 02 Nov 2020 16:11:20 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=509</guid>
@@ -4749,7 +4749,7 @@ if&nbsp;__name__&nbsp;==&nbsp;"__main__":
 </item>
 <item>
   <title><![CDATA[Inventory control and shopping cart in Java]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=516</link>
+  <link>http://whalefallnotes.blog/?p=516</link>
   <pubDate>Sun, 08 Nov 2020 09:36:10 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=516</guid>
@@ -4832,7 +4832,7 @@ if&nbsp;__name__&nbsp;==&nbsp;"__main__":
 </item>
 <item>
   <title><![CDATA[Websocket Forwarding in NodeJS]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/11/08/web-socket-forwarding-in-javascript/</link>
+  <link>http://whalefallnotes.blog/2020/11/08/web-socket-forwarding-in-javascript/</link>
   <pubDate>Sun, 08 Nov 2020 09:10:40 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=535</guid>
@@ -4999,7 +4999,7 @@ server<em>.</em>listen(19443);
 </item>
 <item>
   <title><![CDATA[Bug Fixing and The Responsibilities of Coding]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/11/11/bug-fixing-and-the-responsibilities-of-coding/</link>
+  <link>http://whalefallnotes.blog/2020/11/11/bug-fixing-and-the-responsibilities-of-coding/</link>
   <pubDate>Tue, 10 Nov 2020 17:01:05 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=582</guid>
@@ -5062,7 +5062,7 @@ server<em>.</em>listen(19443);
 </item>
 <item>
   <title><![CDATA[Solitaire Encryption]]></title>
-  <link>https://curiosityforever.wordpress.com/2020/11/15/solitaire-encryption/</link>
+  <link>http://whalefallnotes.blog/2020/11/15/solitaire-encryption/</link>
   <pubDate>Sun, 15 Nov 2020 11:31:07 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=619</guid>
@@ -5157,7 +5157,7 @@ server<em>.</em>listen(19443);
 </item>
 <item>
   <title><![CDATA[「是但求其愛」]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=643</link>
+  <link>http://whalefallnotes.blog/?p=643</link>
   <pubDate>Sun, 29 Nov 2020 15:32:46 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=643</guid>
@@ -5314,7 +5314,7 @@ https://www.youtube.com/watch?v=bJHCgo85irM
 </item>
 <item>
   <title><![CDATA[世界在下沉，我們在狂歡 The world is sinking, and we are reveling — 教條主義的危害 The dangers of Dogmatism.]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/04/16/%e4%b8%96%e7%95%8c%e5%9c%a8%e4%b8%8b%e6%b2%89%ef%bc%8c%e6%88%91%e5%80%91%e5%9c%a8%e7%8b%82%e6%ad%a1-%e6%95%99%e6%a2%9d%e4%b8%bb%e7%be%a9%e7%9a%84%e5%8d%b1%e5%ae%b3/</link>
+  <link>http://whalefallnotes.blog/2022/04/16/%e4%b8%96%e7%95%8c%e5%9c%a8%e4%b8%8b%e6%b2%89%ef%bc%8c%e6%88%91%e5%80%91%e5%9c%a8%e7%8b%82%e6%ad%a1-%e6%95%99%e6%a2%9d%e4%b8%bb%e7%be%a9%e7%9a%84%e5%8d%b1%e5%ae%b3/</link>
   <pubDate>Fri, 15 Apr 2022 18:01:47 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=680</guid>
@@ -5435,7 +5435,7 @@ https://www.youtube.com/watch?v=bJHCgo85irM
 </item>
 <item>
   <title><![CDATA[原始佛教的本質 The Essence of Primitive Buddhism — 唯一正確摩訶般若波羅密多心經詳解  A detailed and correct explanation of the Heart Sutra of Prajnaparamita]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/13/%e8%ad%af%e6%91%a9%e8%a8%b6%e8%88%ac%e8%8b%a5%e6%b3%a2%e7%be%85%e5%af%86%e5%a4%9a%e5%bf%83%e7%b6%93/</link>
+  <link>http://whalefallnotes.blog/2023/04/13/%e8%ad%af%e6%91%a9%e8%a8%b6%e8%88%ac%e8%8b%a5%e6%b3%a2%e7%be%85%e5%af%86%e5%a4%9a%e5%bf%83%e7%b6%93/</link>
   <pubDate>Thu, 13 Apr 2023 09:02:23 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=689</guid>
@@ -5660,7 +5660,7 @@ Meditation on mindfulness and equanimity can lead people to transcendence and re
 </item>
 <item>
   <title><![CDATA[正確理解原始佛法中的因果與業力 Correctly understanding causality and karma in the Original Buddhism.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/28/%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e4%b8%ad%e7%9a%84%e5%9b%a0%e6%9e%9c%e8%88%87%e6%a5%ad%e5%8a%9b/</link>
+  <link>http://whalefallnotes.blog/2023/03/28/%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e4%b8%ad%e7%9a%84%e5%9b%a0%e6%9e%9c%e8%88%87%e6%a5%ad%e5%8a%9b/</link>
   <pubDate>Mon, 27 Mar 2023 16:23:47 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=789</guid>
@@ -5791,7 +5791,7 @@ Meditation on mindfulness and equanimity can lead people to transcendence and re
 </item>
 <item>
   <title><![CDATA[論文化]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/03/16/%e8%ab%96%e6%96%87%e5%8c%96/</link>
+  <link>http://whalefallnotes.blog/2021/03/16/%e8%ab%96%e6%96%87%e5%8c%96/</link>
   <pubDate>Mon, 15 Mar 2021 16:17:06 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=819</guid>
@@ -5886,7 +5886,7 @@ Meditation on mindfulness and equanimity can lead people to transcendence and re
 </item>
 <item>
   <title><![CDATA[原始佛教的善惡觀念與標準－「做善事不會有好報，做壞事也不會有報應」The concept and standard of "good" and "evil" in original Buddhism - 'Doing good deeds will not bring good rewards, and doing bad deeds will not bring retribution.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/14/the-concept-and-standard-of-good-and-evil-in-original-buddhism-doing-good-deeds-will-not-bring-good-rewards-and-doing-bad-deeds-will-not-bring-retribution/</link>
+  <link>http://whalefallnotes.blog/2023/02/14/the-concept-and-standard-of-good-and-evil-in-original-buddhism-doing-good-deeds-will-not-bring-good-rewards-and-doing-bad-deeds-will-not-bring-retribution/</link>
   <pubDate>Tue, 14 Feb 2023 14:30:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=880</guid>
@@ -6075,7 +6075,7 @@ Meditation on mindfulness and equanimity can lead people to transcendence and re
 </item>
 <item>
   <title><![CDATA[正確禪修 （冥想）態度及方法 Meditation Attitude and Procedures]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=1297</link>
+  <link>http://whalefallnotes.blog/?p=1297</link>
   <pubDate>Thu, 05 Aug 2021 06:11:41 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=1297</guid>
@@ -6308,7 +6308,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 </item>
 <item>
   <title><![CDATA[對事物的詮釋角度問題]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/08/16/%e5%b0%8d%e4%ba%8b%e7%89%a9%e7%9a%84%e8%a9%ae%e9%87%8b%e8%a7%92%e5%ba%a6%e5%95%8f%e9%a1%8c/</link>
+  <link>http://whalefallnotes.blog/2021/08/16/%e5%b0%8d%e4%ba%8b%e7%89%a9%e7%9a%84%e8%a9%ae%e9%87%8b%e8%a7%92%e5%ba%a6%e5%95%8f%e9%a1%8c/</link>
   <pubDate>Mon, 16 Aug 2021 07:30:53 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=1321</guid>
@@ -6383,7 +6383,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 </item>
 <item>
   <title><![CDATA[原始佛法概念中的法是什麼 What is the concept of 'Dharma' in original Buddhism ?]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/08/26/%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e6%a6%82%e5%bf%b5%e4%b8%ad%e7%9a%84%e6%b3%95%e6%98%af%e4%bb%80%e9%ba%bc/</link>
+  <link>http://whalefallnotes.blog/2021/08/26/%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e6%a6%82%e5%bf%b5%e4%b8%ad%e7%9a%84%e6%b3%95%e6%98%af%e4%bb%80%e9%ba%bc/</link>
   <pubDate>Thu, 26 Aug 2021 07:50:15 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=1350</guid>
@@ -6456,7 +6456,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 </item>
 <item>
   <title><![CDATA[情緒與慾望、呼吸、冥想、血清素與二甲基色胺(DMT)之間的關係 The Relationship between Emotions and Desires, Breathing, Serotonin, Meditation, and DMT(Dimethyltryptamine)]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/15/the-relationship-between-emotion-breathing-serotonin-meditation-dmtdimethyltryptamine/</link>
+  <link>http://whalefallnotes.blog/2023/04/15/the-relationship-between-emotion-breathing-serotonin-meditation-dmtdimethyltryptamine/</link>
   <pubDate>Sat, 15 Apr 2023 08:12:40 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=1361</guid>
@@ -6781,7 +6781,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[從來沒有所謂的「孽」  只有原始佛法的「業」]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=1363</link>
+  <link>http://whalefallnotes.blog/?p=1363</link>
   <pubDate>Sun, 29 Aug 2021 20:00:10 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=1363</guid>
@@ -6848,7 +6848,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[電影The Medium (譯凶靈祭、薩滿或靈媒) 泰國巫術宗教文化解釋]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/10/11/%e9%9b%bb%e5%bd%b1the-medium-%e8%ad%af%e5%87%b6%e9%9d%88%e7%a5%ad%e3%80%81%e8%96%a9%e6%bb%bf%e6%88%96%e9%9d%88%e5%aa%92-%e6%b3%b0%e5%9c%8b%e5%b7%ab%e8%a1%93%e5%ae%97%e6%95%99%e6%96%87%e5%8c%96/</link>
+  <link>http://whalefallnotes.blog/2021/10/11/%e9%9b%bb%e5%bd%b1the-medium-%e8%ad%af%e5%87%b6%e9%9d%88%e7%a5%ad%e3%80%81%e8%96%a9%e6%bb%bf%e6%88%96%e9%9d%88%e5%aa%92-%e6%b3%b0%e5%9c%8b%e5%b7%ab%e8%a1%93%e5%ae%97%e6%95%99%e6%96%87%e5%8c%96/</link>
   <pubDate>Sun, 10 Oct 2021 16:10:54 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=1817</guid>
@@ -7059,7 +7059,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[虛擬與現實]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/10/30/%e8%99%9b%e6%93%ac%e8%88%87%e7%8f%be%e5%af%a6/</link>
+  <link>http://whalefallnotes.blog/2021/10/30/%e8%99%9b%e6%93%ac%e8%88%87%e7%8f%be%e5%af%a6/</link>
   <pubDate>Sat, 30 Oct 2021 11:15:02 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=1964</guid>
@@ -7150,7 +7150,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[東方哲學之美  少年派的奇幻漂流]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/11/12/%e5%b0%91%e5%b9%b4%e6%b4%be%e7%9a%84%e5%a5%87%e5%b9%bb%e6%bc%82%e6%b5%81%e6%98%af%e4%b8%80%e9%83%a8%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e9%9b%bb%e5%bd%b1/</link>
+  <link>http://whalefallnotes.blog/2021/11/12/%e5%b0%91%e5%b9%b4%e6%b4%be%e7%9a%84%e5%a5%87%e5%b9%bb%e6%bc%82%e6%b5%81%e6%98%af%e4%b8%80%e9%83%a8%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e9%9b%bb%e5%bd%b1/</link>
   <pubDate>Fri, 12 Nov 2021 05:08:46 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2028</guid>
@@ -7233,7 +7233,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[快速認知事物本質的方法]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/11/29/%e5%bf%ab%e9%80%9f%e8%aa%8d%e7%9f%a5%e4%ba%8b%e7%89%a9%e7%9a%84%e6%9c%ac%e8%b3%aa%e7%9a%84%e6%96%b9%e6%b3%95/</link>
+  <link>http://whalefallnotes.blog/2021/11/29/%e5%bf%ab%e9%80%9f%e8%aa%8d%e7%9f%a5%e4%ba%8b%e7%89%a9%e7%9a%84%e6%9c%ac%e8%b3%aa%e7%9a%84%e6%96%b9%e6%b3%95/</link>
   <pubDate>Mon, 29 Nov 2021 08:27:46 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2186</guid>
@@ -7324,7 +7324,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[最後放棄所有觀點、哲學思想框架以及既定立場，最後真誠地接受自己始終會來到的死亡。這就是生命的「道」。]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/12/12/%e6%9c%80%e5%be%8c%e6%94%be%e6%a3%84%e6%89%80%e6%9c%89%e8%a7%80%e9%bb%9e%e5%93%b2%e5%ad%b8%e6%80%9d%e6%83%b3%e6%a1%86%e6%9e%b6%e4%bb%a5%e5%8f%8a%e6%97%a2%e5%ae%9a%e7%ab%8b%e5%a0%b4%e6%9c%80%e5%be%8c/</link>
+  <link>http://whalefallnotes.blog/2021/12/12/%e6%9c%80%e5%be%8c%e6%94%be%e6%a3%84%e6%89%80%e6%9c%89%e8%a7%80%e9%bb%9e%e5%93%b2%e5%ad%b8%e6%80%9d%e6%83%b3%e6%a1%86%e6%9e%b6%e4%bb%a5%e5%8f%8a%e6%97%a2%e5%ae%9a%e7%ab%8b%e5%a0%b4%e6%9c%80%e5%be%8c/</link>
   <pubDate>Sun, 12 Dec 2021 12:39:04 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2239</guid>
@@ -7449,7 +7449,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[真實原始佛法解析無明與貪愛]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=2322</link>
+  <link>http://whalefallnotes.blog/?p=2322</link>
   <pubDate>Fri, 10 Dec 2021 07:59:54 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2322</guid>
@@ -7500,7 +7500,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[正確原始佛法修行目的與方向－「阿耨多羅三藐三菩提」亦即是「無上正等正覺」The correct purpose and direction of original Buddhist practice is to attain "Anuttara-samyak-sambodhi", which is also known as "supreme perfect enlightenment and equality"]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/21/%e6%ad%a3%e7%a2%ba%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e4%bf%ae%e8%a1%8c%e7%9b%ae%e7%9a%84%e8%88%87%e6%96%b9%e5%90%91%e9%98%bf%e8%80%a8%e5%a4%9a%e7%be%85%e4%b8%89%e8%97%90%e4%b8%89%e8%8f%a9%e6%8f%90/</link>
+  <link>http://whalefallnotes.blog/2023/02/21/%e6%ad%a3%e7%a2%ba%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e4%bf%ae%e8%a1%8c%e7%9b%ae%e7%9a%84%e8%88%87%e6%96%b9%e5%90%91%e9%98%bf%e8%80%a8%e5%a4%9a%e7%be%85%e4%b8%89%e8%97%90%e4%b8%89%e8%8f%a9%e6%8f%90/</link>
   <pubDate>Tue, 21 Feb 2023 06:04:54 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2536</guid>
@@ -7707,7 +7707,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[不要隨便將自己的決定權交給權威]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/01/19/%e4%b8%8d%e8%a6%81%e9%9a%a8%e4%be%bf%e5%b0%87%e8%87%aa%e5%b7%b1%e7%9a%84%e6%b1%ba%e5%ae%9a%e6%ac%8a%e4%ba%a4%e7%b5%a6%e6%ac%8a%e5%a8%81/</link>
+  <link>http://whalefallnotes.blog/2022/01/19/%e4%b8%8d%e8%a6%81%e9%9a%a8%e4%be%bf%e5%b0%87%e8%87%aa%e5%b7%b1%e7%9a%84%e6%b1%ba%e5%ae%9a%e6%ac%8a%e4%ba%a4%e7%b5%a6%e6%ac%8a%e5%a8%81/</link>
   <pubDate>Wed, 19 Jan 2022 14:53:18 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2590</guid>
@@ -7799,7 +7799,7 @@ https://www.youtube.com/watch?v=tybOi4hjZFQ&amp;ab_channel=WimHof
 </item>
 <item>
   <title><![CDATA[菩提即覺當下：普遍對菩提心的錯誤理解 Enlightenment is present awareness in the present moment. Common misunderstandings of the bodhicitta (enlightenment mind).]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/12/30/%e8%8f%a9%e6%8f%90%e5%8d%b3%e8%a6%ba%ef%bc%9a%e5%a4%a7%e4%b9%98%e4%bd%9b%e6%b3%95%e5%b0%8d%e8%8f%a9%e6%8f%90%e5%bf%83%e7%9a%84%e9%8c%af%e8%aa%a4%e7%90%86%e8%a7%a3/</link>
+  <link>http://whalefallnotes.blog/2021/12/30/%e8%8f%a9%e6%8f%90%e5%8d%b3%e8%a6%ba%ef%bc%9a%e5%a4%a7%e4%b9%98%e4%bd%9b%e6%b3%95%e5%b0%8d%e8%8f%a9%e6%8f%90%e5%bf%83%e7%9a%84%e9%8c%af%e8%aa%a4%e7%90%86%e8%a7%a3/</link>
   <pubDate>Thu, 30 Dec 2021 07:23:54 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2593</guid>
@@ -7863,7 +7863,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 </item>
 <item>
   <title><![CDATA[修行不離「定慧」－大乘佛教「悲智雙運」與「福慧雙修」精神完全扭曲原始佛法修行原意]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/21/%e4%bf%ae%e8%a1%8c%e4%b8%8d%e9%9b%a2%e5%ae%9a%e6%85%a7%e5%a4%a7%e4%b9%98%e4%bd%9b%e6%95%99%e6%82%b2%e6%99%ba%e9%9b%99%e9%81%8b%e8%88%87%e7%a6%8f%e6%85%a7%e9%9b%99%e4%bf%ae%e7%b2%be%e7%a5%9e%e5%ae%8c/</link>
+  <link>http://whalefallnotes.blog/2023/02/21/%e4%bf%ae%e8%a1%8c%e4%b8%8d%e9%9b%a2%e5%ae%9a%e6%85%a7%e5%a4%a7%e4%b9%98%e4%bd%9b%e6%95%99%e6%82%b2%e6%99%ba%e9%9b%99%e9%81%8b%e8%88%87%e7%a6%8f%e6%85%a7%e9%9b%99%e4%bf%ae%e7%b2%be%e7%a5%9e%e5%ae%8c/</link>
   <pubDate>Tue, 21 Feb 2023 06:05:12 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2680</guid>
@@ -8001,7 +8001,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 </item>
 <item>
   <title><![CDATA[兩性關係專家與教條主義]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/02/12/%e5%85%a9%e6%80%a7%e9%97%9c%e4%bf%82%e5%b0%88%e5%ae%b6%e8%88%87%e6%95%99%e6%a2%9d%e4%b8%bb%e7%be%a9/</link>
+  <link>http://whalefallnotes.blog/2022/02/12/%e5%85%a9%e6%80%a7%e9%97%9c%e4%bf%82%e5%b0%88%e5%ae%b6%e8%88%87%e6%95%99%e6%a2%9d%e4%b8%bb%e7%be%a9/</link>
   <pubDate>Sat, 12 Feb 2022 13:15:29 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2999</guid>
@@ -8077,7 +8077,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 </item>
 <item>
   <title><![CDATA[台灣宗教文化與乩童]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/03/29/medium-in-taiwan/</link>
+  <link>http://whalefallnotes.blog/2022/03/29/medium-in-taiwan/</link>
   <pubDate>Tue, 29 Mar 2022 05:57:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=3110</guid>
@@ -8190,7 +8190,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 </item>
 <item>
   <title><![CDATA[始於唯物辯證，終於路線鬥爭－「新時代中國特色社會主義」]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/</link>
+  <link>http://whalefallnotes.blog/2022/08/31/%e5%a7%8b%e6%96%bc%e5%94%af%e7%89%a9%e8%be%af%e8%ad%89%ef%bc%8c%e7%b5%82%e6%96%bc%e8%b7%af%e7%b7%9a%e9%ac%a5%e7%88%ad-%e3%80%8c%e5%8b%95%e6%85%8b%e6%b8%85%e9%9b%b6%e3%80%8d/</link>
   <pubDate>Wed, 31 Aug 2022 08:11:13 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=3383</guid>
@@ -8301,7 +8301,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 </item>
 <item>
   <title><![CDATA[Philosophy &amp; Religion 哲學與宗教]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/07/15/3488/</link>
+  <link>http://whalefallnotes.blog/2023/07/15/3488/</link>
   <pubDate>Sat, 16 Apr 2022 18:50:11 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2022/04/17/3488/</guid>
@@ -8370,7 +8370,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 </item>
 <item>
   <title><![CDATA[Life 生活]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/07/15/3489/</link>
+  <link>http://whalefallnotes.blog/2023/07/15/3489/</link>
   <pubDate>Sat, 16 Apr 2022 18:50:13 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2022/04/17/3489/</guid>
@@ -8439,7 +8439,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 </item>
 <item>
   <title><![CDATA[Programming 編程]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/07/15/3492/</link>
+  <link>http://whalefallnotes.blog/2023/07/15/3492/</link>
   <pubDate>Sat, 16 Apr 2022 18:56:44 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2022/04/17/3492/</guid>
@@ -8508,7 +8508,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 </item>
 <item>
   <title><![CDATA[社會教條與恐懼]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/05/07/%e7%a4%be%e6%9c%83%e6%95%99%e6%a2%9d%e8%88%87%e6%81%90%e6%87%bc/</link>
+  <link>http://whalefallnotes.blog/2022/05/07/%e7%a4%be%e6%9c%83%e6%95%99%e6%a2%9d%e8%88%87%e6%81%90%e6%87%bc/</link>
   <pubDate>Sat, 07 May 2022 13:20:23 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=3682</guid>
@@ -8580,7 +8580,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 </item>
 <item>
   <title><![CDATA[掛羊頭賣狗肉，不知所謂－李居明的《大剃度》]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/05/12/%e6%8e%9b%e7%be%8a%e9%a0%ad%e8%b3%a3%e7%8b%97%e8%82%89%ef%bc%8c%e4%b8%8d%e7%9f%a5%e6%89%80%e8%ac%82%ef%bc%8d%e6%9d%8e%e5%b1%85%e6%98%8e%e7%9a%84%e3%80%8a%e5%a4%a7%e5%89%83%e5%ba%a6%e3%80%8b/</link>
+  <link>http://whalefallnotes.blog/2022/05/12/%e6%8e%9b%e7%be%8a%e9%a0%ad%e8%b3%a3%e7%8b%97%e8%82%89%ef%bc%8c%e4%b8%8d%e7%9f%a5%e6%89%80%e8%ac%82%ef%bc%8d%e6%9d%8e%e5%b1%85%e6%98%8e%e7%9a%84%e3%80%8a%e5%a4%a7%e5%89%83%e5%ba%a6%e3%80%8b/</link>
   <pubDate>Thu, 12 May 2022 10:28:11 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=3850</guid>
@@ -8685,7 +8685,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
 </item>
 <item>
   <title><![CDATA[API Gateway in NodeJS]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/11/23/api-gateway-in-nodejs/</link>
+  <link>http://whalefallnotes.blog/2022/11/23/api-gateway-in-nodejs/</link>
   <pubDate>Wed, 23 Nov 2022 12:29:12 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4025</guid>
@@ -8857,7 +8857,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
 </item>
 <item>
   <title><![CDATA[人生目標總是要追求所謂的幸福嗎？]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/06/16/%e4%ba%ba%e7%94%9f%e7%9b%ae%e6%a8%99%e6%98%af%e8%a6%81%e8%bf%bd%e6%b1%82%e6%89%80%e8%ac%82%e5%b9%b8%e7%a6%8f%e5%97%8e%ef%bc%9f/</link>
+  <link>http://whalefallnotes.blog/2022/06/16/%e4%ba%ba%e7%94%9f%e7%9b%ae%e6%a8%99%e6%98%af%e8%a6%81%e8%bf%bd%e6%b1%82%e6%89%80%e8%ac%82%e5%b9%b8%e7%a6%8f%e5%97%8e%ef%bc%9f/</link>
   <pubDate>Thu, 16 Jun 2022 12:53:51 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4071</guid>
@@ -8945,7 +8945,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
 </item>
 <item>
   <title><![CDATA[個人認為唯一可以緩和中國經濟急劇衰退的方法]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=4175</link>
+  <link>http://whalefallnotes.blog/?p=4175</link>
   <pubDate>Thu, 14 Jul 2022 08:48:05 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4175</guid>
@@ -9020,7 +9020,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
 </item>
 <item>
   <title><![CDATA[「鬼壓床」可能是一種偶然進入深層冥想的意識現象]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/07/28/%e3%80%8c%e9%ac%bc%e5%a3%93%e5%ba%8a%e3%80%8d%e5%85%b6%e5%af%a6%e6%98%af%e4%b8%80%e7%a8%ae%e5%81%b6%e7%84%b6%e9%80%b2%e5%85%a5%e6%b7%b1%e5%b1%a4%e5%86%a5%e6%83%b3%e7%9a%84%e6%84%8f%e8%ad%98%e7%8f%be/</link>
+  <link>http://whalefallnotes.blog/2022/07/28/%e3%80%8c%e9%ac%bc%e5%a3%93%e5%ba%8a%e3%80%8d%e5%85%b6%e5%af%a6%e6%98%af%e4%b8%80%e7%a8%ae%e5%81%b6%e7%84%b6%e9%80%b2%e5%85%a5%e6%b7%b1%e5%b1%a4%e5%86%a5%e6%83%b3%e7%9a%84%e6%84%8f%e8%ad%98%e7%8f%be/</link>
   <pubDate>Wed, 27 Jul 2022 16:47:40 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4367</guid>
@@ -9184,7 +9184,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
 </item>
 <item>
   <title><![CDATA[「大道至簡」—禪修就是單純對意識的理解與體會的融合]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/11/06/%e5%a4%a7%e9%81%93%e8%87%b3%e7%b0%a1-%e7%a6%aa%e4%bf%ae%e5%b0%b1%e6%98%af%e5%b0%8d%e6%84%8f%e8%ad%98%e7%9a%84%e7%90%86%e8%a7%a3%e8%88%87%e9%ab%94%e6%9c%83%e7%9a%84%e8%9e%8d%e5%90%88/</link>
+  <link>http://whalefallnotes.blog/2022/11/06/%e5%a4%a7%e9%81%93%e8%87%b3%e7%b0%a1-%e7%a6%aa%e4%bf%ae%e5%b0%b1%e6%98%af%e5%b0%8d%e6%84%8f%e8%ad%98%e7%9a%84%e7%90%86%e8%a7%a3%e8%88%87%e9%ab%94%e6%9c%83%e7%9a%84%e8%9e%8d%e5%90%88/</link>
   <pubDate>Sun, 06 Nov 2022 10:45:00 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4618</guid>
@@ -9314,7 +9314,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
 </item>
 <item>
   <title><![CDATA[哲學與宗教的分別、對峙、依存與平衡 The Separation, Confrontation, Dependence, and Balance between Philosophy and Religion－對意識的了解建立哲學與宗教的橋樑 Understanding of consciousness establishes a bridge between philosophy and religion]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/15/the-separation-confrontation-dependence-and-balance-between-philosophy-and-religionunderstanding-of-consciousness-establishes-a-bridge-between-philosophy-and-religion/</link>
+  <link>http://whalefallnotes.blog/2023/04/15/the-separation-confrontation-dependence-and-balance-between-philosophy-and-religionunderstanding-of-consciousness-establishes-a-bridge-between-philosophy-and-religion/</link>
   <pubDate>Sat, 15 Apr 2023 02:17:16 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4721</guid>
@@ -9485,7 +9485,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
 </item>
 <item>
   <title><![CDATA[佛教信徒盲目祟拜上師現象]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/</link>
+  <link>http://whalefallnotes.blog/2023/02/15/%e4%bd%9b%e6%95%99%e6%9c%89%e9%97%9c%e7%a5%9f%e6%8b%9c%e4%b8%8a%e5%b8%ab%e7%8f%be%e8%b1%a1%e7%9a%84%e8%bf%b7%e6%80%9d/</link>
   <pubDate>Wed, 15 Feb 2023 00:48:29 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4814</guid>
@@ -9632,7 +9632,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
 </item>
 <item>
   <title><![CDATA[極端的「善意」造成的「邪惡」—普及情緒管理教育可以解脫「人禍的歷史循環」The "evil" caused by extreme "goodwill": Popularizing emotional management education can break the cycle of "human disasters" in history]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/10/03/the-evil-caused-by-extreme-goodwill-popularizing-emotional-management-education-can-break-the-cycle-of-human-disasters-in-history/</link>
+  <link>http://whalefallnotes.blog/2022/10/03/the-evil-caused-by-extreme-goodwill-popularizing-emotional-management-education-can-break-the-cycle-of-human-disasters-in-history/</link>
   <pubDate>Mon, 03 Oct 2022 04:15:15 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4819</guid>
@@ -9788,7 +9788,7 @@ On the other hand, when we look at the "human disasters" that have occurred in h
 </item>
 <item>
   <title><![CDATA[原始佛法「無我」的正確理解]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/10/03/%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e3%80%8c%e7%84%a1%e6%88%91%e3%80%8d%e7%9a%84%e6%ad%a3%e7%a2%ba%e7%90%86%e8%a7%a3/</link>
+  <link>http://whalefallnotes.blog/2022/10/03/%e5%8e%9f%e5%a7%8b%e4%bd%9b%e6%b3%95%e3%80%8c%e7%84%a1%e6%88%91%e3%80%8d%e7%9a%84%e6%ad%a3%e7%a2%ba%e7%90%86%e8%a7%a3/</link>
   <pubDate>Mon, 03 Oct 2022 05:58:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4856</guid>
@@ -9869,7 +9869,7 @@ On the other hand, when we look at the "human disasters" that have occurred in h
 </item>
 <item>
   <title><![CDATA[道家高效冥想方法 （Taoist High Efficient Meditation）]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=4960</link>
+  <link>http://whalefallnotes.blog/?p=4960</link>
   <pubDate>Sun, 16 Oct 2022 20:49:05 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4960</guid>
@@ -10027,7 +10027,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[天氣與腦分泌：天氣季節變化時要額外留意自己和身邊人的生心理健康]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/10/27/%e5%a4%a9%e6%b0%a3%e8%88%87%e8%85%a6%e5%88%86%e6%b3%8c%ef%bc%9a%e8%bd%89%e5%a4%a9%e6%b0%a3%e6%99%82%e8%a6%81%e9%a1%8d%e5%a4%96%e7%95%99%e6%84%8f%e8%87%aa%e5%b7%b1%e5%92%8c%e8%ba%ab%e9%82%8a%e4%ba%ba/</link>
+  <link>http://whalefallnotes.blog/2022/10/27/%e5%a4%a9%e6%b0%a3%e8%88%87%e8%85%a6%e5%88%86%e6%b3%8c%ef%bc%9a%e8%bd%89%e5%a4%a9%e6%b0%a3%e6%99%82%e8%a6%81%e9%a1%8d%e5%a4%96%e7%95%99%e6%84%8f%e8%87%aa%e5%b7%b1%e5%92%8c%e8%ba%ab%e9%82%8a%e4%ba%ba/</link>
   <pubDate>Thu, 27 Oct 2022 10:50:46 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5043</guid>
@@ -10094,7 +10094,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[校園欺凌是可以完全摧毀一個人的人生]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/11/21/%e6%a0%a1%e5%9c%92%e6%ac%ba%e5%87%8c%e6%98%af%e5%8f%af%e4%bb%a5%e5%ae%8c%e5%85%a8%e6%91%a7%e6%af%80%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%ba%e7%94%9f/</link>
+  <link>http://whalefallnotes.blog/2022/11/21/%e6%a0%a1%e5%9c%92%e6%ac%ba%e5%87%8c%e6%98%af%e5%8f%af%e4%bb%a5%e5%ae%8c%e5%85%a8%e6%91%a7%e6%af%80%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%ba%e7%94%9f/</link>
   <pubDate>Sun, 20 Nov 2022 17:12:24 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5200</guid>
@@ -10213,7 +10213,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[香乘]]></title>
-  <link>https://curiosityforever.wordpress.com/%e9%a6%99%e4%b9%98/</link>
+  <link>http://whalefallnotes.blog/%e9%a6%99%e4%b9%98/</link>
   <pubDate>Sat, 03 Dec 2022 13:55:19 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e9a699e4b998.pdf</guid>
@@ -10246,7 +10246,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[修練當下的力量]]></title>
-  <link>https://curiosityforever.wordpress.com/%e4%bf%ae%e7%b7%b4%e7%95%b6%e4%b8%8b%e7%9a%84%e5%8a%9b%e9%87%8f/</link>
+  <link>http://whalefallnotes.blog/%e4%bf%ae%e7%b7%b4%e7%95%b6%e4%b8%8b%e7%9a%84%e5%8a%9b%e9%87%8f/</link>
   <pubDate>Sat, 03 Dec 2022 13:55:26 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e4bfaee7b7b4e795b6e4b88be79a84e58a9be9878f.pdf</guid>
@@ -10279,7 +10279,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[冥想方法]]></title>
-  <link>https://curiosityforever.wordpress.com/%e5%86%a5%e6%83%b3%e6%96%b9%e6%b3%95/</link>
+  <link>http://whalefallnotes.blog/%e5%86%a5%e6%83%b3%e6%96%b9%e6%b3%95/</link>
   <pubDate>Sat, 03 Dec 2022 13:55:29 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e586a5e683b3e696b9e6b395.pdf</guid>
@@ -10312,7 +10312,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[陳氏香譜_(四庫全書本)]]></title>
-  <link>https://curiosityforever.wordpress.com/%e9%99%b3%e6%b0%8f%e9%a6%99%e8%ad%9c_%e5%9b%9b%e5%ba%ab%e5%85%a8%e6%9b%b8%e6%9c%ac/</link>
+  <link>http://whalefallnotes.blog/%e9%99%b3%e6%b0%8f%e9%a6%99%e8%ad%9c_%e5%9b%9b%e5%ba%ab%e5%85%a8%e6%9b%b8%e6%9c%ac/</link>
   <pubDate>Sat, 03 Dec 2022 13:55:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e999b3e6b08fe9a699e8ad9c_e59b9be5baabe585a8e69bb8e69cac.pdf</guid>
@@ -10345,7 +10345,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[當下的力量]]></title>
-  <link>https://curiosityforever.wordpress.com/%e7%95%b6%e4%b8%8b%e7%9a%84%e5%8a%9b%e9%87%8f/</link>
+  <link>http://whalefallnotes.blog/%e7%95%b6%e4%b8%8b%e7%9a%84%e5%8a%9b%e9%87%8f/</link>
   <pubDate>Sat, 03 Dec 2022 13:55:44 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e795b6e4b88be79a84e58a9be9878f.pdf</guid>
@@ -10378,7 +10378,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[與神對話1]]></title>
-  <link>https://curiosityforever.wordpress.com/%e8%88%87%e7%a5%9e%e5%b0%8d%e8%a9%b11/</link>
+  <link>http://whalefallnotes.blog/%e8%88%87%e7%a5%9e%e5%b0%8d%e8%a9%b11/</link>
   <pubDate>Sat, 03 Dec 2022 13:55:49 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e88887e7a59ee5b08de8a9b11.pdf</guid>
@@ -10411,7 +10411,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[元神識神第二章]]></title>
-  <link>https://curiosityforever.wordpress.com/%e5%85%83%e7%a5%9e%e8%ad%98%e7%a5%9e%e7%ac%ac%e4%ba%8c%e7%ab%a0/</link>
+  <link>http://whalefallnotes.blog/%e5%85%83%e7%a5%9e%e8%ad%98%e7%a5%9e%e7%ac%ac%e4%ba%8c%e7%ab%a0/</link>
   <pubDate>Sat, 03 Dec 2022 13:56:20 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e58583e7a59ee8ad98e7a59ee7acace4ba8ce7aba0.pdf</guid>
@@ -10444,7 +10444,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[天心第一章]]></title>
-  <link>https://curiosityforever.wordpress.com/%e5%a4%a9%e5%bf%83%e7%ac%ac%e4%b8%80%e7%ab%a0/</link>
+  <link>http://whalefallnotes.blog/%e5%a4%a9%e5%bf%83%e7%ac%ac%e4%b8%80%e7%ab%a0/</link>
   <pubDate>Sat, 03 Dec 2022 13:56:22 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e5a4a9e5bf83e7acace4b880e7aba0.pdf</guid>
@@ -10477,7 +10477,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[回光守中第三章]]></title>
-  <link>https://curiosityforever.wordpress.com/%e5%9b%9e%e5%85%89%e5%ae%88%e4%b8%ad%e7%ac%ac%e4%b8%89%e7%ab%a0/</link>
+  <link>http://whalefallnotes.blog/%e5%9b%9e%e5%85%89%e5%ae%88%e4%b8%ad%e7%ac%ac%e4%b8%89%e7%ab%a0/</link>
   <pubDate>Sat, 03 Dec 2022 13:56:24 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e59b9ee58589e5ae88e4b8ade7acace4b889e7aba0.pdf</guid>
@@ -10510,7 +10510,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[回光調息第四章]]></title>
-  <link>https://curiosityforever.wordpress.com/%e5%9b%9e%e5%85%89%e8%aa%bf%e6%81%af%e7%ac%ac%e5%9b%9b%e7%ab%a0/</link>
+  <link>http://whalefallnotes.blog/%e5%9b%9e%e5%85%89%e8%aa%bf%e6%81%af%e7%ac%ac%e5%9b%9b%e7%ab%a0/</link>
   <pubDate>Sat, 03 Dec 2022 13:56:26 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e59b9ee58589e8aabfe681afe7acace59b9be7aba0.pdf</guid>
@@ -10543,7 +10543,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[迴光差謬第五章]]></title>
-  <link>https://curiosityforever.wordpress.com/%e8%bf%b4%e5%85%89%e5%b7%ae%e8%ac%ac%e7%ac%ac%e4%ba%94%e7%ab%a0/</link>
+  <link>http://whalefallnotes.blog/%e8%bf%b4%e5%85%89%e5%b7%ae%e8%ac%ac%e7%ac%ac%e4%ba%94%e7%ab%a0/</link>
   <pubDate>Sat, 03 Dec 2022 13:56:28 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/e8bfb4e58589e5b7aee8acace7acace4ba94e7aba0.pdf</guid>
@@ -10576,7 +10576,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[人生最大的痛苦是覺得自己沒有選擇]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/12/23/%e4%ba%ba%e7%94%9f%e6%9c%80%e5%a4%a7%e7%9a%84%e7%97%9b%e8%8b%a6%e6%98%af%e8%a6%ba%e5%be%97%e8%87%aa%e5%b7%b1%e6%b2%92%e6%9c%89%e9%81%b8%e6%93%87/</link>
+  <link>http://whalefallnotes.blog/2022/12/23/%e4%ba%ba%e7%94%9f%e6%9c%80%e5%a4%a7%e7%9a%84%e7%97%9b%e8%8b%a6%e6%98%af%e8%a6%ba%e5%be%97%e8%87%aa%e5%b7%b1%e6%b2%92%e6%9c%89%e9%81%b8%e6%93%87/</link>
   <pubDate>Fri, 23 Dec 2022 10:03:52 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5462</guid>
@@ -10679,7 +10679,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[freedom]]></title>
-  <link>https://curiosityforever.wordpress.com/2022/12/23/%e4%ba%ba%e7%94%9f%e6%9c%80%e5%a4%a7%e7%9a%84%e7%97%9b%e8%8b%a6%e6%98%af%e8%a6%ba%e5%be%97%e8%87%aa%e5%b7%b1%e6%b2%92%e6%9c%89%e9%81%b8%e6%93%87/freedom/</link>
+  <link>http://whalefallnotes.blog/2022/12/23/%e4%ba%ba%e7%94%9f%e6%9c%80%e5%a4%a7%e7%9a%84%e7%97%9b%e8%8b%a6%e6%98%af%e8%a6%ba%e5%be%97%e8%87%aa%e5%b7%b1%e6%b2%92%e6%9c%89%e9%81%b8%e6%93%87/freedom/</link>
   <pubDate>Fri, 23 Dec 2022 10:03:37 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2022/12/freedom.jpg</guid>
@@ -10712,7 +10712,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[莊子的無用之用—破除人生只能選擇「成材」的執著]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/30/%e8%8e%8a%e5%ad%90%e7%9a%84%e7%84%a1%e6%9d%90%e4%b9%8b%e7%94%a8-%e7%a0%b4%e9%99%a4%e4%ba%ba%e7%94%9f%e5%8f%aa%e8%83%bd%e9%81%b8%e6%93%87%e3%80%8c%e6%88%90%e6%9d%90%e3%80%8d%e7%9a%84%e5%9f%b7/</link>
+  <link>http://whalefallnotes.blog/2023/01/30/%e8%8e%8a%e5%ad%90%e7%9a%84%e7%84%a1%e6%9d%90%e4%b9%8b%e7%94%a8-%e7%a0%b4%e9%99%a4%e4%ba%ba%e7%94%9f%e5%8f%aa%e8%83%bd%e9%81%b8%e6%93%87%e3%80%8c%e6%88%90%e6%9d%90%e3%80%8d%e7%9a%84%e5%9f%b7/</link>
   <pubDate>Mon, 30 Jan 2023 10:09:05 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5633</guid>
@@ -10836,7 +10836,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[zhongzi2]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/30/%e8%8e%8a%e5%ad%90%e7%9a%84%e7%84%a1%e6%9d%90%e4%b9%8b%e7%94%a8-%e7%a0%b4%e9%99%a4%e4%ba%ba%e7%94%9f%e5%8f%aa%e8%83%bd%e9%81%b8%e6%93%87%e3%80%8c%e6%88%90%e6%9d%90%e3%80%8d%e7%9a%84%e5%9f%b7/zhongzi2/</link>
+  <link>http://whalefallnotes.blog/2023/01/30/%e8%8e%8a%e5%ad%90%e7%9a%84%e7%84%a1%e6%9d%90%e4%b9%8b%e7%94%a8-%e7%a0%b4%e9%99%a4%e4%ba%ba%e7%94%9f%e5%8f%aa%e8%83%bd%e9%81%b8%e6%93%87%e3%80%8c%e6%88%90%e6%9d%90%e3%80%8d%e7%9a%84%e5%9f%b7/zhongzi2/</link>
   <pubDate>Mon, 30 Jan 2023 10:03:04 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/01/zhongzi2.png</guid>
@@ -10869,7 +10869,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
 </item>
 <item>
   <title><![CDATA[莊子 Zhuang Zhou－「坐忘」冥想法 Sitting and Forgetting Meditation]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/23/%e8%8e%8a%e5%ad%90%ef%bc%8d%e5%9d%90%e5%bf%98/</link>
+  <link>http://whalefallnotes.blog/2023/02/23/%e8%8e%8a%e5%ad%90%ef%bc%8d%e5%9d%90%e5%bf%98/</link>
   <pubDate>Thu, 23 Feb 2023 08:19:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5879</guid>
@@ -10960,7 +10960,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[為何有些人總是相信被認為是錯誤的訊息？為何有些人總是和別人的立場不一樣？]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/28/%e7%82%ba%e4%bd%95%e6%9c%89%e4%ba%9b%e4%ba%ba%e7%b8%bd%e6%98%af%e7%9b%b8%e4%bf%a1%e8%a2%ab%e8%aa%8d%e7%82%ba%e6%98%af%e9%8c%af%e8%aa%a4%e7%9a%84%e8%a8%8a%e6%81%af%ef%bc%9f%e7%82%ba%e4%bd%95%e6%9c%89/</link>
+  <link>http://whalefallnotes.blog/2023/02/28/%e7%82%ba%e4%bd%95%e6%9c%89%e4%ba%9b%e4%ba%ba%e7%b8%bd%e6%98%af%e7%9b%b8%e4%bf%a1%e8%a2%ab%e8%aa%8d%e7%82%ba%e6%98%af%e9%8c%af%e8%aa%a4%e7%9a%84%e8%a8%8a%e6%81%af%ef%bc%9f%e7%82%ba%e4%bd%95%e6%9c%89/</link>
   <pubDate>Tue, 28 Feb 2023 09:15:43 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5891</guid>
@@ -11060,7 +11060,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[world-tree]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/02/28/%e7%82%ba%e4%bd%95%e6%9c%89%e4%ba%9b%e4%ba%ba%e7%b8%bd%e6%98%af%e7%9b%b8%e4%bf%a1%e8%a2%ab%e8%aa%8d%e7%82%ba%e6%98%af%e9%8c%af%e8%aa%a4%e7%9a%84%e8%a8%8a%e6%81%af%ef%bc%9f%e7%82%ba%e4%bd%95%e6%9c%89/world-tree/</link>
+  <link>http://whalefallnotes.blog/2023/02/28/%e7%82%ba%e4%bd%95%e6%9c%89%e4%ba%9b%e4%ba%ba%e7%b8%bd%e6%98%af%e7%9b%b8%e4%bf%a1%e8%a2%ab%e8%aa%8d%e7%82%ba%e6%98%af%e9%8c%af%e8%aa%a4%e7%9a%84%e8%a8%8a%e6%81%af%ef%bc%9f%e7%82%ba%e4%bd%95%e6%9c%89/world-tree/</link>
   <pubDate>Tue, 28 Feb 2023 09:20:02 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/02/world-tree.jpg</guid>
@@ -11093,7 +11093,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[「邪教」的本質－完全滿足人們精神需求的專業機構]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/07/%e3%80%8c%e9%82%aa%e6%95%99%e3%80%8d%e7%9a%84%e6%9c%ac%e8%b3%aa%ef%bc%8d%e5%ae%8c%e5%85%a8%e6%bb%bf%e8%b6%b3%e4%ba%ba%e5%80%91%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82%e7%9a%84%e5%b0%88%e6%a5%ad%e6%a9%9f/</link>
+  <link>http://whalefallnotes.blog/2023/03/07/%e3%80%8c%e9%82%aa%e6%95%99%e3%80%8d%e7%9a%84%e6%9c%ac%e8%b3%aa%ef%bc%8d%e5%ae%8c%e5%85%a8%e6%bb%bf%e8%b6%b3%e4%ba%ba%e5%80%91%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82%e7%9a%84%e5%b0%88%e6%a5%ad%e6%a9%9f/</link>
   <pubDate>Tue, 07 Mar 2023 13:47:31 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5997</guid>
@@ -11217,7 +11217,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[cult]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/07/%e3%80%8c%e9%82%aa%e6%95%99%e3%80%8d%e7%9a%84%e6%9c%ac%e8%b3%aa%ef%bc%8d%e5%ae%8c%e5%85%a8%e6%bb%bf%e8%b6%b3%e4%ba%ba%e5%80%91%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82%e7%9a%84%e5%b0%88%e6%a5%ad%e6%a9%9f/cult/</link>
+  <link>http://whalefallnotes.blog/2023/03/07/%e3%80%8c%e9%82%aa%e6%95%99%e3%80%8d%e7%9a%84%e6%9c%ac%e8%b3%aa%ef%bc%8d%e5%ae%8c%e5%85%a8%e6%bb%bf%e8%b6%b3%e4%ba%ba%e5%80%91%e7%b2%be%e7%a5%9e%e9%9c%80%e6%b1%82%e7%9a%84%e5%b0%88%e6%a5%ad%e6%a9%9f/cult/</link>
   <pubDate>Tue, 07 Mar 2023 13:49:05 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/03/cult.jpg</guid>
@@ -11250,7 +11250,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[AI 人工智能取代人類言之尚早]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/</link>
+  <link>http://whalefallnotes.blog/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/</link>
   <pubDate>Sat, 18 Mar 2023 13:55:07 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=6108</guid>
@@ -11413,7 +11413,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[dog2]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/dog2/</link>
+  <link>http://whalefallnotes.blog/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/dog2/</link>
   <pubDate>Sat, 18 Mar 2023 11:03:13 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/03/dog2.png</guid>
@@ -11446,7 +11446,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[dog1]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/dog1/</link>
+  <link>http://whalefallnotes.blog/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/dog1/</link>
   <pubDate>Sat, 18 Mar 2023 11:03:43 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/03/dog1.png</guid>
@@ -11479,7 +11479,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[mhZOHm6]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/mhzohm6/</link>
+  <link>http://whalefallnotes.blog/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/mhzohm6/</link>
   <pubDate>Sun, 19 Mar 2023 12:14:33 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/03/mhzohm6.jpg</guid>
@@ -11512,7 +11512,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[mhzohm6-1]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/mhzohm6-1/</link>
+  <link>http://whalefallnotes.blog/2023/03/18/ai%e5%8f%96%e4%bb%a3%e4%ba%ba%e9%a1%9e%e8%a8%80%e4%b9%8b%e5%b0%9a%e6%97%a9/mhzohm6-1/</link>
   <pubDate>Sun, 19 Mar 2023 12:16:12 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/03/mhzohm6-1.jpg</guid>
@@ -11545,7 +11545,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 </item>
 <item>
   <title><![CDATA[莊子的無我境界 Zhuangzi's state of selflessness－即時高效解決負面情緒問題 Instantly and effectively solve negative emotional problems]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/03/27/%e8%8e%8a%e5%ad%90%e7%9a%84%e7%84%a1%e6%88%91%e5%a2%83%e7%95%8c/</link>
+  <link>http://whalefallnotes.blog/2023/03/27/%e8%8e%8a%e5%ad%90%e7%9a%84%e7%84%a1%e6%88%91%e5%a2%83%e7%95%8c/</link>
   <pubDate>Mon, 27 Mar 2023 13:15:43 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=6292</guid>
@@ -11676,7 +11676,7 @@ In daily life, we often encounter situations that can trigger negative emotions.
 </item>
 <item>
   <title><![CDATA[《太上老君常說清靜經》The Classic of Always Being Pure and Tranquil (Qingjing Jing), Spoken by Laozi of the Highest Clarity－正統原始道教冥想修行之法 The Meditation Method of Authentic Primitive Taoist Practice]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/13/%e3%80%8a%e5%a4%aa%e4%b8%8a%e8%80%81%e5%90%9b%e5%b8%b8%e8%aa%aa%e6%b8%85%e9%9d%9c%e7%b6%93%e3%80%8bthe-classic-of-always-being-pure-and-tranquil-qingjing-jing-spoken-by-laozi-of-the-highest-clarity/</link>
+  <link>http://whalefallnotes.blog/2023/04/13/%e3%80%8a%e5%a4%aa%e4%b8%8a%e8%80%81%e5%90%9b%e5%b8%b8%e8%aa%aa%e6%b8%85%e9%9d%9c%e7%b6%93%e3%80%8bthe-classic-of-always-being-pure-and-tranquil-qingjing-jing-spoken-by-laozi-of-the-highest-clarity/</link>
   <pubDate>Thu, 13 Apr 2023 08:20:52 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=6463</guid>
@@ -11932,7 +11932,7 @@ The correct commentary and detailed explanation of The Classic of Always Being P
 </item>
 <item>
   <title><![CDATA[ｃａｒｌ-jung]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/05/01/until-you-make-the-unconscious-conscious-it-will-direct-your-life-and-you-will-call-it-fate-carl-gustav-jung/%ef%bd%83%ef%bd%81%ef%bd%92%ef%bd%8c-jung/</link>
+  <link>http://whalefallnotes.blog/2023/05/01/until-you-make-the-unconscious-conscious-it-will-direct-your-life-and-you-will-call-it-fate-carl-gustav-jung/%ef%bd%83%ef%bd%81%ef%bd%92%ef%bd%8c-jung/</link>
   <pubDate>Sun, 23 Apr 2023 04:47:58 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/04/efbd83efbd81efbd92efbd8c-jung.jpg</guid>
@@ -11965,7 +11965,7 @@ The correct commentary and detailed explanation of The Classic of Always Being P
 </item>
 <item>
   <title><![CDATA[「天人合一」與唯物主義的敵我矛盾 The contradiction between the "unity of humans and nature" and materialism.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/24/%e3%80%8c%e5%a4%a9%e4%ba%ba%e5%90%88%e4%b8%80%e3%80%8d%e8%88%87%e5%94%af%e7%89%a9%e4%b8%bb%e7%be%a9%e7%9a%84%e6%95%b5%e6%88%91%e7%9f%9b%e7%9b%be-the-contradiction-between-the-unity-of-man-and-nature/</link>
+  <link>http://whalefallnotes.blog/2023/04/24/%e3%80%8c%e5%a4%a9%e4%ba%ba%e5%90%88%e4%b8%80%e3%80%8d%e8%88%87%e5%94%af%e7%89%a9%e4%b8%bb%e7%be%a9%e7%9a%84%e6%95%b5%e6%88%91%e7%9f%9b%e7%9b%be-the-contradiction-between-the-unity-of-man-and-nature/</link>
   <pubDate>Mon, 24 Apr 2023 14:36:32 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=6773</guid>
@@ -12055,7 +12055,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[Monthly Subscription]]></title>
-  <link>https://curiosityforever.wordpress.com/?jp_mem_plan=monthly-subscription</link>
+  <link>http://whalefallnotes.blog/?jp_mem_plan=monthly-subscription</link>
   <pubDate>Mon, 22 May 2023 15:10:26 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?jp_mem_plan=monthly-subscription</guid>
@@ -12119,7 +12119,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[no-exit]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/05/24/the-other-is-hell-the-importance-of-establishing-a-correct-sense-of-self-worth/no-exit/</link>
+  <link>http://whalefallnotes.blog/2023/05/24/the-other-is-hell-the-importance-of-establishing-a-correct-sense-of-self-worth/no-exit/</link>
   <pubDate>Wed, 24 May 2023 08:05:43 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/05/no-exit.jpg</guid>
@@ -12152,7 +12152,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[binary-position]]></title>
-  <link>https://curiosityforever.wordpress.com/binary-position/</link>
+  <link>http://whalefallnotes.blog/binary-position/</link>
   <pubDate>Mon, 05 Jun 2023 11:03:59 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/binary-position.png</guid>
@@ -12185,7 +12185,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[image]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-5/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-5/</link>
   <pubDate>Tue, 06 Jun 2023 07:07:30 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/image.png</guid>
@@ -12218,7 +12218,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[image-1]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-1/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-1/</link>
   <pubDate>Tue, 06 Jun 2023 07:08:33 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/image-1.png</guid>
@@ -12251,7 +12251,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[image-2]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-2-3/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-2-3/</link>
   <pubDate>Tue, 06 Jun 2023 07:15:44 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/image-2.png</guid>
@@ -12284,7 +12284,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[image-3]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-3-2/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-3-2/</link>
   <pubDate>Tue, 06 Jun 2023 07:18:41 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/image-3.png</guid>
@@ -12317,7 +12317,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[image-4]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-4-2/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-4-2/</link>
   <pubDate>Tue, 06 Jun 2023 07:40:39 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/image-4.png</guid>
@@ -12350,7 +12350,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[image-5]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-5-2/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-5-2/</link>
   <pubDate>Tue, 06 Jun 2023 07:55:31 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/image-5.png</guid>
@@ -12383,7 +12383,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[image-6]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-6/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-6/</link>
   <pubDate>Tue, 06 Jun 2023 07:57:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/image-6.png</guid>
@@ -12416,7 +12416,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[image-7]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-7/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-7/</link>
   <pubDate>Tue, 06 Jun 2023 08:03:57 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/image-7.png</guid>
@@ -12449,7 +12449,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[image-8]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-8/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/image-8/</link>
   <pubDate>Tue, 06 Jun 2023 08:10:42 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/06/image-8.png</guid>
@@ -12482,7 +12482,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[通靈]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/07/11/special-and-unknown-spiritual-and-conscious-phenomena-caused-by-religious-practices/%e9%80%9a%e9%9d%88/</link>
+  <link>http://whalefallnotes.blog/2023/07/11/special-and-unknown-spiritual-and-conscious-phenomena-caused-by-religious-practices/%e9%80%9a%e9%9d%88/</link>
   <pubDate>Tue, 11 Jul 2023 13:16:28 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/07/e9809ae99d88.jpg</guid>
@@ -12515,7 +12515,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[personality-splitting]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/10/28/a-summary-of-cases-of-schizophrenia-and-ghost-possession-and-possible-self-help-treatment-plans/personality-splitting/</link>
+  <link>http://whalefallnotes.blog/2023/10/28/a-summary-of-cases-of-schizophrenia-and-ghost-possession-and-self-help-treatment-plans/personality-splitting/</link>
   <pubDate>Sat, 28 Oct 2023 11:49:20 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">http://curiosityforever.files.wordpress.com/2023/10/personality-splitting.jpeg</guid>
@@ -12548,7 +12548,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[所有讓人痛苦的事物必定讓人急速成長]]></title>
-  <link>https://curiosityforever.wordpress.com/?p=8608</link>
+  <link>http://whalefallnotes.blog/?p=8608</link>
   <pubDate/>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=8608</guid>
@@ -12577,7 +12577,7 @@ https://www.youtube.com/watch?v=WQ6y4ExmGE0
 </item>
 <item>
   <title><![CDATA[「躺平主義」與「清靜無為」"Lying-flatism" and "quiet inaction"－對現代社會既定意識形態的反抗，擺脫因「過度的勞動」所導致的思考停滯，清靜寡慾並順應自然 Resisting the established ideology of modern society, breaking free from the mental stagnation caused by "excessive labor", and cultivating a tranquil and contented mind that conforms to nature.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/05/08/lying-flatism-and-quiet-inaction/</link>
+  <link>http://whalefallnotes.blog/2023/05/08/lying-flatism-and-quiet-inaction/</link>
   <pubDate>Mon, 08 May 2023 13:34:40 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=971</guid>
@@ -12790,7 +12790,7 @@ As Zhuangzi said, "Know that you cannot do anything about it and accept it as fa
 </item>
 <item>
   <title><![CDATA[Custom Styles]]></title>
-  <link>https://curiosityforever.wordpress.com/2021/11/20/wp-global-styles-pub%2fbaskerville-2/</link>
+  <link>http://whalefallnotes.blog/2021/11/20/wp-global-styles-pub%2fbaskerville-2/</link>
   <pubDate>Sat, 20 Nov 2021 08:01:13 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=2142</guid>
@@ -12819,7 +12819,7 @@ As Zhuangzi said, "Know that you cannot do anything about it and accept it as fa
 </item>
 <item>
   <title><![CDATA[常見道教與佛教宗教文化概念謬誤 Common misconceptions about Taoist and Buddhist religious and cultural concepts.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/04/27/common-misconceptions-about-taoist-and-buddhist-religious-and-cultural-concepts/</link>
+  <link>http://whalefallnotes.blog/2023/04/27/common-misconceptions-about-taoist-and-buddhist-religious-and-cultural-concepts/</link>
   <pubDate>Thu, 27 Apr 2023 09:38:35 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=3539</guid>
@@ -13094,7 +13094,7 @@ Many of the concepts derived from primitive religions that we hear in various da
 </item>
 <item>
   <title><![CDATA[原始佛法本為「意識學」為何佛法卻常常被誤解成「哲學」或「心靈雞湯」甚至「宗教」Why is it that the original Buddhist teachings, which were meant to be a study of consciousness, are often misunderstood as "philosophy", "inspirational literature", or even "religion"?]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/05/27/why-is-it-that-the-original-buddhist-teachings-which-were-meant-to-be-a-study-of-consciousness-are-often-misunderstood-as-philosophy-inspirational-literature-or-even-religion/</link>
+  <link>http://whalefallnotes.blog/2023/05/27/why-is-it-that-the-original-buddhist-teachings-which-were-meant-to-be-a-study-of-consciousness-are-often-misunderstood-as-philosophy-inspirational-literature-or-even-religion/</link>
   <pubDate>Sat, 27 May 2023 09:40:28 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4202</guid>
@@ -13451,7 +13451,7 @@ Many of the concepts derived from primitive religions that we hear in various da
 </item>
 <item>
   <title><![CDATA[宗教行為所引起的特殊和未知的精神意識現象 Special and Unknown Spiritual and Conscious Phenomena Caused by Religious Practices]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/07/11/special-and-unknown-spiritual-and-conscious-phenomena-caused-by-religious-practices/</link>
+  <link>http://whalefallnotes.blog/2023/07/11/special-and-unknown-spiritual-and-conscious-phenomena-caused-by-religious-practices/</link>
   <pubDate>Tue, 11 Jul 2023 12:50:27 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4345</guid>
@@ -13804,7 +13804,7 @@ In fact, there are many examples of individuals who have directly become mentall
 </item>
 <item>
   <title><![CDATA[所有精神病和情緒慾望的問題本質都是從「潛意識」對「顯意識」的「依附」開始 The root cause of all mental illness and emotional desires lies in the attachment of the subconscious to the conscious mind.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/</link>
+  <link>http://whalefallnotes.blog/2023/06/06/the-root-cause-of-all-mental-illness-and-emotional-desires-lies-in-the-attachment-of-the-subconscious-to-the-conscious-mind/</link>
   <pubDate>Tue, 06 Jun 2023 08:20:29 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4711</guid>
@@ -14282,7 +14282,7 @@ Among the twelve links, all "dependent originations" are subjective feelings a
 </item>
 <item>
   <title><![CDATA[認識禪修冥想的本質和當中可能出現的各種意識訊號 （干擾和副作用）Understanding the essence of meditation and the various conscious signals (interference and side effects) that may arise during the practice.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/07/13/understanding-the-essence-of-meditation-and-the-various-conscious-signals-interference-and-side-effects-that-may-arise-during-the-practice/</link>
+  <link>http://whalefallnotes.blog/2023/07/13/understanding-the-essence-of-meditation-and-the-various-conscious-signals-interference-and-side-effects-that-may-arise-during-the-practice/</link>
   <pubDate>Thu, 13 Jul 2023 10:54:10 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5070</guid>
@@ -14638,7 +14638,7 @@ The correct motivation for Zen meditation is only one, which is to remove the li
 </item>
 <item>
   <title><![CDATA[「智商迷信」—人與人最大的分別不是「聰明（智力）」而是情緒控制能力 "IQ superstition" - The greatest difference between people is not in their "intelligence (IQ)", but rather in their ability to control their emotions.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/22/iq-superstition-the-greatest-difference-between-people-is-not-in-their-intelligence-iq-but-rather-in-their-ability-to-control-their-emotions/</link>
+  <link>http://whalefallnotes.blog/2023/06/22/iq-superstition-the-greatest-difference-between-people-is-not-in-their-intelligence-iq-but-rather-in-their-ability-to-control-their-emotions/</link>
   <pubDate>Wed, 21 Jun 2023 17:21:11 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5325</guid>
@@ -14832,7 +14832,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Custom Styles]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2fupsidedown/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/wp-global-styles-pub%2fupsidedown/</link>
   <pubDate>Sat, 28 Jan 2023 14:34:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2fupsidedown/</guid>
@@ -14861,7 +14861,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Index]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/index/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/index/</link>
   <pubDate>Sat, 28 Jan 2023 14:36:57 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/index/</guid>
@@ -14936,7 +14936,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[header]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/header/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/header/</link>
   <pubDate>Sat, 28 Jan 2023 14:39:16 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/header/</guid>
@@ -14970,7 +14970,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Custom Styles]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2ftwentytwentythree/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/wp-global-styles-pub%2ftwentytwentythree/</link>
   <pubDate>Sat, 28 Jan 2023 14:40:47 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2ftwentytwentythree/</guid>
@@ -14999,7 +14999,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Home]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/home/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/home/</link>
   <pubDate>Sat, 28 Jan 2023 14:41:41 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/home/</guid>
@@ -15083,7 +15083,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Header]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/header/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/header/</link>
   <pubDate>Sat, 28 Jan 2023 14:42:32 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/header/</guid>
@@ -15123,7 +15123,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Custom Styles]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2fdisco/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/wp-global-styles-pub%2fdisco/</link>
   <pubDate>Sat, 28 Jan 2023 14:48:45 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2fdisco/</guid>
@@ -15152,7 +15152,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Index]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/index/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/index/</link>
   <pubDate>Sat, 28 Jan 2023 14:49:37 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/index/</guid>
@@ -15239,7 +15239,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Custom Styles]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2fmasu/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/wp-global-styles-pub%2fmasu/</link>
   <pubDate>Sat, 28 Jan 2023 14:50:57 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2fmasu/</guid>
@@ -15268,7 +15268,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Index]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/index/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/index/</link>
   <pubDate>Sat, 28 Jan 2023 14:54:05 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/index/</guid>
@@ -15327,7 +15327,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[Custom Styles]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2fjackson/</link>
+  <link>http://whalefallnotes.blog/2023/01/28/wp-global-styles-pub%2fjackson/</link>
   <pubDate>Sat, 28 Jan 2023 14:57:01 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/01/28/wp-global-styles-pub%2fjackson/</guid>
@@ -15356,7 +15356,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[人生慣性系統－「青年危機」、「中年危機」渴望打破現有運行軌跡的慣性 Life's Inertia System - The inertia of "Youth Crisis" and "Midlife Crisis" that longs to break the existing trajectory of operation.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/22/lifes-inertia-system-the-inertia-of-youth-crisis-and-midlife-crisis-that-longs-to-break-the-existing-trajectory-of-operation/</link>
+  <link>http://whalefallnotes.blog/2023/06/22/lifes-inertia-system-the-inertia-of-youth-crisis-and-midlife-crisis-that-longs-to-break-the-existing-trajectory-of-operation/</link>
   <pubDate>Wed, 21 Jun 2023 16:55:56 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=6089</guid>
@@ -15447,7 +15447,7 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
 </item>
 <item>
   <title><![CDATA[原始佛教「止觀雙運」(或稱「定慧雙修」）冥想打坐和控制情緒慾望方法詳解 In-depth explanation of the primitive Buddhism's "Samatha-Vipassana" meditation, emotion and desire control]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/05/26/in-depth-explanation-of-the-primitive-buddhisms-samatha-vipassana-meditation-emotion-and-desire-control/</link>
+  <link>http://whalefallnotes.blog/2023/05/26/in-depth-explanation-of-the-primitive-buddhisms-samatha-vipassana-meditation-emotion-and-desire-control/</link>
   <pubDate>Fri, 26 May 2023 15:00:28 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=6240</guid>
@@ -15930,7 +15930,7 @@ This is a detailed "Samatha-Vipassana" meditation. You can further adjust and de
 </item>
 <item>
   <title><![CDATA[所有沒有被覺知到的潛意識都會操控你的人生，而你卻稱其為命運 —榮格 Until you make the unconscious conscious, It will direct your life and you will call it fate - Carl Gustav Jung]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/05/01/until-you-make-the-unconscious-conscious-it-will-direct-your-life-and-you-will-call-it-fate-carl-gustav-jung/</link>
+  <link>http://whalefallnotes.blog/2023/05/01/until-you-make-the-unconscious-conscious-it-will-direct-your-life-and-you-will-call-it-fate-carl-gustav-jung/</link>
   <pubDate>Mon, 01 May 2023 15:47:48 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=6744</guid>
@@ -16082,7 +16082,7 @@ The question of whether humans have free will is not actually a philosophical pr
 </item>
 <item>
   <title><![CDATA[二零二三年五月十二日路過惡鬼國之見聞 Passing through the land of evil spirits on May 12th, 2023, and what was seen and heard]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/05/13/%e4%ba%8c%e9%9b%b6%e4%ba%8c%e4%b8%89%e5%b9%b4%e4%ba%94%e6%9c%88%e5%8d%81%e4%ba%8c%e6%97%a5%e8%b7%af%e9%81%8e%e6%83%a1%e9%ac%bc%e5%9c%8b%e4%b9%8b%e8%a6%8b%e8%81%9e-passing-through-the-land-of-evil-spir/</link>
+  <link>http://whalefallnotes.blog/2023/05/13/%e4%ba%8c%e9%9b%b6%e4%ba%8c%e4%b8%89%e5%b9%b4%e4%ba%94%e6%9c%88%e5%8d%81%e4%ba%8c%e6%97%a5%e8%b7%af%e9%81%8e%e6%83%a1%e9%ac%bc%e5%9c%8b%e4%b9%8b%e8%a6%8b%e8%81%9e-passing-through-the-land-of-evil-spir/</link>
   <pubDate>Sat, 13 May 2023 14:03:11 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=6943</guid>
@@ -16292,7 +16292,7 @@ Therefore, many people who become "malevolent spirits" have a trait of "excessiv
 </item>
 <item>
   <title><![CDATA[避免陷入因對世界的過度好奇而產生的思考消耗與疲勞 Avoid the mental exhaustion and fatigue that comes from being overly curious about the world]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/05/22/%e9%81%bf%e5%85%8d%e9%99%b7%e5%85%a5%e5%9b%a0%e5%b0%8d%e4%b8%96%e7%95%8c%e7%9a%84%e9%81%8e%e5%ba%a6%e5%a5%bd%e5%a5%87%e8%80%8c%e7%94%a2%e7%94%9f%e7%9a%84%e6%80%9d%e8%80%83%e6%b6%88%e8%80%97%e8%88%87/</link>
+  <link>http://whalefallnotes.blog/2023/05/22/%e9%81%bf%e5%85%8d%e9%99%b7%e5%85%a5%e5%9b%a0%e5%b0%8d%e4%b8%96%e7%95%8c%e7%9a%84%e9%81%8e%e5%ba%a6%e5%a5%bd%e5%a5%87%e8%80%8c%e7%94%a2%e7%94%9f%e7%9a%84%e6%80%9d%e8%80%83%e6%b6%88%e8%80%97%e8%88%87/</link>
   <pubDate>Mon, 22 May 2023 15:10:27 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=7069</guid>
@@ -16359,7 +16359,7 @@ To accept that there are many questions that are unknown and cannot be proven.]]
 </item>
 <item>
   <title><![CDATA[常見佛教修行 Q&amp;A Common Q&amp;A on Buddhist Meditation Practice]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/02/common-qa-on-buddhist-meditation-practice/</link>
+  <link>http://whalefallnotes.blog/2023/06/02/common-qa-on-buddhist-meditation-practice/</link>
   <pubDate>Fri, 02 Jun 2023 14:40:43 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=7075</guid>
@@ -16664,7 +16664,7 @@ To accept that there are many questions that are unknown and cannot be proven.]]
 </item>
 <item>
   <title><![CDATA[「他人即地獄」－建立正確自我價值的重要性 "The Other is Hell" - The Importance of Establishing a Correct Sense of Self-Worth]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/05/24/the-other-is-hell-the-importance-of-establishing-a-correct-sense-of-self-worth/</link>
+  <link>http://whalefallnotes.blog/2023/05/24/the-other-is-hell-the-importance-of-establishing-a-correct-sense-of-self-worth/</link>
   <pubDate>Wed, 24 May 2023 08:03:54 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=7148</guid>
@@ -16765,7 +16765,7 @@ In today's society, much of people's anxiety originates from "the other." This i
 </item>
 <item>
   <title><![CDATA[原始佛教「五蘊」其實是指「一切外在與內在的虛假訊息的接收方式」Original Buddhism's "Five Aggregates" actually refer to "the ways of receiving all external and internal false information"]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/01/original-buddhisms-five-aggregates-actually-refer-to-the-ways-of-receiving-all-external-and-internal-false-information/</link>
+  <link>http://whalefallnotes.blog/2023/06/01/original-buddhisms-five-aggregates-actually-refer-to-the-ways-of-receiving-all-external-and-internal-false-information/</link>
   <pubDate>Thu, 01 Jun 2023 12:02:37 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=7579</guid>
@@ -17046,7 +17046,7 @@ Many people are deeply addicted to mysticism and view the mantra at the end of t
 </item>
 <item>
   <title><![CDATA[所有情緒問題既核心原因都是與「無法『專心』」有關 The core reason for all emotional problems is related to the inability to "focus".]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/06/20/the-core-reason-for-all-emotional-problems-is-related-to-the-inability-to-focus/</link>
+  <link>http://whalefallnotes.blog/2023/06/20/the-core-reason-for-all-emotional-problems-is-related-to-the-inability-to-focus/</link>
   <pubDate>Tue, 20 Jun 2023 11:43:43 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=7844</guid>
@@ -17135,7 +17135,7 @@ Many people are deeply addicted to mysticism and view the mantra at the end of t
 </item>
 <item>
   <title><![CDATA[原始道教修行的本質 The essence of original Taoist practice－認知我們都被困在各種對比關係當中，對各種二元特性的思考和觀察建立體會來去除各種對比概念，解除二元的束縛  realizing that we are all trapped in various contrasting relationships, thinking and observing various binary characteristics to establish experience to remove various contrasting concepts and release the bondage of duality.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/07/19/the-essence-of-tao-everyone-lives-in-a-hell-of-binary-comparison-existing-in-various-contrasting-relationships-we-need-to-establish-an-understanding-of-binary-thinking-and-observation-to-eliminate-var/</link>
+  <link>http://whalefallnotes.blog/2023/07/19/the-essence-of-tao-everyone-lives-in-a-hell-of-binary-comparison-existing-in-various-contrasting-relationships-we-need-to-establish-an-understanding-of-binary-thinking-and-observation-to-eliminate-var/</link>
   <pubDate>Wed, 19 Jul 2023 10:08:07 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=7939</guid>
@@ -17318,7 +17318,7 @@ Binary concepts exist under the condition that dichotomies are unified, they ca
 </item>
 <item>
   <title><![CDATA[高敏感族群自救方法 Self-Help Guide for the Highly Sensitive Population－意識上的「高敏感」不但引致很多情緒和身體問題，也會導致很多人際關係問題。The conscious aspect of "high sensitivity" not only leads to many issues in the emotion and body but also contributes to various interpersonal relationship problems.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/08/02/self-help-guide-for-the-highly-sensitive-population-the-conscious-aspect-of-high-sensitivity-not-only-leads-to-many-issues-in-the-emotion-and-body-but-also-contributes-to-various-interpersonal-relatio/</link>
+  <link>http://whalefallnotes.blog/2023/08/02/self-help-guide-for-the-highly-sensitive-population-the-conscious-aspect-of-high-sensitivity-not-only-leads-to-many-issues-in-the-emotion-and-body-but-also-contributes-to-various-interpersonal-relatio/</link>
   <pubDate>Wed, 02 Aug 2023 04:53:25 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=8196</guid>
@@ -17573,7 +17573,7 @@ Many people overlook their own high sensitivity to external stimuli and are unaw
 </item>
 <item>
   <title><![CDATA[自我完善的正確方法－訓練理性思考與感性思考的平衡，培養辨別「真假」的能力，掌握「真實思考」的藝術。The correct methods for self-improvement - training to achieve a balance between rational and emotional thinking, developing the ability to discern "truth and falsehood" and mastering the art of "real thinking".]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/09/25/the-correct-methods-for-self-improvement-training-to-achieve-a-balance-between-rational-and-emotional-thinking-developing-the-ability-to-discern-truth-and-falsehood-and-mastering-the-art-of-real-think/</link>
+  <link>http://whalefallnotes.blog/2023/09/25/the-correct-methods-for-self-improvement-training-to-achieve-a-balance-between-rational-and-emotional-thinking-developing-the-ability-to-discern-truth-and-falsehood-and-mastering-the-art-of-real-think/</link>
   <pubDate>Mon, 25 Sep 2023 08:56:03 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=8279</guid>
@@ -17713,18 +17713,18 @@ Whether one's life is considered "good" is subjective and varies from person to 
   </wp:postmeta>
 </item>
 <item>
-  <title><![CDATA[人格分裂病例與「鬼附」案例研究歸納及其可能的自救治療方案 A summary of cases of Schizophrenia and "Ghost Possession", and possible self-help treatment plans]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/10/28/a-summary-of-cases-of-schizophrenia-and-ghost-possession-and-possible-self-help-treatment-plans/</link>
+  <title><![CDATA[人格分裂病例與「鬼附」案例研究歸納及其自救治療方案 A summary of cases of Schizophrenia and "Ghost Possession", and self-help treatment plans]]></title>
+  <link>http://whalefallnotes.blog/2023/10/28/a-summary-of-cases-of-schizophrenia-and-ghost-possession-and-self-help-treatment-plans/</link>
   <pubDate>Sat, 28 Oct 2023 11:50:53 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=8329</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>以下內容皆來自於經筆者本人親自接觸的人格分裂症病患和聲稱被「鬼附」者。由於這些人格分裂症患者病患和被「鬼附」者所有紀錄之間皆有高度相似性， 所以在此作出詳細歸納並在最後提供一些可能的自救治療方案。</p>
+<p>以下內容皆來歸納於經筆者本人親自接觸，並經由雙方同意自願提供過去病例和接受本人的建議後進行自我治療的人格分裂症病患和聲稱被「鬼附」者。由於這些人格分裂症患者病患和被「鬼附」者所有紀錄之間皆有高度相似性， 所以在此作出詳細歸納並在最後提供一些可能的自救治療方案。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The following content is all from patients with schizophrenia and people who claim to be "possessed by ghosts" that I have personally contacted. Since there is a high degree of similarity between all the records of these patients with schizophrenia and those who are "possessed by ghosts", I will make a detailed summary here and provide some possible self-help treatment options at the end.</p>
+<p>The following content is all summarized from the author’s personal contact, and with the mutual agreement of the parties, voluntarily provided past cases and accepted the author’s advice for self-treatment of schizophrenia patients and those who claim to be possessed by ghosts. Because there is a high degree of similarity between all the records of these schizophrenia patients and those who claim to be ‘possessed by ghosts’, a detailed summary is made here and some possible self-help treatment plans are provided at the end.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -17887,6 +17887,14 @@ Whether one's life is considered "good" is subjective and varies from person to 
 <p>"Serotonin" is the key to subdue the beast in the body, and all foods and behaviors that can produce serotonin can increase the chance of regaining control of the body. To produce serotonin, you need to consume more foods with tryptophan and vitamins B and D, such as milk, bananas, fish, eggs, green tea, etc., as well as get more sun exposure, and focus on some kind of exercise or behavior such as breathing, running, cycling, skipping rope, etc. You can use nutritional supplements, but be careful not to overdose and do not use them with psychiatric drugs. You can consult a doctor or drug expert if you need to.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>另外，薑黃也是被認為是一種提升腦部能力的食品，在古印度吠陀時期也常常被當作日常補充和醫療使用。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In addition, turmeric is also considered a food that enhances brain power and was often used as a daily supplement and for medical use in ancient Vedic times in India.</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">四：家人和朋友等等身邊人的特殊訓練<br>4: Special training for family and friends and other people around.</h4>
 <!-- /wp:heading -->
@@ -17909,18 +17917,66 @@ Whether one's life is considered "good" is subjective and varies from person to 
 
 <!-- wp:paragraph -->
 <p>註: 可以參考坊間ASMR、育兒或動物園馴獸方法<br>Note: You can refer to ASMR, parenting or zoo animal training methods in the market.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[以下內容皆來自於經筆者本人親自接觸的人格分裂症病患和聲稱被「鬼附」者。由於這些人格分裂症患者病患和被「鬼附」者所有紀錄之間皆有高度相似性， 所以在此作出詳細歸納，並在最後提供一些可能的治療方案。
+<!-- /wp:paragraph -->
 
-The following content is all from patients with schizophrenia and people who claim to be "possessed by ghosts" that I have personally contacted. Since there is a high degree of similarity between all the records of these patients with schizophrenia and those who are "possessed by ghosts", I will make a detailed summary here and provide some possible treatment options at the end.]]></excerpt:encoded>
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">五：靜觀到入睡和減少睡眠時間至每天六至七小時<br>5: Meditate until you fall asleep and reduce sleep time to six to seven hours per day.</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>人格患者之間都不謀而合地出現一些渴睡的特徵，隨著睡眠時間越長，其次人格們出現時間和影響也會大大提升。這是因為其他次人格會非常希望主人格常常處於睡眠狀態，在長時間地進入睡眠狀態後主人格會因為對現實的覺知能力降低，而讓次人格們的意識力量增強。所以患者也同時需要減少一些睡眠時間，除了不要睡午覺之餘，在晚上睡覺時間外刻意克服睡意也是一種顯著地提升對次人格的意識力的方法。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Personality disorder patients all coincidentally show some characteristics of sleepiness. As the sleep time gets longer, the appearance time and influence of the sub-personalities will greatly increase. This is because other sub-personalities very much hope that the main personality is often in a state of sleep. After a long time of entering a sleep state, the main personality will reduce its awareness of reality, thereby enhancing the consciousness power of the sub-personalities. Therefore, patients also need to reduce some sleep time. In addition to not taking a nap, deliberately overcoming sleepiness outside the sleeping time at night is also a significant method to enhance the consciousness power of the sub-personalities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>另外用一些靜觀方法，如觀呼吸、數呼吸、內觀身體的感受、專心聆聽重覆性強的白噪音音樂、努力放鬆身體和清空大腦等等，最後在靜觀過程中達至自然入睡。這不但可以提昇睡眠質素，減少因為夢境的精神消耗而失去顯意識對次人格的覺知力，也會讓人有起床後非常舒服清爽， 讓專注力提高。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In addition, use some mindfulness methods, such as observing breathing, counting breaths, introspecting the body’s feelings, focusing on listening to repetitive strong white noise music, striving to relax the body and empty the brain, etc., and finally reach natural sleep in the process of mindfulness. This can not only improve sleep quality, reduce the loss of conscious awareness of sub-personalities due to the mental consumption of dreams, but also make people feel very comfortable and refreshed after waking up, and improve concentration.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">六：透過不斷集中地念頌（或默念）一些短句來提升顯意識集中力 <br>6: Improve the concentration of consciousness by continuously focusing on reciting (or silently reciting) some short sentences.</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>世界各地很多宗教都相信透過不斷念頌後或默念一些短句可以排除所有雜念，並作為其主要修行方式。所以這裡不妨嘗試不斷念頌一些「意義不明的短句」來讓自己集中力提升。如果有佛教宗教信仰或一時沒有什麼想法，也可以借助一些佛教的「梵文心咒」來使用， 但不需要理解所念的短句的實際意思為何。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Many religions around the world believe that by continuously reciting or silently reciting some short sentences, all distractions can be eliminated, and it serves as their main practice. So here, you might want to try continuously reciting some "meaningless short sentences" to improve your concentration. If you have Buddhist religious beliefs or no ideas for a while, you can also use some Buddhist "Sanskrit mantras", but you don’t need to understand the actual meaning of the short sentences you recite.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>念心經、大悲咒等等長篇大論的經文是完全沒有效果的</strong>。而念唱是與呼吸相依，所有發音都必定為在「呼」的情況下被頌唱，所以短句不能多於或少於一個呼的時間，大概六至十二音節為最佳。<strong>另外，念心經、大悲咒等等長篇大論的經文是完全沒有效果的</strong>。另外如果念出的句子對特定神靈帶有某種信仰的祈禱，會較容易看見該宗教神靈的幻象。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Reciting sutras, the Great Compassion Mantra, and other lengthy scriptures have no effect at all. And chanting is dependent on breathing, all pronunciations must be chanted in the "1exhale" situation, so the short sentence cannot be more or less than one exhale time, about six to twelve syllables is the best. Also, reciting sutras, the Great Compassion Mantra, and other lengthy scriptures have no effect at all. In addition, if the sentence you recite carries a certain prayer of faith to a specific deity, it will be easier to see the illusion of the deity of that religion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>這種透過不斷集中地念頌（或默念）的方法，在患者進行自我治療期間功效非常顯著</strong>，而且很快其他次人格會因為顯意識專注力逐漸提高後慢慢消失。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This method of continuously focusing on reciting (or silently reciting) has a very significant effect during the self-treatment period of patients, and soon other sub-personalities will gradually disappear as the concentration of consciousness gradually improves.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[以下內容皆來歸納於經筆者本人親自接觸，並經由雙方同意自願提供過去病例和接受本人的建議後進行自我治療的人格分裂症病患和聲稱被「鬼附」者。由於這些人格分裂症患者病患和被「鬼附」者所有紀錄之間皆有高度相似性， 所以在此作出詳細歸納並在最後提供一些可能的自救治療方案。
+
+The following content is all summarized from the author’s personal contact, and with the mutual agreement of the parties, voluntarily provided past cases and accepted the author’s advice for self-treatment of schizophrenia patients and those who claim to be possessed by ghosts. Because there is a high degree of similarity between all the records of these schizophrenia patients and those who claim to be ‘possessed by ghosts’, a detailed summary is made here and some possible self-help treatment plans are provided at the end.]]></excerpt:encoded>
   <wp:post_id>8329</wp:post_id>
   <wp:post_date>2023-10-28 19:50:53</wp:post_date>
   <wp:post_date_gmt>2023-10-28 11:50:53</wp:post_date_gmt>
-  <wp:post_modified>2023-10-28 19:54:25</wp:post_modified>
-  <wp:post_modified_gmt>2023-10-28 11:54:25</wp:post_modified_gmt>
+  <wp:post_modified>2024-02-07 22:18:27</wp:post_modified>
+  <wp:post_modified_gmt>2024-02-07 14:18:27</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>a-summary-of-cases-of-schizophrenia-and-ghost-possession-and-possible-self-help-treatment-plans</wp:post_name>
+  <wp:post_name>a-summary-of-cases-of-schizophrenia-and-ghost-possession-and-self-help-treatment-plans</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
   <wp:menu_order>0</wp:menu_order>
@@ -17943,7 +17999,7 @@ The following content is all from patients with schizophrenia and people who cla
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>wordads_ufa</wp:meta_key>
-    <wp:meta_value><![CDATA[s:wpcom-ufa-v4:1698494218]]></wp:meta_value>
+    <wp:meta_value><![CDATA[s:wpcom-ufa-v4:1707315512]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
@@ -17953,10 +18009,18 @@ The following content is all from patients with schizophrenia and people who cla
     <wp:meta_key>timeline_notification</wp:meta_key>
     <wp:meta_value><![CDATA[1698493857]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>reader_suggested_tags</wp:meta_key>
+    <wp:meta_value><![CDATA[["Schizophrenia","Psychology","Mental Health","Mental Illness","Health"]]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[a-summary-of-cases-of-schizophrenia-and-ghost-possession-and-possible-self-help-treatment-plans]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[在冥想修行過程中，意識在高度敏感狀態所遇到被稱為「魔擾」的特殊意識現象 The special phenomenon of consciousness encountered by consciousness in a highly sensitive state during meditation practice, which is called "demonic disturbance"]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/10/30/the-special-phenomenon-of-consciousness-encountered-by-consciousness-in-a-highly-sensitive-state-during-meditation-practice-which-is-called-demonic-disturbance/</link>
+  <link>http://whalefallnotes.blog/2023/10/30/the-special-phenomenon-of-consciousness-encountered-by-consciousness-in-a-highly-sensitive-state-during-meditation-practice-which-is-called-demonic-disturbance/</link>
   <pubDate>Mon, 30 Oct 2023 06:56:58 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=8530</guid>
@@ -18040,7 +18104,7 @@ In the original Buddhist scriptures such as the Agama Sutra and the Tripitaka, t
 </item>
 <item>
   <title><![CDATA[Custom Styles]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/11/19/wp-global-styles-pub%2fhey/</link>
+  <link>http://whalefallnotes.blog/2023/11/19/wp-global-styles-pub%2fhey/</link>
   <pubDate>Sun, 19 Nov 2023 10:23:45 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/11/19/wp-global-styles-pub%2fhey/</guid>
@@ -18069,7 +18133,7 @@ In the original Buddhist scriptures such as the Agama Sutra and the Tripitaka, t
 </item>
 <item>
   <title><![CDATA[Custom Styles]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/11/19/wp-global-styles-pub%2fbibliophile/</link>
+  <link>http://whalefallnotes.blog/2023/11/19/wp-global-styles-pub%2fbibliophile/</link>
   <pubDate>Sun, 19 Nov 2023 10:24:22 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/11/19/wp-global-styles-pub%2fbibliophile/</guid>
@@ -18098,7 +18162,7 @@ In the original Buddhist scriptures such as the Agama Sutra and the Tripitaka, t
 </item>
 <item>
   <title><![CDATA[Custom Styles]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/11/19/wp-global-styles-pub%2fsten/</link>
+  <link>http://whalefallnotes.blog/2023/11/19/wp-global-styles-pub%2fsten/</link>
   <pubDate>Sun, 19 Nov 2023 10:25:09 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/11/19/wp-global-styles-pub%2fsten/</guid>
@@ -18127,7 +18191,7 @@ In the original Buddhist scriptures such as the Agama Sutra and the Tripitaka, t
 </item>
 <item>
   <title><![CDATA[Search Results]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/11/19/search/</link>
+  <link>http://whalefallnotes.blog/2023/11/19/search/</link>
   <pubDate>Sun, 19 Nov 2023 10:35:15 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/11/19/search/</guid>
@@ -18184,7 +18248,7 @@ In the original Buddhist scriptures such as the Agama Sutra and the Tripitaka, t
 </item>
 <item>
   <title><![CDATA[footer]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/11/19/footer/</link>
+  <link>http://whalefallnotes.blog/2023/11/19/footer/</link>
   <pubDate>Sun, 19 Nov 2023 10:35:15 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/11/19/footer/</guid>
@@ -18220,7 +18284,7 @@ In the original Buddhist scriptures such as the Agama Sutra and the Tripitaka, t
 </item>
 <item>
   <title><![CDATA[header]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/11/19/header/</link>
+  <link>http://whalefallnotes.blog/2023/11/19/header/</link>
   <pubDate>Sun, 19 Nov 2023 10:36:38 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/11/19/header/</guid>
@@ -18272,7 +18336,7 @@ In the original Buddhist scriptures such as the Agama Sutra and the Tripitaka, t
 </item>
 <item>
   <title><![CDATA[Index]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/11/19/index/</link>
+  <link>http://whalefallnotes.blog/2023/11/19/index/</link>
   <pubDate>Sun, 19 Nov 2023 10:55:10 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2023/11/19/index/</guid>
@@ -18331,7 +18395,7 @@ In the original Buddhist scriptures such as the Agama Sutra and the Tripitaka, t
 </item>
 <item>
   <title><![CDATA[「知道」是很多痛苦的開始。認知「由他人給予的定義」如何對人生產生各種各樣的痛苦，並學會放下和面對過去所有不愉快的記憶 "Knowing" is the beginning of many sufferings. Recognize how the "definitions given by people" cause various kinds of pain in life, and learn to let go and face all the unpleasant memories of the past.]]></title>
-  <link>https://curiosityforever.wordpress.com/2023/12/19/knowing-is-the-beginning-of-many-sufferings-recognize-how-the-definitions-given-by-people-cause-various-kinds-of-pain-in-life-and-learn-to-let-go-and-face-all-the-unpleasant-memories-of-the-past/</link>
+  <link>http://whalefallnotes.blog/2023/12/19/knowing-is-the-beginning-of-many-sufferings-recognize-how-the-definitions-given-by-people-cause-various-kinds-of-pain-in-life-and-learn-to-let-go-and-face-all-the-unpleasant-memories-of-the-past/</link>
   <pubDate>Mon, 18 Dec 2023 19:18:01 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=8616</guid>
@@ -18489,7 +18553,7 @@ Because the past already exists in memory, unless there is a current technologic
 </item>
 <item>
   <title><![CDATA[如何與過去的痛苦記憶共存? How to coexist with painful memories of the past?]]></title>
-  <link>https://curiosityforever.wordpress.com/2024/01/06/how-to-coexist-with-painful-memories-of-the-past/</link>
+  <link>http://whalefallnotes.blog/2024/01/06/how-to-coexist-with-painful-memories-of-the-past/</link>
   <pubDate>Fri, 05 Jan 2024 16:52:00 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=8759</guid>
@@ -18590,8 +18654,8 @@ Imagine a scenario where you are hit by a stick and lose all your memories. You 
   </wp:postmeta>
 </item>
 <item>
-  <title><![CDATA[古瑜伽修行方法概要 The Summary of Ancient Yoga Practices－古瑜伽和原始佛教都是以制止感官、心念和潛意識的活動，最後達至涅槃（Nirvana）為其核心價值 Ancient yoga and primitive Buddhism both have the core value of stopping the activities of the senses, mind and subconscious, and finally reaching Nirvana.]]></title>
-  <link>https://curiosityforever.wordpress.com/2024/01/11/the-summary-of-ancient-yoga-practices/</link>
+  <title><![CDATA[古瑜伽修行的歷史、分類和方法概要 The Summary of the History, Classification and Methods of ancient yoga practice－古瑜伽和原始佛教都是以制止感官、心念和潛意識的活動，最後達至涅槃（Nirvana）為其核心價值 Ancient yoga and Pre-sectarian (Original) Buddhism both have the core value of stopping the activities of the senses, mind and subconscious, and finally reaching Nirvana.]]></title>
+  <link>http://whalefallnotes.blog/2024/01/11/the-summary-of-the-history-classification-and-methods-of-ancient-yoga-practice/</link>
   <pubDate>Thu, 11 Jan 2024 07:22:33 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=8791</guid>
@@ -18605,7 +18669,7 @@ Imagine a scenario where you are hit by a stick and lose all your memories. You 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>古瑜伽修行及後進一步發展其「早期形態」。在早期大概公元前七八世紀至公元初，印度史詩《摩訶婆羅多》及被認為是最早期的十一本《奧義書》裡面開始探討「意識的本質」、「人來到世界的終極原因」等等在名為「數論」的印度宗教哲學理論，並指出達至「梵我合一」的瑜伽方法，最後達到「涅槃（Nirvana）」的異常神精神狀態。《奧義書》中還詳細描述練習瑜伽的方法，<strong>在早期《奧義書》中把瑜伽修行分為「六支」－「調息、制感、沉思、專注、思考和入定」。</strong></p>
+<p>古瑜伽修行及後進一步發展其「早期形態」。在早期大概公元前七八世紀至公元初，印度史詩《摩訶婆羅多》及被認為是最早期的十一本《奧義書》裡面開始探討「意識的本質」、「人來到世界的終極原因」等等在名為「數論」的印度宗教哲學理論，並指出達至「梵我合一」的瑜伽方法，最後達到涅槃的異常神精神狀態。《奧義書》中還詳細描述練習瑜伽的方法，<strong>在早期《奧義書》中把瑜伽修行分為「六支」－「調息、制感、沉思、專注、思考和入定」。</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -18669,7 +18733,7 @@ Imagine a scenario where you are hit by a stick and lose all your memories. You 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>《瑜伽經》共有四章，而第一章－「入定」裡直接了當地指出<strong>學習瑜伽是學習如何制止人體感官接收的訊息、心念和潛意識的活動，從而解脫於各種存在於人心的各種問題，並在瑜伽修行過程中努力保持鎮定，了解自己對自己的「無知」。</strong>當中講述各種人心因為各種潛意識活動所造成的狀態，以及制止心念和潛意識後的「入定」狀態，包括「有智入定（有意識錨點入定，如觀呼吸、數息等等）」、「無智入定（無意識錨點入定）」、「有種子入定（有對細微意識觀察的入定）」、「無種子入定（無觀察並完全靜止的入定）」，也講述入定的技巧和方法。而「無種子入定」狀態是心念活動和潛意識活動被完全停止後的一種特殊意識狀態。</p>
+<p>《瑜伽經》共有四章，而第一章－「入定」裡直接了當地指出<strong>學習瑜伽是學習如何制止人體感官接收的訊息、心念和潛意識的活動，從而解脫於各種存在於人心的各種問題，並在瑜伽修行過程中努力保持鎮定，了解自己對自己的「無知」。當中講述各種人心因為各種潛意識活動所造成的狀態，以及制止心念和潛意識後的「入定」狀態，入定的技巧和方法，包括如何循序漸進地由「有智入定（有意識錨點入定，如觀呼吸、數息等等）」、「無智入定（無意識錨點入定）」、「有種子入定（有對細微意識觀察的入定）」到最後「無種子入定（無觀察並完全靜止的入定）」。而「無種子入定」狀態是心念活動和潛意識活動被完全停止後的一種特殊意識狀態。</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -18689,7 +18753,7 @@ Imagine a scenario where you are hit by a stick and lose all your memories. You 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>據一些佛經如《佛所行贊》、《三藏經》記載佛陀的生平，也有提及佛陀早年出家時拜師求道並從兩位老師（阿羅藍Arada 仙人 以及 鬱陀難 Udrake 仙人）身上學習「數論」、「古瑜伽」和「四禪八定」的記載。從阿羅藍身上學習「數論」和「四禪」後並到達「無所有處定」，也就是「我」擺脫了身體（在道家也有神魂出體之說）。但佛陀認為「我」仍存在，仍會陷入生死輪迴，所以另拜鬱陀難為師，並學習「非想非非處定」。但佛陀仍然覺得「非想非非處定」不能解脫自己於輪迴之外，所以再另外進行苦行修練。最後瀕死之際發現苦行仍不能達到解脫的狀態，所以在菩提樹下自行參透第九定—「滅盡定」證得「阿羅漢果」，永世解脫於輪迴之外。</p>
+<p>據一些佛經如《佛所行贊》、《三藏經》記載佛陀的生平，也有提及佛陀早年出家時拜師求道並從兩位老師（阿羅藍Arada 仙人&nbsp;以及 鬱陀難 Udrake 仙人）身上學習「數論」、「古瑜伽」和「四禪八定」的記載。從阿羅藍身上學習「數論」和「四禪」後並到達「無所有處定」，也就是「我」擺脫了身體（在道家也有神魂出體之說）。但佛陀認為「我」仍存在，仍會陷入生死輪迴，所以另拜鬱陀難為師，並學習「非想非非處定」。但佛陀仍然覺得「非想非非處定」不能解脫自己於輪迴之外，所以再另外進行苦行修練。最後瀕死之際發現苦行仍不能達到解脫的狀態，所以在菩提樹下自行參透第九定—「滅盡定」證得「阿羅漢果」，永世解脫於輪迴之外。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -18697,58 +18761,16 @@ Imagine a scenario where you are hit by a stick and lose all your memories. You 
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td class="has-text-align-center" data-align="center"><strong>古瑜伽與數論</strong></td><td class="has-text-align-center" data-align="center"><strong>原始佛教修行</strong></td></tr><tr><td class="has-text-align-center" data-align="center">輪迴、輪迴的原因<br>解脫和解脫的方法</td><td class="has-text-align-center" data-align="center">苦、集<br>（意識到苦的現象和了解原因）<br>滅、道<br>（消滅痛苦的方法和證道）</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「八支」</strong><br>自制、遵行、坐姿、調息<br>制感、專注、沉思、入定</td><td class="has-text-align-center" data-align="center"><strong>「八正道」（戒定慧）</strong><br>正見、正思、正語、正業<br>正命、正精進、正念、正定</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「五戒」</strong><br>不殺生、誠實、不偷盜<br>梵行、和不固執</td><td class="has-text-align-center" data-align="center"><strong>「五戒」</strong><br>不殺生，不妄語，不飲酒<br>不邪淫，不偷盜</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「無知」</strong><br>無常、不淨、苦、非我</td><td class="has-text-align-center" data-align="center"><strong>因「無明」而四顛倒</strong><br>常顛倒，無常認為有常<br>樂顛倒，以苦當作樂<br>淨顛倒，以不淨為淨<br>我顛倒，無我認為有我</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「數論」</strong><br>慈、悲、喜、舍</td><td class="has-text-align-center" data-align="center"><strong>「四無量心」</strong><br>慈、悲、喜、舍</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「原人」</strong><br>人心的本質</td><td class="has-text-align-center" data-align="center"><strong>「法 （Dharma）」</strong><br>人心的屬性</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「無種子入定」要求</strong><br>信念，精勤，憶念<br>入定，智慧<br>（觀察內心而建立的體會）</td><td class="has-text-align-center" data-align="center"><strong>「無想定」與「五根」</strong><br>信根、勤根、念根<br>定根、慧根<br>（觀察內心而建立的體會）</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「獨存、<strong>涅槃</strong>」</strong></td><td class="has-text-align-center" data-align="center"><strong>「涅槃」</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「數論」</strong><br>眼、耳、鼻、舌、身、<br>心（覺）</td><td class="has-text-align-center" data-align="center"><strong>「六識」</strong><br>眼、耳、鼻、舌、身、<br>意（心）</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「<strong>數論</strong>原初物質」之三德</strong><br>善性、動性（變性）、<br>惡性（墮性）</td><td class="has-text-align-center" data-align="center"><strong>「十二因緣」</strong><br>無明、行、識、名色、<br>六入、觸、受、愛、<br>取、有、生、老死</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td class="has-text-align-center" data-align="center"><strong>古瑜伽與數論</strong></td><td class="has-text-align-center" data-align="center"><strong>原始佛教修行</strong></td></tr><tr><td class="has-text-align-center" data-align="center">輪迴、輪迴的原因<br>解脫和解脫的方法</td><td class="has-text-align-center" data-align="center">苦、集<br>（意識到苦的現象和了解原因）<br>滅、道<br>（消滅痛苦的方法和證道）</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「八支」</strong><br>自制、遵行、坐姿、調息<br>制感、專注、沉思、入定</td><td class="has-text-align-center" data-align="center"><strong>「八正道」（戒定慧）</strong><br>正見、正思、正語、正業<br>正命、正精進、正念、正定</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「五戒」</strong><br>不殺生、誠實、不偷盜<br>梵行、和不固執</td><td class="has-text-align-center" data-align="center"><strong>「五戒」</strong><br>不殺生，不妄語，不飲酒<br>不邪淫，不偷盜</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「無知」</strong><br>無常、不淨、苦、非我</td><td class="has-text-align-center" data-align="center"><strong>因「無明」而四顛倒</strong><br>常顛倒，無常認為有常<br>樂顛倒，以苦當作樂<br>淨顛倒，以不淨為淨<br>我顛倒，無我認為有我</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「數論」</strong><br>慈、悲、喜、舍</td><td class="has-text-align-center" data-align="center"><strong>「四無量心」</strong><br>慈、悲、喜、舍</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「法 （Dharma）」</strong><br>人心的屬性</td><td class="has-text-align-center" data-align="center"><strong>「法 （Dharma）」</strong><br>人心的屬性</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「無種子入定」要求</strong><br>信念，精勤，憶念<br>入定，智慧<br>（觀察內心而建立的體會）</td><td class="has-text-align-center" data-align="center"><strong>「無想定」與「五根」</strong><br>信根、勤根、念根<br>定根、慧根<br>（觀察內心而建立的體會）</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「獨存、<strong>涅槃</strong>」</strong></td><td class="has-text-align-center" data-align="center"><strong>「涅槃」</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「數論」</strong><br>眼、耳、鼻、舌、身、<br>心（覺）</td><td class="has-text-align-center" data-align="center"><strong>「六識」</strong><br>眼、耳、鼻、舌、身、<br>意（心）</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「<strong>數論</strong>原初物質」之三德</strong><br>善性、動性（變性）、<br>惡性（墮性）</td><td class="has-text-align-center" data-align="center"><strong>「十二因緣」</strong><br>無明、行、識、名色、<br>六入、觸、受、愛、<br>取、有、生、老死</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>「原人」</strong><br>人心的本質，但被原初物質<br>之三德之間的相互作用影響</td><td class="has-text-align-center" data-align="center"><strong>「無我」</strong><br>清除法和五蘊對本我<br>的依附後回復「本我」</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>現今大量佛經來源成迷，並有<strong>大量理解、翻譯和注釋錯誤本質是因為並不熟悉古印度哲學和古瑜伽，也不熟悉古吠陀修行文化</strong>。這也導致大量佛教修行者因為相信學術和佛教權威所教導錯誤的概念而走入歪路。修行任何的古瑜伽可能因應個人需要而尋找上師指導，但並不需要經由任何上師「灌頂」或「調頻」才能修行某種瑜伽。 因為打開或調整各脈輪手法完全可以自行實現。需要上師灌頂或調頻才能修行某些瑜伽是一種迷信和商業手段。</p>
+<p>現今大量佛經來源成迷，並有<strong>大量理解、翻譯和注釋錯誤本質是因為並不熟悉古印度哲學和古瑜伽，也不熟悉古吠陀修行文化</strong>。這也導致大量佛教修行者因為相信學術和佛教權威所教導錯誤的概念而走入歪路。修行任何的古瑜伽可能因應個人需要而尋找上師指導，但並不需要經由任何上師「灌頂（Abhiseca）」或「調頻（Attunement）」才能修行某種瑜伽。 因為打開或調整各脈輪手法完全可以自行實現。需要上師灌頂或調頻才能修行某些瑜伽是一種迷信和商業手法。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">其他古瑜伽修行方法</h2>
 <!-- /wp:heading -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">咒瑜伽 Mantra Yoga</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>咒瑜伽透過口部發音不斷念頌一些「短句」，並同時使用「頭胸共鳴」等唱頌方法震動大腦深處和（或）身體特定脈輪和經脈，讓精神集中在一點；也可集中在身體多處脈輪和經脈，而在古瑜伽最常見的是脈輪，例如感受頌唱時在頂或心輪產生的震動。之後再由念頌轉為默念，並透過默念達到入定、入靜的意識境界。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>而對短句也有一些特定的要求，例如：</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>念唱是與呼吸相依，所有發音都必定為在「呼」的情況下被頌唱，所以短句不能多於或少於一個呼的時間，大概六至十二音節為最佳。例如蓮花生心咒：<br>「嗡 阿 吽 班 雜 咕 嚕 叭 嘛 悉 地 吽」<br>oṃ āḥ hūṃ vajra guru padma siddhi hūṃ <br>ॐ आः हूँ वज्र गुरु पद्मा सिद्धि हूँ<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>氣呼出的長度越長就越容易放鬆，也越容易打開頭胸共嗚腔，產生頭部（頂輪）和胸部（心輪）的震動，但並不需要太過於關注呼吸時的長度，只需在念頌開始時簡單調整一下便可。<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>可以使用單音節，如<strong>唵</strong>（<a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/9/94/Om_pro.ogg/Om_pro.ogg.mp3">listen</a>，<a href="https://zh.wikipedia.org/wiki/IAST">IAST</a>拼作Auṃ或Oṃ；梵文：ॐ；藏文：ཨོཾ）是一個經常在佛經和印度教經典裡出現的「種子字」作為冥想的意識錨點。但在不段念頌期間也必須盡量延長念頌的時間，也就是盡量增加「呼」的時間。<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>反面例子：<strong>念心經、大悲咒等等長篇大論的經文是完全沒有效果的</strong>。另外如果念出的句子對特定神靈帶有某種信仰的祈禱，會較容易看見該宗教神靈的幻象。<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>不要理解所念的短句的實際意思為何，熟悉華文的修行人可以找一些梵文或其他語言的短句作為意識錨點。<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>唱頌時音調不要過高或極低音，用低音來引起身體脈輪，因為比較高音其波幅較短和波長較長，較容易引起頭胸共嗚震動。使用極低音除非想單獨引起胸腔共嗚並只震動和打開心輪（膻中、黃庭）。</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>這種修行方式在宗教修行文化傳承上對大量東西方宗教有重大影響，例如東正教密教、藏傳佛教和日本秘密佛教真言宗等等秘密宗教修行的持咒（句）修行，天主教隱修的「短句祈禱」修行，和大乘佛教淨土宗不斷念頌「南嘸阿彌陀佛」的修行等等。這些宗教都相信透過排除所有雜念，和不斷念頌後或默念一些短句，是一種與神通靈和成聖成佛修行方式。但如在修行途中因為任何原因帶著強烈的慾望和情緒反而會讓人有嚴重的精神問題。</p>
-<!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">昆荼利（拙火）瑜伽 Kundalini Yoga</h4>
@@ -18759,11 +18781,73 @@ Imagine a scenario where you are hit by a stick and lose all your memories. You 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>這種古瑜伽修行方式從古到今都是以口傳心授方式傳授，以秘密宗教的方式傳授入室弟子。這派深信人體生命能量都藏於人體的尾椎（或下三輪），並通過呼吸法等等方法達到冥想入定的狀態後，同時觀特定脈輪（或中脈）震動的修行方式就會被啟動。在氣脈啟動時同時需要修行者努力保持冷靜，心若冰清地像旁觀者一樣讓「內在的火焰」慢慢流經各脈輪最後到達並打開頂輪（泥丸）。當頂輪被火焰打開後，在進階修行時必須要一心二用地讓頂輪或眉心輪（泥丸宮），與心輪、臍輪（黃庭穴）或底輪（氣海）同時啟動，讓頂輪清涼之氣與心輪或下三輪其中之一輪的熱氣相交。</p>
+<p>這種古瑜伽修行方式從古到今都是以口傳心授方式傳授，以秘密宗教的方式傳授入室弟子。這派深信人體生命能量都藏於人體的尾椎（或下三輪），並通過呼吸法等等方法達到冥想入定的狀態後，同時觀特定脈輪（或中脈）震動的修行方式就會被啟動。在氣脈啟動時同時需要修行者努力保持冷靜，心若冰清地像旁觀者一樣讓「內在的火焰」慢慢流經各脈輪最後到達並打開頂輪（泥丸）。當頂輪被火焰打開後，在進階修行時必須要一心二用地讓頂輪或眉心輪（泥丸宮），與臍輪（黃庭穴）或底輪（氣海）同時啟動，讓頂輪清涼之氣與心輪或下臍輪或底輪其中之一輪的熱氣相交。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>這種修行方式被認為是一種「速成」的修行方法，但伴隨著的危險卻因人而異。初學者往往啟動氣脈後所產生的身體強烈發熱或痛症，而引發內心的恐懼不安或各種虛幻不實的情緒慾望甚至幻覺，最後導致一些嚴重身體、精神和情緒的問題，難以根治。所以一些藏傳佛教修習拙火定者必須為智勇雙全的「上根」之人。在古代道家「性命雙修」的修行也有相同的修習方式被流傳，名為「練氣化神」。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">咒瑜伽 Mantra Yoga</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>「咒」在梵文的原意是指一些有「力量」的語言，這種力量並不是指這種語言有什麼「神力」，而是指這些語言在發音期間所引起的「震動」。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>咒瑜伽透過口部發音不斷念頌一些「短句」，慢慢放鬆身體後並同時使用「頭胸共鳴」等唱頌方法震動大腦深處和（或）身體特定脈輪和經脈，讓精神集中在一點或多點；也可集中由發音引起的在身體多處脈輪和經脈的震動。</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>在古瑜伽最常見的是集中在脈輪的震動。例如感受頌唱時，同時感受在心輪與頂輪（或眉心輪），以及至整個身體的震動（也可配合守竅法在太陽輪或臍輪引起「內在的火焰」進行「拙火定」）。</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>之後再由念頌轉為默念，並透過默念達到入定、入靜的意識境界；當默念到一定程度後捨棄默念，轉為觀察自己的細微意識，最後連這種對意識的觀察都捨棄， 進入「無想定」。</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>而對短句和念頌方式也有一些特定的要求，例如：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>念唱是與呼吸相依，所有發音都必定為在「呼」的情況下被頌唱，所以短句不能多於或少於一個呼的時間，大概六至十二音節為最佳。例如蓮花生心咒：<br>「嗡 阿 吽 班 雜 咕 嚕 叭 嘛 悉 地 吽」<br>oṃ āḥ hūṃ vajra guru padma siddhi hūṃ<br>ॐ आः हूँ वज्र गुरु पद्मा सिद्धि हूँ<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>氣呼出的長度越長就越容易放鬆，身體越放鬆也就代表越容易打開頭胸共鳴腔，產生頭部（頂輪）和胸部（心輪）的震動，但並不需要太過於關注呼吸時的長度，只需在念頌開始時簡單調整一下便可。<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>可以使用單音節，如<strong>唵</strong>（<a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/9/94/Om_pro.ogg/Om_pro.ogg.mp3">listen</a>，<a href="https://zh.wikipedia.org/wiki/IAST">IAST</a>拼作Auṃ或Oṃ；梵文：ॐ；藏文：ཨོཾ）是一個經常在佛經和印度教經典裡出現的「種子字」作為冥想的意識錨點。但在不段念頌期間也必須盡量延長念頌的時間，也就是盡量增加「呼」的時間，把OM音慢慢由O，OM最後M循序漸進發出。<a href="https://www.youtube.com/watch?v=8sYK7lm3UKg">OM Chanting 咒音示範</a><br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>反面例子：<strong>念心經、大悲咒等等長篇大論的經文是完全沒有效果的</strong>。另外如果念出的句子對特定神靈帶有某種信仰的祈禱，會較容易看見該宗教神靈的幻象。<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>不要理解所念的短句的實際意思為何，熟悉華文的修行人可以找一些梵文或其他語言的短句作為意識錨點。梵文的發音比起其他語言更容易容引頭胸共鳴的震動。<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>唱頌時音調不要使用過高或極低音，而是用低音來引起身體脈輪震動，因為低音其波幅較短和波長較長，較容易引起頭胸共嗚震動。使用極低音除非想單獨引起胸腔共嗚並只震動和打開心輪（膻中、黃庭）。<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>念頌時以腹式呼吸吸氣，然後用腹部的氣帶動聲帶，讓氣流進入聲帶讓其緩慢地「自動」發音即可，聲帶不需刻意用力而自然震動，同時感受自己身體因唱頌所引起的震動。這樣發出的音就會非常自然舒服，震動感也會最強。學習時需要自己不斷調整聲帶和氣息，來尋找震動感最強，聲音響亮同時又最自然放鬆的唱頌方法。</strong></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>咒瑜伽使用範圍極廣，可以將其使用在冥想前的準備，加快進入冥想的定靜效果；也可在日常生活當中隨時使用，作為「行禪」的一種「所緣」， 在感受到念頭充斥大腦、情緒不穩或在身體不適時使用。也可以配合觀想法，把聲音震動的「震央」作為觀想的根據，用想像力把震動「轉移」到底輪或其他地方等等作為有效自行調整脈輪（調頻 Attunement）的方法。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>這種修行方式在宗教修行文化傳承上對大量東西方宗教有重大影響，例如東正教密教、藏傳佛教和日本秘密佛教真言宗等等秘密宗教修行的持咒（句）修行，天主教隱修的「短句祈禱」修行，和大乘佛教淨土宗不斷念頌「南嘸阿彌陀佛」的修行等等。這些宗教都相信透過排除所有雜念，和不斷念頌後或默念一些短句，是一種與神通靈和成聖成佛修行方式。但如在修行途中因為任何原因帶著強烈的慾望和情緒反而會讓人有嚴重的精神問題。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
@@ -18801,11 +18885,11 @@ Imagine a scenario where you are hit by a stick and lose all your memories. You 
   <wp:post_id>8791</wp:post_id>
   <wp:post_date>2024-01-11 15:22:33</wp:post_date>
   <wp:post_date_gmt>2024-01-11 07:22:33</wp:post_date_gmt>
-  <wp:post_modified>2024-01-12 01:04:00</wp:post_modified>
-  <wp:post_modified_gmt>2024-01-11 17:04:00</wp:post_modified_gmt>
+  <wp:post_modified>2024-01-23 15:10:44</wp:post_modified>
+  <wp:post_modified_gmt>2024-01-23 07:10:44</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>the-summary-of-ancient-yoga-practices</wp:post_name>
+  <wp:post_name>the-summary-of-the-history-classification-and-methods-of-ancient-yoga-practice</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
   <wp:menu_order>0</wp:menu_order>
@@ -18838,13 +18922,17 @@ audio/mpeg
     <wp:meta_value><![CDATA[1704957758]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[the-summary-of-ancient-yoga-practices]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
     <wp:meta_key>wordads_ufa</wp:meta_key>
-    <wp:meta_value><![CDATA[s:wpcom-ufa-v4:1704992646]]></wp:meta_value>
+    <wp:meta_value><![CDATA[s:wpcom-ufa-v4:1705993836]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[MENU]]></title>
-  <link>https://curiosityforever.wordpress.com/2024/01/10/menu/</link>
+  <link>http://whalefallnotes.blog/2024/01/10/menu/</link>
   <pubDate>Wed, 10 Jan 2024 08:17:46 +0000</pubDate>
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/2024/01/10/menu/</guid>

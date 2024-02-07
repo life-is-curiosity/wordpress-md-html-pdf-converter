@@ -1,7 +1,7 @@
 from xml.dom.minidom import parse
 import xml.dom.minidom
 
-DOMTree = xml.dom.minidom.parse("whalefallnotes.wordpress.2024-01-11.000.xml")
+DOMTree = xml.dom.minidom.parse("whalefallnotes.wordpress.2024-02-07.000.xml")
 collection = DOMTree.documentElement
 items = collection.getElementsByTagName("item")
 count = 0

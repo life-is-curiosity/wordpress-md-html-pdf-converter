@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<base href="./" target="_blank">
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+	<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+	<link href="github.css" rel="stylesheet">
+	<style>
+		table {
+			border-collapse:collapse;
+				}
+		figure img {
+			margin: 0 auto;
+			display: table-cell;
+		}
+		figcaption{
+			text-align: center;
+		}
+		p img:not(:nth-child(1)) {
+			margin:0 auto;
+			display: table-cell;
+		}
+	
+
+		img.emoji {
+		   height: 1em;
+		   width: 1em;
+		   margin: 0 .05em 0 .1em;
+		   vertical-align: -0.1em;
+		}
+</style>
+<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.2"></script>
+<script>window.onload = function () { twemoji.parse(document.body);}</script>	
+</head>
+
+<body><h1 id="api-gateway-in-nodejs">API Gateway in NodeJS</h1>
+<p>Date: 2022-11-23 20:29:12</p>
+<!-- wp:jetpack/slideshow {"ids":[4029,4030],"sizeSlug":"large"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
+<div class="wp-block-jetpack-slideshow_container swiper-container">
+<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure>
+<img alt="" class="wp-block-jetpack-slideshow_image wp-image-4029" data-id="4029" src="https://curiosityforever.files.wordpress.com/2022/05/apigateway-components-1.png?w=1024" />
+</figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure>
+<img alt="" class="wp-block-jetpack-slideshow_image wp-image-4030" data-id="4030" src="https://curiosityforever.files.wordpress.com/2022/05/auth-login-sequence.png?w=1024" />
+</figure>
+</li>
+</ul>
+<a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
+<div
+class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white">
+
+</div>
+</div>
+</div>
+<!-- /wp:jetpack/slideshow -->
+<!-- wp:paragraph -->
+<p>
+<a href="https://github.com/life-is-curiosity/js-apigateway" target="_blank" rel="noreferrer noopener">https://github.com/life-is-curiosity/js-apigateway</a>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>
+Feature
+</h2>
+<!-- /wp:heading -->
+<!-- wp:list {"ordered":true} -->
+<ol>
+<!-- wp:list-item -->
+<li>
+<strong>API Rules</strong><br>Parameter checking<br>Support
+regular-expression<br>
+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>
+<strong>Distributed Load-Balancing
+Algorithms</strong><br>Random-Weighted Average Load-balancing algorithms
+to route the requests to different microservice endpoints.<br>
+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>
+<strong>Asymmetric JWT Double-Lock Session</strong><br>Support private
+api, asymmetric key lock and basic session management<br>
+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>
+<strong>Rate-Limit Components</strong><br>Able to customize the
+rate-limit for preventing the system loading<br>
+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>
+<strong>Http API Proxy Gateway</strong><br>Http API redirect to other
+internal service endpoints<br>
+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>
+<strong>Single Redis Instance</strong><br>Session or any persistance by
+Redis
+</li>
+<!-- /wp:list-item -->
+</ol>
+<!-- /wp:list -->
+<!-- wp:heading -->
+<h2>
+Environment Construction
+</h2>
+<!-- /wp:heading -->
+<!-- wp:code -->
+<pre class="wp-block-code"><code>npm install or yarn install</code></pre>
+<!-- /wp:code -->
+<!-- wp:heading -->
+<h2>
+Configuration
+</h2>
+<!-- /wp:heading -->
+<!-- wp:code -->
+<pre class="wp-block-code"><code>{
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "auth": "",
+    "db": 0,
+    "max_clients": 30,
+    "tls": false
+  },
+  "rate_limit": {
+    "interval_ms": "60000",
+    "max_requests": "120"
+  },
+  "service_endpoints": {
+    "timeout": 5000,
+    "user": &#091;
+      {
+        "hostname": "localhost",
+        "port": 3001,
+        "weight": 10
+      },
+      {
+        "hostname": "localhost",
+        "port": 3002,
+        "weight": 2
+      },
+      {
+        "hostname": "localhost",
+        "port": 3003,
+        "weight": 2
+      },
+      {
+        "hostname": "localhost",
+        "port": 3004,
+        "weight": 4
+      }
+    ]
+  },
+  "session": {
+    "algorithm": "RS256",
+    "expire": 180
+  }
+}
+</code></pre>
+<!-- /wp:code -->
+<!-- wp:heading -->
+<h2>
+Execution
+</h2>
+<!-- /wp:heading -->
+<!-- wp:code -->
+<pre class="wp-block-code"><code>pm2 start pm2.json --env local &gt; /dev/null</code></pre>
+<!-- /wp:code -->
+
+</body>
+</html>

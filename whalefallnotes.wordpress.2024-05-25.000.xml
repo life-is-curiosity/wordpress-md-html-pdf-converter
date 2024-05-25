@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2024-05-09 17:43"-->
+<!-- generator="WordPress.com" created="2024-05-25 17:06"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>鯨落筆記 Whale Fall Notes</title>
 <link>http://whalefallnotes.blog</link>
 <description>原始佛教 Pre-sectarian (Original) Buddhism｜道教 Taoism (Daoism)｜古瑜伽 Ancient Yoga｜哲學 Philosophy｜靈氣 Reiki｜薩滿 Shaman｜太極 Tai Chi｜軟件工程 Software Engineering</description>
-<pubDate>Thu, 09 May 2024 17:43:23 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 17:06:53 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -128,7 +128,7 @@
 <generator>http://wordpress.com/</generator>
 
 <image>
-	<url>https://curiosityforever.files.wordpress.com/2024/02/wp-1708319500389.jpg?w=32</url>
+	<url>https://whalefallnotes.blog/wp-content/uploads/2024/02/wp-1708319500389.jpg?w=32</url>
 	<title>鯨落筆記 Whale Fall Notes</title>
 	<link>http://whalefallnotes.blog</link>
 	<width>32</width>
@@ -157,7 +157,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/d64d2-rosalind-chang-i2hjkaskj68-unsplash.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/d64d2-rosalind-chang-i2hjkaskj68-unsplash.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/d64d2-rosalind-chang-i2hjkaskj68-unsplash.jpg]]></wp:meta_value>
@@ -190,7 +190,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/7a7e2-jakob-owens-5vei4utoq6m-unsplash.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/7a7e2-jakob-owens-5vei4utoq6m-unsplash.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/7a7e2-jakob-owens-5vei4utoq6m-unsplash.jpg]]></wp:meta_value>
@@ -223,7 +223,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/d64d2-rosalind-chang-i2hjkaskj68-unsplash-1.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/d64d2-rosalind-chang-i2hjkaskj68-unsplash-1.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/d64d2-rosalind-chang-i2hjkaskj68-unsplash-1.jpg]]></wp:meta_value>
@@ -256,7 +256,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/f79f7-omid-armin-px1g16eufsq-unsplash.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/f79f7-omid-armin-px1g16eufsq-unsplash.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/f79f7-omid-armin-px1g16eufsq-unsplash.jpg]]></wp:meta_value>
@@ -289,7 +289,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/f79f7-omid-armin-px1g16eufsq-unsplash-1.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/f79f7-omid-armin-px1g16eufsq-unsplash-1.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/f79f7-omid-armin-px1g16eufsq-unsplash-1.jpg]]></wp:meta_value>
@@ -322,7 +322,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/3a542-jakob-owens-hwo_sjignlq-unsplash.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/3a542-jakob-owens-hwo_sjignlq-unsplash.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/3a542-jakob-owens-hwo_sjignlq-unsplash.jpg]]></wp:meta_value>
@@ -355,7 +355,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/3a542-jakob-owens-hwo_sjignlq-unsplash-1.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/3a542-jakob-owens-hwo_sjignlq-unsplash-1.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/3a542-jakob-owens-hwo_sjignlq-unsplash-1.jpg]]></wp:meta_value>
@@ -388,7 +388,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/7a7e2-jakob-owens-5vei4utoq6m-unsplash-1.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/7a7e2-jakob-owens-5vei4utoq6m-unsplash-1.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/7a7e2-jakob-owens-5vei4utoq6m-unsplash-1.jpg]]></wp:meta_value>
@@ -421,7 +421,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/group-of-person-1472334.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/group-of-person-1472334.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/group-of-person-1472334.jpg]]></wp:meta_value>
@@ -454,7 +454,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/me.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/me.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/me.png]]></wp:meta_value>
@@ -471,7 +471,7 @@
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.files.wordpress.com/2020/09/cropped-me.png</guid>
   <description/>
-  <content:encoded><![CDATA[https://curiosityforever.files.wordpress.com/2020/09/cropped-me.png]]></content:encoded>
+  <content:encoded><![CDATA[https://whalefallnotes.blog/wp-content/uploads/2020/09/cropped-me.png]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>46</wp:post_id>
   <wp:post_date>2020-09-14 20:57:24</wp:post_date>
@@ -487,7 +487,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/cropped-me.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/cropped-me.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/cropped-me.png]]></wp:meta_value>
@@ -524,7 +524,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/stack-call-heap-reference.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/stack-call-heap-reference.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
     <wp:meta_value><![CDATA[a:6:{s:5:"width";i:931;s:6:"height";i:751;s:4:"file";s:102:"/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/stack-call-heap-reference.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:23856;}]]></wp:meta_value>
@@ -557,7 +557,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/stack-call-heap-reference-1.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/stack-call-heap-reference-1.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
     <wp:meta_value><![CDATA[a:6:{s:5:"width";i:931;s:6:"height";i:751;s:4:"file";s:104:"/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/stack-call-heap-reference-1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:24336;}]]></wp:meta_value>
@@ -590,7 +590,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/single-window-algorithm.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/single-window-algorithm.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/single-window-algorithm.png]]></wp:meta_value>
@@ -623,7 +623,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/sliding-windows-algorithm.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/sliding-windows-algorithm.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/sliding-windows-algorithm.png]]></wp:meta_value>
@@ -656,7 +656,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/token-bucket-algorithm.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/token-bucket-algorithm.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/token-bucket-algorithm.png]]></wp:meta_value>
@@ -689,7 +689,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/port-forwading-in-python.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/port-forwading-in-python.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/port-forwading-in-python.png]]></wp:meta_value>
@@ -722,7 +722,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/modulize-coding-style.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/modulize-coding-style.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/modulize-coding-style.png]]></wp:meta_value>
@@ -739,7 +739,7 @@
   <dc:creator>luciusbright</dc:creator>
   <guid isPermaLink="false">https://curiosityforever.files.wordpress.com/2020/09/cropped-me-2.png</guid>
   <description/>
-  <content:encoded><![CDATA[https://curiosityforever.files.wordpress.com/2020/09/cropped-me-2.png]]></content:encoded>
+  <content:encoded><![CDATA[https://whalefallnotes.blog/wp-content/uploads/2020/09/cropped-me-2.png]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>277</wp:post_id>
   <wp:post_date>2020-09-25 22:11:34</wp:post_date>
@@ -755,7 +755,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/09/cropped-me-2.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/09/cropped-me-2.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/09/cropped-me-2.png]]></wp:meta_value>
@@ -792,7 +792,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/10/jones_nleuy_1200x0.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/10/jones_nleuy_1200x0.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/10/jones_nleuy_1200x0.jpg]]></wp:meta_value>
@@ -825,7 +825,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/10/destruction_of_leviathan.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/10/destruction_of_leviathan.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/10/destruction_of_leviathan.png]]></wp:meta_value>
@@ -858,7 +858,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/10/pexels-photo-327540.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/10/pexels-photo-327540.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/10/pexels-photo-327540.jpeg]]></wp:meta_value>
@@ -891,7 +891,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/10/pexels-cottonbro-3693039.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/10/pexels-cottonbro-3693039.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/10/pexels-cottonbro-3693039.jpg]]></wp:meta_value>
@@ -924,7 +924,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/11/websocket-forwarding.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/11/websocket-forwarding.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/11/websocket-forwarding.png]]></wp:meta_value>
@@ -957,7 +957,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/11/multiplexing-3.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/11/multiplexing-3.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/11/multiplexing-3.png]]></wp:meta_value>
@@ -990,7 +990,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/11/shopping-cart.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/11/shopping-cart.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/11/shopping-cart.jpg]]></wp:meta_value>
@@ -1023,7 +1023,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/11/havilah-galaxy-b5bsnidlnf4-unsplash.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/11/havilah-galaxy-b5bsnidlnf4-unsplash.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/11/havilah-galaxy-b5bsnidlnf4-unsplash.jpg]]></wp:meta_value>
@@ -1056,7 +1056,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/11/encryption-and-decryption.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/11/encryption-and-decryption.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
     <wp:meta_value><![CDATA[a:6:{s:5:"width";i:708;s:6:"height";i:746;s:4:"file";s:102:"/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/11/encryption-and-decryption.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:9:"Alan Wong";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1605467723";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:52473;}]]></wp:meta_value>
@@ -1089,7 +1089,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/11/key-generation.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/11/key-generation.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
     <wp:meta_value><![CDATA[a:6:{s:5:"width";i:726;s:6:"height";i:782;s:4:"file";s:91:"/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/11/key-generation.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:9:"Alan Wong";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1605467678";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:118697;}]]></wp:meta_value>
@@ -1122,7 +1122,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/11/image.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/11/image.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
     <wp:meta_value><![CDATA[a:6:{s:5:"width";i:715;s:6:"height";i:831;s:4:"file";s:82:"/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/11/image.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:160088;}]]></wp:meta_value>
@@ -1155,7 +1155,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/11/daniel-rykhev-g6wlppp4en8-unsplash.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/11/daniel-rykhev-g6wlppp4en8-unsplash.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/11/daniel-rykhev-g6wlppp4en8-unsplash.jpg]]></wp:meta_value>
@@ -1188,7 +1188,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2020/11/images.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2020/11/images.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2020/11/images.png]]></wp:meta_value>
@@ -1221,7 +1221,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/02/v2-aea16b3e407006368f1d05b522a8873f_r.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/02/v2-aea16b3e407006368f1d05b522a8873f_r.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/02/v2-aea16b3e407006368f1d05b522a8873f_r.jpg]]></wp:meta_value>
@@ -1254,7 +1254,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/03/4784b7105f9d7468fb98cb1d983b7d3a_715__2.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/03/4784b7105f9d7468fb98cb1d983b7d3a_715__2.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/03/4784b7105f9d7468fb98cb1d983b7d3a_715__2.jpg]]></wp:meta_value>
@@ -1287,7 +1287,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/03/fire-punch.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/03/fire-punch.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/03/fire-punch.jpg]]></wp:meta_value>
@@ -1320,7 +1320,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/05/01-33.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/05/01-33.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/05/01-33.jpeg]]></wp:meta_value>
@@ -1353,7 +1353,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/05/02-60.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/05/02-60.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/05/02-60.jpeg]]></wp:meta_value>
@@ -1386,7 +1386,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/05/03-26.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/05/03-26.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/05/03-26.jpeg]]></wp:meta_value>
@@ -1419,7 +1419,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/05/04-29.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/05/04-29.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/05/04-29.jpeg]]></wp:meta_value>
@@ -1452,7 +1452,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/05/02-60-1.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/05/02-60-1.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/05/02-60-1.jpeg]]></wp:meta_value>
@@ -1485,7 +1485,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/05/03-26-1.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/05/03-26-1.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/05/03-26-1.jpeg]]></wp:meta_value>
@@ -1518,7 +1518,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/05/04-29-1.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/05/04-29-1.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/05/04-29-1.jpeg]]></wp:meta_value>
@@ -1551,7 +1551,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/08/alfons-morales-ylswjsy7stw-unsplash.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/08/alfons-morales-ylswjsy7stw-unsplash.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/08/alfons-morales-ylswjsy7stw-unsplash.jpg]]></wp:meta_value>
@@ -1584,7 +1584,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/09/golden-flower-1.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/09/golden-flower-1.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/09/golden-flower-1.jpg]]></wp:meta_value>
@@ -1617,7 +1617,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/09/cropped-golden-flower-1.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/09/cropped-golden-flower-1.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/09/cropped-golden-flower-1.jpg]]></wp:meta_value>
@@ -1662,7 +1662,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/10/bayan.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/10/bayan.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/10/bayan.png]]></wp:meta_value>
@@ -1695,7 +1695,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/10/e58a9be58d97e58a88.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/10/e58a9be58d97e58a88.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/10/e58a9be58d97e58a88.png]]></wp:meta_value>
@@ -1728,7 +1728,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/10/balaga.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/10/balaga.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/10/balaga.png]]></wp:meta_value>
@@ -1761,7 +1761,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/10/bayan-1.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/10/bayan-1.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/10/bayan-1.png]]></wp:meta_value>
@@ -1794,7 +1794,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/10/my-car-is-read.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/10/my-car-is-read.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/10/my-car-is-read.png]]></wp:meta_value>
@@ -1827,7 +1827,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/10/metaverse.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/10/metaverse.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/10/metaverse.jpeg]]></wp:meta_value>
@@ -1860,7 +1860,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/11/20200224121222-f337eef68a95ce80c2e792302b9d0d71-mobile.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/11/20200224121222-f337eef68a95ce80c2e792302b9d0d71-mobile.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/11/20200224121222-f337eef68a95ce80c2e792302b9d0d71-mobile.jpeg]]></wp:meta_value>
@@ -1893,7 +1893,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/11/definition.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/11/definition.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/11/definition.jpg]]></wp:meta_value>
@@ -1926,7 +1926,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/12/dream.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/12/dream.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/12/dream.jpeg]]></wp:meta_value>
@@ -1959,7 +1959,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/12/six-or-nice.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/12/six-or-nice.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/12/six-or-nice.png]]></wp:meta_value>
@@ -1992,7 +1992,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2021/12/image.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2021/12/image.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2021/12/image.png]]></wp:meta_value>
@@ -2025,7 +2025,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/01/wp-1642592765087.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/01/wp-1642592765087.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/01/wp-1642592765087.jpg]]></wp:meta_value>
@@ -2058,7 +2058,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/01/2576_power-and-authority.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/01/2576_power-and-authority.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/01/2576_power-and-authority.jpg]]></wp:meta_value>
@@ -2091,7 +2091,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/02/shutterstock-1354474802_img_750_h.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/02/shutterstock-1354474802_img_750_h.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/02/shutterstock-1354474802_img_750_h.jpg]]></wp:meta_value>
@@ -2124,7 +2124,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/03/w644.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/03/w644.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/03/w644.jpeg]]></wp:meta_value>
@@ -2157,7 +2157,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/04/black_and_white.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/04/black_and_white.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/04/black_and_white.jpeg]]></wp:meta_value>
@@ -2190,7 +2190,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/04/dd881ca95d9c4aaab2d324486252342a.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/04/dd881ca95d9c4aaab2d324486252342a.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/04/dd881ca95d9c4aaab2d324486252342a.jpg]]></wp:meta_value>
@@ -2223,7 +2223,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/05/screenshot-2022-05-06-at-4.15.46-pm.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/05/screenshot-2022-05-06-at-4.15.46-pm.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/05/screenshot-2022-05-06-at-4.15.46-pm.png]]></wp:meta_value>
@@ -2256,7 +2256,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/05/background-image-3535807_1280.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/05/background-image-3535807_1280.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_custom_header_last_used_pub/baskerville-2</wp:meta_key>
     <wp:meta_value><![CDATA[1651851257]]></wp:meta_value>
@@ -2297,7 +2297,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/05/20161107-115357_u6077_m215197_7732.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/05/20161107-115357_u6077_m215197_7732.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
     <wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:533;s:4:"file";s:111:"/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/05/20161107-115357_u6077_m215197_7732.jpg";s:8:"filesize";i:35674;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -2330,7 +2330,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/05/maxresdefault.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/05/maxresdefault.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/05/maxresdefault.jpeg]]></wp:meta_value>
@@ -2363,7 +2363,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/05/apigateway-components.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/05/apigateway-components.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/05/apigateway-components.png]]></wp:meta_value>
@@ -2396,7 +2396,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/05/apigateway-components-1.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/05/apigateway-components-1.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/05/apigateway-components-1.png]]></wp:meta_value>
@@ -2429,7 +2429,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/05/auth-login-sequence.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/05/auth-login-sequence.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
     <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1031;s:6:"height";i:611;s:4:"file";s:96:"/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/05/auth-login-sequence.png";s:8:"filesize";i:27974;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -2462,7 +2462,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/06/6136b83ea23607000166a393_1920x1080_fes_v1.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/06/6136b83ea23607000166a393_1920x1080_fes_v1.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/06/6136b83ea23607000166a393_1920x1080_fes_v1.jpeg]]></wp:meta_value>
@@ -2495,7 +2495,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/06/tree.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/06/tree.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/06/tree.jpeg]]></wp:meta_value>
@@ -2528,7 +2528,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/06/white-wire.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/06/white-wire.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/06/white-wire.jpeg]]></wp:meta_value>
@@ -2561,7 +2561,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/06/ckturistando-htcqcvwv9xy-unsplash.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/06/ckturistando-htcqcvwv9xy-unsplash.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/06/ckturistando-htcqcvwv9xy-unsplash.jpeg]]></wp:meta_value>
@@ -2594,7 +2594,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/06/image.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/06/image.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/06/image.png]]></wp:meta_value>
@@ -2627,7 +2627,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/07/020719_ls_consciousness_feat-800x430-1.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/07/020719_ls_consciousness_feat-800x430-1.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/07/020719_ls_consciousness_feat-800x430-1.jpeg]]></wp:meta_value>
@@ -2660,7 +2660,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/04/0-1.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/04/0-1.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/04/0-1.jpeg]]></wp:meta_value>
@@ -2693,7 +2693,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/04/0-2.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/04/0-2.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/04/0-2.jpeg]]></wp:meta_value>
@@ -2726,7 +2726,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/04/0-3.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/04/0-3.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/04/0-3.jpeg]]></wp:meta_value>
@@ -2759,7 +2759,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/04/0.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/04/0.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/04/0.jpeg]]></wp:meta_value>
@@ -2792,7 +2792,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/08/image-2.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/08/image-2.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/08/image-2.png]]></wp:meta_value>
@@ -2825,7 +2825,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/08/859dc117c90b8457dd84f7abc32_3e3a0e2b_d736.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/08/859dc117c90b8457dd84f7abc32_3e3a0e2b_d736.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/08/859dc117c90b8457dd84f7abc32_3e3a0e2b_d736.jpeg]]></wp:meta_value>
@@ -2858,7 +2858,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/09/yin_and_yang_symbol.svg_.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/09/yin_and_yang_symbol.svg_.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/09/yin_and_yang_symbol.svg_.png]]></wp:meta_value>
@@ -2891,7 +2891,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/kakie-priznaki-u-religioznogo-fanatizma.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/kakie-priznaki-u-religioznogo-fanatizma.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/kakie-priznaki-u-religioznogo-fanatizma.jpg]]></wp:meta_value>
@@ -2924,7 +2924,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/hpgipnc.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/hpgipnc.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/hpgipnc.jpg]]></wp:meta_value>
@@ -2957,7 +2957,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/image.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/image.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/image.png]]></wp:meta_value>
@@ -2990,7 +2990,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/184256g8.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/184256g8.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/184256g8.jpg]]></wp:meta_value>
@@ -3023,7 +3023,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/20210202006009.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/20210202006009.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/20210202006009.jpg]]></wp:meta_value>
@@ -3056,7 +3056,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/fake-budda.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/fake-budda.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/fake-budda.png]]></wp:meta_value>
@@ -3089,7 +3089,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a.jpeg]]></wp:meta_value>
@@ -3122,7 +3122,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/cropped-92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/cropped-92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/cropped-92c6129d-fdd8-4cbc-a6eb-61b5c3d82fe6_1_201_a.jpeg]]></wp:meta_value>
@@ -3155,7 +3155,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/20190925000055.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/20190925000055.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/20190925000055.jpg]]></wp:meta_value>
@@ -3188,7 +3188,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/10/images_weather.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/10/images_weather.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/10/images_weather.jpg]]></wp:meta_value>
@@ -3221,7 +3221,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/11/137f66b0105443da8a99005d13dbd8a5.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/11/137f66b0105443da8a99005d13dbd8a5.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
     <wp:meta_value><![CDATA[a:6:{s:5:"width";i:683;s:6:"height";i:474;s:4:"file";s:109:"/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/11/137f66b0105443da8a99005d13dbd8a5.png";s:8:"filesize";i:284772;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -3254,7 +3254,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/smart.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/smart.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/smart.jpg]]></wp:meta_value>
@@ -3287,7 +3287,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e585a7e8a780e68db7e5be91.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e585a7e8a780e68db7e5be91.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e585a7e8a780e68db7e5be91.pdf]]></wp:meta_value>
@@ -3320,7 +3320,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e5a4a9e58fb0e5b08fe6ada2e8a780.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e5a4a9e58fb0e5b08fe6ada2e8a780.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e5a4a9e58fb0e5b08fe6ada2e8a780.pdf]]></wp:meta_value>
@@ -3353,7 +3353,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e5a4aae4b999e98791e88fafe5ae97e697a8.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e5a4aae4b999e98791e88fafe5ae97e697a8.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e5a4aae4b999e98791e88fafe5ae97e697a8.pdf]]></wp:meta_value>
@@ -3386,7 +3386,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e7949fe6b4bbe4b8ade79a84e7a6aae4bfae.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e7949fe6b4bbe4b8ade79a84e7a6aae4bfae.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e7949fe6b4bbe4b8ade79a84e7a6aae4bfae.pdf]]></wp:meta_value>
@@ -3419,7 +3419,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e68080e696afe69bbce7949fe5ad98e6898be5868ce59bbee69687e78988.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e68080e696afe69bbce7949fe5ad98e6898be5868ce59bbee69687e78988.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e68080e696afe69bbce7949fe5ad98e6898be5868ce59bbee69687e78988.pdf]]></wp:meta_value>
@@ -3452,7 +3452,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e5ae9ae685a7e88887e3808ce8a780e79c8be5bf83e5bfb5e3808d.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e5ae9ae685a7e88887e3808ce8a780e79c8be5bf83e5bfb5e3808d.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e5ae9ae685a7e88887e3808ce8a780e79c8be5bf83e5bfb5e3808d.pdf]]></wp:meta_value>
@@ -3525,7 +3525,7 @@ public class Main {
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":78,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2020/09/stack-call-heap-reference-1.png?w=931" alt="" class="wp-image-78" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/09/stack-call-heap-reference-1.png?w=931" alt="" class="wp-image-78" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -3662,7 +3662,7 @@ O ... is that so?]]></excerpt:encoded>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":134,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2020/09/single-window-algorithm.png?w=421" alt="" class="wp-image-134" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/09/single-window-algorithm.png?w=421" alt="" class="wp-image-134" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -3678,7 +3678,7 @@ O ... is that so?]]></excerpt:encoded>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":135,"width":886,"height":671,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://curiosityforever.files.wordpress.com/2020/09/sliding-windows-algorithm.png?w=911" alt="" class="wp-image-135" width="886" height="671" /><figcaption>Sliding window rate limit algorithm</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/09/sliding-windows-algorithm.png?w=911" alt="" class="wp-image-135" width="886" height="671" /><figcaption>Sliding window rate limit algorithm</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -3694,7 +3694,7 @@ O ... is that so?]]></excerpt:encoded>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":137,"width":889,"height":657,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://curiosityforever.files.wordpress.com/2020/09/token-bucket-algorithm.png?w=866" alt="" class="wp-image-137" width="889" height="657" /><figcaption>Leaky Bucket Rate Limit Algorithm</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/09/token-bucket-algorithm.png?w=866" alt="" class="wp-image-137" width="889" height="657" /><figcaption>Leaky Bucket Rate Limit Algorithm</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -3784,7 +3784,7 @@ O ... is that so?]]></excerpt:encoded>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":145,"width":910,"height":429,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://curiosityforever.files.wordpress.com/2020/09/port-forwading-in-python.png?w=1021" alt="" class="wp-image-145" width="910" height="429" /><figcaption>Port Forwarding in a simple network system</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/09/port-forwading-in-python.png?w=1021" alt="" class="wp-image-145" width="910" height="429" /><figcaption>Port Forwarding in a simple network system</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -4036,7 +4036,7 @@ def socket_pipeline(source, sink):
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":238,"width":840,"height":368,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://curiosityforever.files.wordpress.com/2020/09/modulize-coding-style.png?w=1024" alt="" class="wp-image-238" width="840" height="368" /><figcaption class="wp-element-caption">Tree-Style Structure</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/09/modulize-coding-style.png?w=1024" alt="" class="wp-image-238" width="840" height="368" /><figcaption class="wp-element-caption">Tree-Style Structure</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -4595,7 +4595,7 @@ def socket_pipeline(source, sink):
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":564,"width":722,"height":361,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://curiosityforever.files.wordpress.com/2020/11/multiplexing-3.png?w=841" alt="" class="wp-image-564" width="722" height="361" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/11/multiplexing-3.png?w=841" alt="" class="wp-image-564" width="722" height="361" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -4870,7 +4870,7 @@ if&nbsp;__name__&nbsp;==&nbsp;"__main__":
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":560,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2020/11/websocket-forwarding.png?w=611" alt="" class="wp-image-560" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/11/websocket-forwarding.png?w=611" alt="" class="wp-image-560" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -5108,11 +5108,11 @@ server<em>.</em>listen(19443);
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":628,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2020/11/key-generation.jpg?w=726" alt="" class="wp-image-628" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/11/key-generation.jpg?w=726" alt="" class="wp-image-628" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":627,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2020/11/encryption-and-decryption.jpg?w=708" alt="" class="wp-image-627" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2020/11/encryption-and-decryption.jpg?w=708" alt="" class="wp-image-627" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -6186,7 +6186,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 
 <!-- wp:gallery {"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1857,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2021/10/bayan-1.png?w=390" alt="" class="wp-image-1857" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2021/10/bayan-1.png?w=390" alt="" class="wp-image-1857" /></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6204,7 +6204,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 
 <!-- wp:gallery {"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1831,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2021/10/e58a9be58d97e58a88.png?w=692" alt="" class="wp-image-1831" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2021/10/e58a9be58d97e58a88.png?w=692" alt="" class="wp-image-1831" /></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6217,7 +6217,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":4054,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2022/06/6136b83ea23607000166a393_1920x1080_fes_v1.jpeg?w=1024" alt="" class="wp-image-4054" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2022/06/6136b83ea23607000166a393_1920x1080_fes_v1.jpeg?w=1024" alt="" class="wp-image-4054" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -6229,7 +6229,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":4056,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2022/06/tree.jpeg?w=601" alt="" class="wp-image-4056" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2022/06/tree.jpeg?w=601" alt="" class="wp-image-4056" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -6242,7 +6242,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 
 <!-- wp:gallery {"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1851,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2021/10/balaga.png?w=795" alt="" class="wp-image-1851" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2021/10/balaga.png?w=795" alt="" class="wp-image-1851" /></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6256,7 +6256,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 
 <!-- wp:gallery {"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1861,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2021/10/my-car-is-read.png?w=851" alt="" class="wp-image-1861" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2021/10/my-car-is-read.png?w=851" alt="" class="wp-image-1861" /></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6313,7 +6313,7 @@ Meditation is a training of awareness and equity in your mind]]></excerpt:encode
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":4064,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2022/06/white-wire.jpeg?w=960" alt="" class="wp-image-4064" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2022/06/white-wire.jpeg?w=960" alt="" class="wp-image-4064" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -7186,7 +7186,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4679,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2022/08/image-2.png?w=960" alt="" class="wp-image-4679" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2022/08/image-2.png?w=960" alt="" class="wp-image-4679" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -7194,7 +7194,7 @@ Enlightenment has no direct relationship with vegetarianism, releasing animals, 
 <!-- /wp:paragraph -->
 
 <!-- wp:jetpack/slideshow {"ids":[4674,4675,4676,4677],"sizeSlug":"large"} -->
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4674" data-id="4674" src="https://curiosityforever.files.wordpress.com/2022/04/0-1.jpeg?w=450" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4675" data-id="4675" src="https://curiosityforever.files.wordpress.com/2022/04/0-2.jpeg?w=450" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4676" data-id="4676" src="https://curiosityforever.files.wordpress.com/2022/04/0-3.jpeg?w=450" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4677" data-id="4677" src="https://curiosityforever.files.wordpress.com/2022/04/0.jpeg?w=600" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4674" data-id="4674" src="https://whalefallnotes.blog/wp-content/uploads/2022/04/0-1.jpeg?w=450" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4675" data-id="4675" src="https://whalefallnotes.blog/wp-content/uploads/2022/04/0-2.jpeg?w=450" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4676" data-id="4676" src="https://whalefallnotes.blog/wp-content/uploads/2022/04/0-3.jpeg?w=450" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4677" data-id="4677" src="https://whalefallnotes.blog/wp-content/uploads/2022/04/0.jpeg?w=600" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
 <!-- /wp:jetpack/slideshow -->
 
 <!-- wp:paragraph -->
@@ -7665,7 +7665,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4025</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:jetpack/slideshow {"ids":[4029,4030],"sizeSlug":"large"} -->
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4029" data-id="4029" src="https://curiosityforever.files.wordpress.com/2022/05/apigateway-components-1.png?w=1024" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4030" data-id="4030" src="https://curiosityforever.files.wordpress.com/2022/05/auth-login-sequence.png?w=1024" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4029" data-id="4029" src="https://whalefallnotes.blog/wp-content/uploads/2022/05/apigateway-components-1.png?w=1024" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4030" data-id="4030" src="https://whalefallnotes.blog/wp-content/uploads/2022/05/auth-login-sequence.png?w=1024" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
 <!-- /wp:jetpack/slideshow -->
 
 <!-- wp:paragraph -->
@@ -7837,7 +7837,7 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4071</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:image {"id":4161,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2022/06/image.png?w=1024" alt="" class="wp-image-4161" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2022/06/image.png?w=1024" alt="" class="wp-image-4161" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -8890,7 +8890,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e9a699e4b998.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e9a699e4b998.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e9a699e4b998.pdf]]></wp:meta_value>
@@ -8923,7 +8923,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e4bfaee7b7b4e795b6e4b88be79a84e58a9be9878f.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e4bfaee7b7b4e795b6e4b88be79a84e58a9be9878f.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e4bfaee7b7b4e795b6e4b88be79a84e58a9be9878f.pdf]]></wp:meta_value>
@@ -8956,7 +8956,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e586a5e683b3e696b9e6b395.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e586a5e683b3e696b9e6b395.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e586a5e683b3e696b9e6b395.pdf]]></wp:meta_value>
@@ -8989,7 +8989,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e999b3e6b08fe9a699e8ad9c_e59b9be5baabe585a8e69bb8e69cac.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e999b3e6b08fe9a699e8ad9c_e59b9be5baabe585a8e69bb8e69cac.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e999b3e6b08fe9a699e8ad9c_e59b9be5baabe585a8e69bb8e69cac.pdf]]></wp:meta_value>
@@ -9022,7 +9022,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e795b6e4b88be79a84e58a9be9878f.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e795b6e4b88be79a84e58a9be9878f.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e795b6e4b88be79a84e58a9be9878f.pdf]]></wp:meta_value>
@@ -9055,7 +9055,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e88887e7a59ee5b08de8a9b11.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e88887e7a59ee5b08de8a9b11.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e88887e7a59ee5b08de8a9b11.pdf]]></wp:meta_value>
@@ -9088,7 +9088,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e58583e7a59ee8ad98e7a59ee7acace4ba8ce7aba0.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e58583e7a59ee8ad98e7a59ee7acace4ba8ce7aba0.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e58583e7a59ee8ad98e7a59ee7acace4ba8ce7aba0.pdf]]></wp:meta_value>
@@ -9121,7 +9121,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e5a4a9e5bf83e7acace4b880e7aba0.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e5a4a9e5bf83e7acace4b880e7aba0.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e5a4a9e5bf83e7acace4b880e7aba0.pdf]]></wp:meta_value>
@@ -9154,7 +9154,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e59b9ee58589e5ae88e4b8ade7acace4b889e7aba0.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e59b9ee58589e5ae88e4b8ade7acace4b889e7aba0.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e59b9ee58589e5ae88e4b8ade7acace4b889e7aba0.pdf]]></wp:meta_value>
@@ -9187,7 +9187,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e59b9ee58589e8aabfe681afe7acace59b9be7aba0.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e59b9ee58589e8aabfe681afe7acace59b9be7aba0.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e59b9ee58589e8aabfe681afe7acace59b9be7aba0.pdf]]></wp:meta_value>
@@ -9220,7 +9220,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/e8bfb4e58589e5b7aee8acace7acace4ba94e7aba0.pdf</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/e8bfb4e58589e5b7aee8acace7acace4ba94e7aba0.pdf</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/e8bfb4e58589e5b7aee8acace7acace4ba94e7aba0.pdf]]></wp:meta_value>
@@ -9356,7 +9356,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2022/12/freedom.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2022/12/freedom.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2022/12/freedom.jpg]]></wp:meta_value>
@@ -9513,7 +9513,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/01/zhongzi2.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/01/zhongzi2.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/01/zhongzi2.png]]></wp:meta_value>
@@ -9546,7 +9546,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/02/world-tree.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/02/world-tree.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/02/world-tree.jpg]]></wp:meta_value>
@@ -9579,7 +9579,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/03/cult.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/03/cult.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/03/cult.jpg]]></wp:meta_value>
@@ -9711,7 +9711,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/03/dog2.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/03/dog2.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/03/dog2.png]]></wp:meta_value>
@@ -9744,7 +9744,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/03/dog1.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/03/dog1.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/03/dog1.png]]></wp:meta_value>
@@ -9777,7 +9777,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/03/mhzohm6.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/03/mhzohm6.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/03/mhzohm6.jpg]]></wp:meta_value>
@@ -9810,7 +9810,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/03/mhzohm6-1.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/03/mhzohm6-1.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/03/mhzohm6-1.jpg]]></wp:meta_value>
@@ -9843,7 +9843,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/04/efbd83efbd81efbd92efbd8c-jung.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/04/efbd83efbd81efbd92efbd8c-jung.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/04/efbd83efbd81efbd92efbd8c-jung.jpg]]></wp:meta_value>
@@ -9940,7 +9940,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/05/no-exit.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/05/no-exit.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/05/no-exit.jpg]]></wp:meta_value>
@@ -9973,7 +9973,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/binary-position.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/binary-position.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/binary-position.png]]></wp:meta_value>
@@ -10006,7 +10006,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/image.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/image.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/image.png]]></wp:meta_value>
@@ -10039,7 +10039,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/image-1.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/image-1.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/image-1.png]]></wp:meta_value>
@@ -10072,7 +10072,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/image-2.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/image-2.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/image-2.png]]></wp:meta_value>
@@ -10105,7 +10105,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/image-3.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/image-3.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/image-3.png]]></wp:meta_value>
@@ -10138,7 +10138,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/image-4.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/image-4.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/image-4.png]]></wp:meta_value>
@@ -10171,7 +10171,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/image-5.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/image-5.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/image-5.png]]></wp:meta_value>
@@ -10204,7 +10204,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/image-6.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/image-6.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/image-6.png]]></wp:meta_value>
@@ -10237,7 +10237,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/image-7.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/image-7.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/image-7.png]]></wp:meta_value>
@@ -10270,7 +10270,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/06/image-8.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/06/image-8.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/06/image-8.png]]></wp:meta_value>
@@ -10303,7 +10303,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/07/e9809ae99d88.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/07/e9809ae99d88.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/07/e9809ae99d88.jpg]]></wp:meta_value>
@@ -10336,7 +10336,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2023/10/personality-splitting.jpeg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2023/10/personality-splitting.jpeg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2023/10/personality-splitting.jpeg]]></wp:meta_value>
@@ -10398,7 +10398,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/02/wp-1708319500389.jpg</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/02/wp-1708319500389.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/02/wp-1708319500389.jpg]]></wp:meta_value>
@@ -10547,7 +10547,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-1.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-1.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-1.png]]></wp:meta_value>
@@ -10580,7 +10580,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-7.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-7.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-7.png]]></wp:meta_value>
@@ -10613,7 +10613,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-3.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-3.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-3.png]]></wp:meta_value>
@@ -10646,7 +10646,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-5.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-5.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-5.png]]></wp:meta_value>
@@ -10679,7 +10679,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-8.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-8.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-8.png]]></wp:meta_value>
@@ -10712,7 +10712,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-3-1.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-3-1.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-3-1.png]]></wp:meta_value>
@@ -10745,7 +10745,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-5-1.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-5-1.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-5-1.png]]></wp:meta_value>
@@ -10778,7 +10778,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-4.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-4.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-4.png]]></wp:meta_value>
@@ -10811,7 +10811,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-6.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-6.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-6.png]]></wp:meta_value>
@@ -10844,7 +10844,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-6-1.png</wp:attachment_url>
+  <wp:attachment_url>https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-6-1.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/1d6/182793397/files/2024/05/e7a59ee58a9f-6-1.png]]></wp:meta_value>
@@ -11218,7 +11218,7 @@ Meditation on mindfulness and equanimity can lead people to transcendence and re
   <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=971</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:jetpack/slideshow {"ids":[979,988,989,990],"sizeSlug":"full"} -->
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-979" data-id="979" src="https://curiosityforever.files.wordpress.com/2021/05/01-33.jpeg?w=527" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-988" data-id="988" src="https://curiosityforever.files.wordpress.com/2021/05/02-60-1.jpeg" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-989" data-id="989" src="https://curiosityforever.files.wordpress.com/2021/05/03-26-1.jpeg" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-990" data-id="990" src="https://curiosityforever.files.wordpress.com/2021/05/04-29-1.jpeg" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-979" data-id="979" src="https://whalefallnotes.blog/wp-content/uploads/2021/05/01-33.jpeg?w=527" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-988" data-id="988" src="https://whalefallnotes.blog/wp-content/uploads/2021/05/02-60-1.jpeg" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-989" data-id="989" src="https://whalefallnotes.blog/wp-content/uploads/2021/05/03-26-1.jpeg" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-990" data-id="990" src="https://whalefallnotes.blog/wp-content/uploads/2021/05/04-29-1.jpeg" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
 <!-- /wp:jetpack/slideshow -->
 
 <!-- wp:paragraph -->
@@ -13179,7 +13179,7 @@ In fact, there are many examples of individuals who have directly become mentall
 <!-- /wp:list -->
 
 <!-- wp:image {"id":7818,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2023/06/image-5.png?w=636" alt="" class="wp-image-7818" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2023/06/image-5.png?w=636" alt="" class="wp-image-7818" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -13251,7 +13251,7 @@ In fact, there are many examples of individuals who have directly become mentall
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":7823,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2023/06/image-7.png?w=882" alt="" class="wp-image-7823" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2023/06/image-7.png?w=882" alt="" class="wp-image-7823" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -13295,7 +13295,7 @@ In fact, there are many examples of individuals who have directly become mentall
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":7828,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2023/06/image-8.png?w=1022" alt="" class="wp-image-7828" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2023/06/image-8.png?w=1022" alt="" class="wp-image-7828" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -13307,7 +13307,7 @@ In fact, there are many examples of individuals who have directly become mentall
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7819,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2023/06/image-6.png?w=1024" alt="" class="wp-image-7819" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2023/06/image-6.png?w=1024" alt="" class="wp-image-7819" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -13794,7 +13794,7 @@ Among the twelve links, all "dependent originations" are subjective feelings a
 <!-- /wp:quote -->
 
 <!-- wp:jetpack/slideshow {"ids":[4928,4929,4931,4933],"sizeSlug":"large"} -->
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4928" data-id="4928" src="https://curiosityforever.files.wordpress.com/2022/10/image.png?w=305" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4929" data-id="4929" src="https://curiosityforever.files.wordpress.com/2022/10/184256g8.jpg?w=554" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4931" data-id="4931" src="https://curiosityforever.files.wordpress.com/2022/10/20210202006009.jpg?w=1024" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4933" data-id="4933" src="https://curiosityforever.files.wordpress.com/2022/10/fake-budda.png?w=668" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4928" data-id="4928" src="https://whalefallnotes.blog/wp-content/uploads/2022/10/image.png?w=305" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4929" data-id="4929" src="https://whalefallnotes.blog/wp-content/uploads/2022/10/184256g8.jpg?w=554" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4931" data-id="4931" src="https://whalefallnotes.blog/wp-content/uploads/2022/10/20210202006009.jpg?w=1024" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4933" data-id="4933" src="https://whalefallnotes.blog/wp-content/uploads/2022/10/fake-budda.png?w=668" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
 <!-- /wp:jetpack/slideshow -->
 
 <!-- wp:paragraph -->
@@ -15334,11 +15334,11 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6145,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2023/03/dog1.png?w=1024" alt="" class="wp-image-6145" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2023/03/dog1.png?w=1024" alt="" class="wp-image-6145" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":6144,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2023/03/dog2.png?w=1024" alt="" class="wp-image-6144" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2023/03/dog2.png?w=1024" alt="" class="wp-image-6144" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -15374,7 +15374,7 @@ Let go of the body and limbs, reject intellect and understanding, depart from fo
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6280,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2023/03/mhzohm6-1.jpg?w=1024" alt="" class="wp-image-6280" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2023/03/mhzohm6-1.jpg?w=1024" alt="" class="wp-image-6280" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -17672,7 +17672,7 @@ Many people are deeply addicted to mysticism and view the mantra at the end of t
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4783,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2022/09/yin_and_yang_symbol.svg_.png?w=736" alt="" class="wp-image-4783" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2022/09/yin_and_yang_symbol.svg_.png?w=736" alt="" class="wp-image-4783" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -19605,7 +19605,7 @@ audio/mpeg
 <!-- /wp:paragraph -->
 
 <!-- wp:jetpack/slideshow {"ids":[9619,9620],"sizeSlug":"large"} -->
-<div class="wp-block-jetpack-slideshow aligncenter"><div data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-9619" data-id="9619" src="https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-3-1.png?w=1024" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-9620" data-id="9620" src="https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-5-1.png?w=1024" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div></div>
+<div class="wp-block-jetpack-slideshow aligncenter"><div data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-9619" data-id="9619" src="https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-3-1.png?w=1024" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-9620" data-id="9620" src="https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-5-1.png?w=1024" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div></div>
 <!-- /wp:jetpack/slideshow -->
 
 <!-- wp:paragraph -->
@@ -19621,19 +19621,19 @@ audio/mpeg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":9604,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-7.png?w=1024" alt="" class="wp-image-9604" /><figcaption class="wp-element-caption">電影中的祖師與現實中坊間的六壬仙師畫像十分神似。而在壇上寫上「大顯威靈」的法扇也是現實中茅山和六壬法教所常常用到的「法器」。其作用為讓其教派弟子可建立作為在其宗教固定法壇外的「臨時流動法壇」，以供在宗教法壇外進行召請神靈儀式之用。因為「神打」需要在法壇前進行。否則被認為有被其他非自身宗教的靈體附身的風險。</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-7.png?w=1024" alt="" class="wp-image-9604" /><figcaption class="wp-element-caption">電影中的祖師與現實中坊間的六壬仙師畫像十分神似。而在壇上寫上「大顯威靈」的法扇也是現實中茅山和六壬法教所常常用到的「法器」。其作用為讓其教派弟子可建立作為在其宗教固定法壇外的「臨時流動法壇」，以供在宗教法壇外進行召請神靈儀式之用。因為「神打」需要在法壇前進行。否則被認為有被其他非自身宗教的靈體附身的風險。</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":9603,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-1.png?w=1024" alt="" class="wp-image-9603" /><figcaption class="wp-element-caption">信徒以香向檯上代表祖師宗教法壇的法扇借取法力或邀請其宗教的神靈附上自己的體內。</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-1.png?w=1024" alt="" class="wp-image-9603" /><figcaption class="wp-element-caption">信徒以香向檯上代表祖師宗教法壇的法扇借取法力或邀請其宗教的神靈附上自己的體內。</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":9621,"width":"620px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-4.png?w=1024" alt="" class="wp-image-9621" style="width:620px;height:auto" /><figcaption class="wp-element-caption">電影中王九在吃火炭前需高舉劍指並同時重重地踏一下左腳以「啟動」法力也是真實民間法教的儀式。</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-4.png?w=1024" alt="" class="wp-image-9621" style="width:620px;height:auto" /><figcaption class="wp-element-caption">電影中王九在吃火炭前需高舉劍指並同時重重地踏一下左腳以「啟動」法力也是真實民間法教的儀式。</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":9627,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://curiosityforever.files.wordpress.com/2024/05/e7a59ee58a9f-6-1.png?w=1024" alt="" class="wp-image-9627" /></figure>
+<figure class="wp-block-image size-large"><img src="https://whalefallnotes.blog/wp-content/uploads/2024/05/e7a59ee58a9f-6-1.png?w=1024" alt="" class="wp-image-9627" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -19720,18 +19720,18 @@ audio/mpeg
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>但當進行並嘗試控制一個或整個身體部份時，潛意識(本能、情緒、慾望) 會阻止你，因為你在侵入潛意識的「領地」，而「控制」就是與修行就是練習顯意識與潛意識爭奪自己身體的控制權。潛意識為了抵抗你的你入侵，會釋放出大量大腦訊號如念頭、身體訊號(如痕癢、麻痺、痛楚等等)和慾望去吸引你顯意識的注意，讓你不能繼續透過觀察去侵入潛意識的「領地」。這時候只需要讓自己擺脫並認識這些潛意識訊號的來源，最後和這些訊號保持距離，不要企圖消滅這些由潛意識釋放的訊號，也不要排斥和抗拒這些訊號，只需接受其存在，但不要受其影響。捨棄對這些訊號的判斷，讓自己全然投入進行純粹的觀察就是修行。也是所為一個人類最自然的行為，也就是「止觀」、「定慧」、「守一」、「坐忘」、「冥想」、「禪修」、「太極」、「瑜伽」等等所有修行方法的本質和價值。</p>
+<p>但當進行並嘗試控制一個或整個身體部份時，潛意識(本能、情緒、慾望) 會阻止你，因為你在侵入潛意識的「領地」，而「控制」就是與修行就是練習顯意識與潛意識爭奪自己身體的控制權。潛意識為了抵抗你的你入侵，會釋放出大量大腦訊號如念頭、身體訊號(如痕癢、麻痺、痛楚等等)和慾望去吸引你顯意識的注意，讓你不能繼續透過觀察去侵入潛意識的「領地」。這時候只需要讓自己擺脫並認識這些潛意識訊號的來源，最後和這些訊號保持距離。<strong><span style="text-decoration: underline">從各種大腦訊號中歸來，然後相信和依靠你的觀察對象(意識錨點)</span>。</strong>不要企圖消滅這些由潛意識釋放的訊號，也不要排斥和抗拒這些訊號，只需接受其存在，但不要受其影響。捨棄對這些訊號的判斷，讓自己全然投入進行純粹的觀察就是修行。也是所為一個人類最自然的行為，也就是「止觀」、「定慧」、「守一」、「坐忘」、「冥想」、「禪修」、「太極」、「瑜伽」等等所有修行方法的本質和價值。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>But when you try to control a part or the whole body, the subconscious (instinct, emotion, desire) will stop you, because you are invading the "territory" of the subconscious, and "control" is the practice of conscious and subconscious vying for control of one’s own body. The subconscious, in order to resist your invasion, will release a large number of brain signals such as thoughts, body signals (such as itching, numbness, pain, etc.) and desires to attract your conscious attention, so that you cannot continue to observe and invade the "territory" of the subconscious. At this time, you only need to free yourself and recognize the source of these subconscious signals, finally keep a distance from these signals, do not attempt to eliminate these signals released by the subconscious, do not reject and resist these signals, just accept their existence, but do not be affected by them. Abandoning judgment on these signals and fully engaging in pure observation is cultivation. It is also the most natural behavior of a human being, that is, the essence and value of all cultivation methods such as "Samatha-Vipassana", "Samadhi-Prajna", "One-pointedness", "Sitting in oblivion", "Meditation", "Zen practice", "Tai Chi", "Yoga", and so on.</p>
+<p>But when you try to control a part or the whole body, the subconscious (instinct, emotion, desire) will stop you, because you are invading the "territory" of the subconscious, and "control" is the practice of conscious and subconscious vying for control of one’s own body. The subconscious, in order to resist your invasion, will release a large number of brain signals such as thoughts, body signals (such as itching, numbness, pain, etc.) and desires to attract your conscious attention, so that you cannot continue to observe and invade the "territory" of the subconscious. At this time, you only need to free yourself and recognize the source of these subconscious signals, finally keep a distance from these signals. Come back from various brain signals, and then trust and rely on your observation object (awareness anchor). Do not attempt to eliminate these signals released by the subconscious, do not reject and resist these signals, just accept their existence, but do not be affected by them. Abandoning judgment on these signals and fully engaging in pure observation is cultivation. It is also the most natural behavior of a human being, that is, the essence and value of all cultivation methods such as "Samatha-Vipassana", "Samadhi-Prajna", "One-pointedness", "Sitting in oblivion", "Meditation", "Zen practice", "Tai Chi", "Yoga", and so on.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>9770</wp:post_id>
   <wp:post_date>2024-05-08 22:20:23</wp:post_date>
   <wp:post_date_gmt>2024-05-08 14:20:23</wp:post_date_gmt>
-  <wp:post_modified>2024-05-09 14:13:03</wp:post_modified>
-  <wp:post_modified_gmt>2024-05-09 06:13:03</wp:post_modified_gmt>
+  <wp:post_modified>2024-05-20 22:25:56</wp:post_modified>
+  <wp:post_modified_gmt>2024-05-20 14:25:56</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>meditation-zen-practice-is-the-practice-of-conscious-and-subconscious-vying-for-control-of-ones-own-body</wp:post_name>
@@ -19742,14 +19742,6 @@ audio/mpeg
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="philosophy"><![CDATA[philosophy]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_jetpack_memberships_contains_paywalled_content</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_jetpack_memberships_contains_paid_content</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
     <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
@@ -19772,11 +19764,95 @@ audio/mpeg
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>wordads_ufa</wp:meta_key>
-    <wp:meta_value><![CDATA[s:wpcom-ufa-v4:1715235187]]></wp:meta_value>
+    <wp:meta_value><![CDATA[s:wpcom-ufa-v4:1716215197]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>reader_suggested_tags</wp:meta_key>
-    <wp:meta_value><![CDATA[["Mindfulness","Spirituality","Consciousness","Meditation","Subconscious"]]]></wp:meta_value>
+    <wp:meta_value><![CDATA[["Meditation","Spirituality","Consciousness","Subconscious Mind","Manifestation"]]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[在行動之前停止過度尋找「意義」的思考 Stop overthinking the so-called search for "meaning" before taking action.]]></title>
+  <link>http://whalefallnotes.blog/2024/05/26/stop-all-thoughts-about-the-so-called-search-for-meaning/</link>
+  <pubDate>Sat, 25 May 2024 16:54:25 +0000</pubDate>
+  <dc:creator>luciusbright</dc:creator>
+  <guid isPermaLink="false">https://whalefallnotes.blog/?p=9799</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>筆者有一段時期因為讀書學習壓力得不到舒解而沉迷口腹之慾，最後讓身體變得肥胖。但後來為了追求一位心儀的女生而首次自發性地跑步和節食減肥。自此之後，跑步和節食的唯一「意義」就是爭取與該女生交往的機會。但筆者在跑步期間發現，抱著為了目標「努力」或「堅持」等態度會讓跑步的「任務感」很重，同時導致身體也很容易疲累。在跑步一段時候後，筆者逐漸可以專心感受跑動的過程，不帶有任何目的和期待，專注做好每一個動作，最後竟然在跑動過程中感受到「樂趣」。因為這種「樂趣」，讓筆者享受運動的過程，跑動的時間大副延長，體能也因此大大提升。雖然最後該女生並沒有接受筆者的追求，但在後來一段長時間內跑步卻成為了筆者的習慣和興趣。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I had a period of time where they indulged in the desire for food and drink due to unrelieved study stress, which eventually led to obesity. But later, for the pursuit of a beloved girl, I spontaneously started running and dieting for the first time. Since then, the only "meaning" of running and dieting was to strive for the opportunity to date that girl. However, I found during running that holding attitudes of "effort" or "persistence" for the goal would make the sense of "mission" in running very heavy, and at the same time, it would make the body easily tired. After running for a while, I gradually could focus on the process of running, without any purpose or expectation for any goal, focusing on doing every action well, and finally felt "fun" in the process of running. Because of this "fun", I enjoyed the process of exercise, the time of running greatly extended, and physical fitness was greatly improved. Although the girl did not accept my pursuit in the end, running became my habit and interest afterwards even over a long period of time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>任何行動 (包括生活行為例如打掃、工作、運動、學習等等) 一開始的所謂「意義 (減肥、賺錢等等)」其實並不一定是整個行動的驅動力，而且行動前的動機也不代表是行動過程或行動後的「意義」。因為在行動的過程當中，如果可以排除自己的情緒(焦慮、恐懼、失落或自我懷疑等等)、價值觀和預設的意識形態，全情投入和專心觀察在當下的行動，就會讓人在行動當中或行動後感受到一種奇妙的「樂趣」。這種「樂趣」會取代行動前由最初的「意義」所提供的驅動力，成為一種新的驅動力。這種由「樂趣」所提供的驅動力更單純，持久力會更強，也不需要強迫自己提供「努力」或者「堅持」的態度作為催谷自己的「燃料」去行動，享受這種「樂趣」最後反而變成行動的唯一動機和「意義」。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Any action (including life behaviors such as cleaning, working, exercising, learning, etc.) initially has a so-called "meaning" (such as losing weight, making money, etc.) which is not necessarily the driving force of the entire action, and the motive before the action does not represent the "meaning" of the process or after the action. Because in the process of action, if you can exclude your own emotions (anxiety, fear, loss or self-doubt, etc.), values, and preset ideologies, fully invest and carefully observe the action at the moment, you will feel a wonderful "fun" during or after the action. This "fun" will replace the driving force provided by the initial "meaning" before the action and become a new driving force. The driving force provided by this "fun" is purer, the endurance will be stronger, and there is no need to force yourself to provide an attitude of "effort" or "persistence" as the "fuel" for your action, enjoying this "fun" eventually becomes the only motive and "meaning" of the action.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>換句話說，<strong>讓人感受到有「樂趣」的行動其實是不需要透過讓自己「努力」或讓自己感到需要「堅持」就會自己主動去做，因為「樂趣」會取代行動前的「意義」成為新的意義。就算行動前沒有「樂趣」作為驅動力，也可以在排除自己的情緒、價值觀和預設的意識形態後，抱持不偏不倚的中性態度對待行動，沒有帶有任何批判地觀察和感受當下的行動而自發產生。在行動前過度的思考和尋找行動的意義只會引起無謂內耗和焦慮，反而更容易讓自己在行動前失去驅動力，更不容易踏出第一步，變成「越想尋找行動的意義，就反而變得越迷惘」的自我封閉的消極循環，得不償失。</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In other words, actions that make people feel "fun" do not require one to "try hard" or feel the need to "persist" in order to take initiative. This is because "fun" replaces the "meaning" before the action and becomes the new meaning. Even if there is no "fun" as a driving force before the action, it can still spontaneously arise after excluding one’s emotions, values, and preset ideologies, treating the action with an unbiased neutral attitude, and observing and feeling the current action without any criticism. Overthinking and searching for the meaning of the action before the action will only cause unnecessary internal consumption and anxiety, making it easier for oneself to lose the driving force before the action, making it harder to take the first step, and becoming a self-closed negative cycle of "the more you want to find the meaning of the action, the more confused you become", which is not worth the loss.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>9799</wp:post_id>
+  <wp:post_date>2024-05-26 00:54:25</wp:post_date>
+  <wp:post_date_gmt>2024-05-25 16:54:25</wp:post_date_gmt>
+  <wp:post_modified>2024-05-26 00:59:41</wp:post_modified>
+  <wp:post_modified_gmt>2024-05-25 16:59:41</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>stop-all-thoughts-about-the-so-called-search-for-meaning</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="life"><![CDATA[life]]></category>
+  <category domain="category" nicename="philosophy"><![CDATA[philosophy]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>reader_suggested_tags</wp:meta_key>
+    <wp:meta_value><![CDATA[["Movies","Review","Reviews","Action","Film"]]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>wordads_ufa</wp:meta_key>
+    <wp:meta_value><![CDATA[s:wpcom-ufa-v4:1716656386]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>firehose_sent</wp:meta_key>
+    <wp:meta_value><![CDATA[1716656067]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[94890189872]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1716656068]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_shares</wp:meta_key>
+    <wp:meta_value><![CDATA[a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401 (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1716656069;s:7:"service";s:7:"twitter";s:13:"connection_id";i:24281674;s:13:"external_name";s:15:"LifeisCuriosity";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>

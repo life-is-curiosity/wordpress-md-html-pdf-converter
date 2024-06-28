@@ -33,149 +33,49 @@
 <script>window.onload = function () { twemoji.parse(document.body);}</script>	
 </head>
 
-<body><h1 id="api-gateway-in-nodejs">API Gateway in NodeJS</h1>
-<p>Date: 2022-11-23 20:29:12</p>
-<!-- wp:jetpack/slideshow {"ids":[4029,4030],"sizeSlug":"large"} -->
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
-<div class="wp-block-jetpack-slideshow_container swiper-container">
-<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
-<li class="wp-block-jetpack-slideshow_slide swiper-slide">
-<figure>
-<img alt="" class="wp-block-jetpack-slideshow_image wp-image-4029" data-id="4029" src="https://whalefallnotes.blog/wp-content/uploads/2022/05/apigateway-components-1.png?w=1024" />
+<body><h1
+id="人生目標總是要追求所謂的幸福嗎">人生目標總是要追求所謂的幸福嗎？</h1>
+<p>Date: 2022-06-16 20:53:51</p>
+<!-- wp:image {"id":4161,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large">
+<img src="https://whalefallnotes.blog/wp-content/uploads/2022/06/image.png?w=1024" alt="" class="wp-image-4161" />
 </figure>
-</li>
-<li class="wp-block-jetpack-slideshow_slide swiper-slide">
-<figure>
-<img alt="" class="wp-block-jetpack-slideshow_image wp-image-4030" data-id="4030" src="https://whalefallnotes.blog/wp-content/uploads/2022/05/auth-login-sequence.png?w=1024" />
-</figure>
-</li>
-</ul>
-<a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
-<div
-class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white">
-
-</div>
-</div>
-</div>
-<!-- /wp:jetpack/slideshow -->
+<!-- /wp:image -->
 <!-- wp:paragraph -->
 <p>
-<a href="https://github.com/life-is-curiosity/js-apigateway" target="_blank" rel="noreferrer noopener">https://github.com/life-is-curiosity/js-apigateway</a>
+我常常在生活中發現很多「情緒主義者」，當你表達想追求「內心的平靜」時，他們的情緒反應會出奇地大，就像狂熱的宗教信徒一樣，用各種例子去反駁「平靜」對人生的意義，加強「慾望」和「情緒」對人生的重要性。認為人生需要不斷追求「快樂」或者「幸福」才算活得有意義。
 </p>
 <!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2>
-Feature
-</h2>
-<!-- /wp:heading -->
-<!-- wp:list {"ordered":true} -->
-<ol>
-<!-- wp:list-item -->
-<li>
-<strong>API Rules</strong><br>Parameter checking<br>Support
-regular-expression<br>
-</li>
-<!-- /wp:list-item -->
-<!-- wp:list-item -->
-<li>
-<strong>Distributed Load-Balancing
-Algorithms</strong><br>Random-Weighted Average Load-balancing algorithms
-to route the requests to different microservice endpoints.<br>
-</li>
-<!-- /wp:list-item -->
-<!-- wp:list-item -->
-<li>
-<strong>Asymmetric JWT Double-Lock Session</strong><br>Support private
-api, asymmetric key lock and basic session management<br>
-</li>
-<!-- /wp:list-item -->
-<!-- wp:list-item -->
-<li>
-<strong>Rate-Limit Components</strong><br>Able to customize the
-rate-limit for preventing the system loading<br>
-</li>
-<!-- /wp:list-item -->
-<!-- wp:list-item -->
-<li>
-<strong>Http API Proxy Gateway</strong><br>Http API redirect to other
-internal service endpoints<br>
-</li>
-<!-- /wp:list-item -->
-<!-- wp:list-item -->
-<li>
-<strong>Single Redis Instance</strong><br>Session or any persistance by
-Redis
-</li>
-<!-- /wp:list-item -->
-</ol>
-<!-- /wp:list -->
-<!-- wp:heading -->
-<h2>
-Environment Construction
-</h2>
-<!-- /wp:heading -->
-<!-- wp:code -->
-<pre class="wp-block-code"><code>npm install or yarn install</code></pre>
-<!-- /wp:code -->
-<!-- wp:heading -->
-<h2>
-Configuration
-</h2>
-<!-- /wp:heading -->
-<!-- wp:code -->
-<pre class="wp-block-code"><code>{
-  "redis": {
-    "host": "localhost",
-    "port": 6379,
-    "auth": "",
-    "db": 0,
-    "max_clients": 30,
-    "tls": false
-  },
-  "rate_limit": {
-    "interval_ms": "60000",
-    "max_requests": "120"
-  },
-  "service_endpoints": {
-    "timeout": 5000,
-    "user": &#091;
-      {
-        "hostname": "localhost",
-        "port": 3001,
-        "weight": 10
-      },
-      {
-        "hostname": "localhost",
-        "port": 3002,
-        "weight": 2
-      },
-      {
-        "hostname": "localhost",
-        "port": 3003,
-        "weight": 2
-      },
-      {
-        "hostname": "localhost",
-        "port": 3004,
-        "weight": 4
-      }
-    ]
-  },
-  "session": {
-    "algorithm": "RS256",
-    "expire": 180
-  }
-}
-</code></pre>
-<!-- /wp:code -->
-<!-- wp:heading -->
-<h2>
-Execution
-</h2>
-<!-- /wp:heading -->
-<!-- wp:code -->
-<pre class="wp-block-code"><code>pm2 start pm2.json --env local &gt; /dev/null</code></pre>
-<!-- /wp:code -->
+<!-- wp:paragraph -->
+<p>
+年輕的時候，我們以為慾望就等於幸福。我們渴望性、錢、物質、權力等在世俗令人羨慕的一切。整個資本主義社會透過不同的媒體廣告令我們相信擁有這些東就就等於擁有了幸福。雖然表面來看我們人類一直以來都對性、錢、物質、權力等等的追求被看成是是一種慾望，但<strong>本質上其實每個人都建立一種關於「幸福」的信仰，這些要起我們情緒和慾望的外在事物不過是幫助我們達到「幸福」這種狀態的手段</strong>。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+當我們整體社會都建立一種「幸福」的信仰時，其他人提出一些另類的人生觀便會遭到恥笑，尤其明顯在社會恥笑一些躺平主義者、或者一些在他們眼裡「不上進」的人。因為「躺平」或者「不上進」他們眼裡代表在物質上的不豐盛，代表對自己的人生放棄態度，代表人生沒有追求的墮落，代表對社會沒有責任感。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+當然這種人生觀的對立也是社會有意為之，試想想如果沒有人「相信物質可以帶來幸福或者快樂」，那就沒有人消費，沒有人消費在資本主義社會來說是一種「極限通縮」，所有經濟活動就會撤底停止，資源就不會集中在某些人的手中去發展其他事物。所以你因為對「幸福」的信仰而產生出對性、錢、物質、權力等等事物的慾望，再由這些慾望產生出的消費正正就是維持社會經濟活動所需要。沒錯，<strong>你的慾望是維持資本主義社會的動力</strong>。當然，<strong>決定一個人在資本主義社會的地位不是單純的消費能力，反而是「價值產出的能力」</strong>，通常一個人在群體裡在資本市場創造的價值越高地位就會跟著水漲船高，當然這種人在社會比例較少和相比之下整體社會大多數人的消費更為重要。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+在歐洲、日本等國家，甚至在中國反而開始逐漸盛行所謂「無慾望社會」，無論是中國的「躺平主義」、或者其他國家的「草食男」、「簡約主義」、「低慾望社會」、「悟世代」等等。都在不約而同地在不同地區建立相同的低慾望文化。對他們來說，發現慾望越少反而越是自由，所有引起「情緒」與「慾望」的事物都是一個牢籠，越是對某些事物渴望越是深陷其中不能自拔，需要很努力克制才不會淪為慾望的奴隸。對社會來說，因為他們並沒有慾望驅動的消費，所以甚至被社會上某些人評為「社會蛀米蟲」、「墮落的一代」等等。但對每個個體來說，始終每個人的幸福標準和達到的條件不一樣，如果這部份人因為得到「平靜」而重新詮釋他們的「幸福」定義，何苦需要他們要為社會的所謂「進步」或者「他人的幸福」而付出。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+對情緒本質有足夠的了解的人就會知道，<strong>你無法一直都感到「幸福」，你需要感覺到「不幸」才不致對「幸福」麻木</strong>。<strong>這也是人心的法則之一。沒有「不幸」的感覺作為對比，「幸福」就失去它的意義</strong>。<strong>當你失去「不幸」的感覺對比後變得麻木變得空虛，你就需要更大的刺激去令你感到「幸福」，這種過程在兩種對比之間，在兩種極端之間變化幾乎無窮無盡，這也是很多人陷於慾望不能自拔的原因</strong>。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+無慾可以毀滅一個社會，但可以救贖個人，你會如何選擇呢。
+</p>
+<!-- /wp:paragraph -->
 
 </body>
 </html>

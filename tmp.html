@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<base href="./" target="_blank">
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+	<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+	<link href="github.css" rel="stylesheet">
+	<style>
+		table {
+			border-collapse:collapse;
+				}
+		figure img {
+			margin: 0 auto;
+			display: table-cell;
+		}
+		figcaption{
+			text-align: center;
+		}
+		p img:not(:nth-child(1)) {
+			margin:0 auto;
+			display: table-cell;
+		}
+	
+
+		img.emoji {
+		   height: 1em;
+		   width: 1em;
+		   margin: 0 .05em 0 .1em;
+		   vertical-align: -0.1em;
+		}
+</style>
+<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.2"></script>
+<script>window.onload = function () { twemoji.parse(document.body);}</script>	
+</head>
+
+<body><h1 id="tcp-port-forwarding-in-python">TCP Port Forwarding in
+Python</h1>
+<p>Date: 2020-09-17 13:37:32</p>
+<!-- wp:paragraph -->
+<p>
+In computer networking, <strong>Port forwarding</strong> or <strong>Port
+mapping</strong> is an application of network address translation (NAT)
+that redirects a communication request from one address and port
+number combination to another while the packets are traversing a network
+gateway. This technique is most commonly used to make services on a host
+residing on a protected or masqueraded (internal) network available to
+hosts on the opposite side of the gateway (external network), by
+remapping the destination IP address and port number of the
+communication to an internal host.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:image {"id":145,"width":910,"height":429,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large is-resized">
+<img src="https://whalefallnotes.blog/wp-content/uploads/2020/09/port-forwading-in-python.png?w=1021" alt="" class="wp-image-145" width="910" height="429" />
+<figcaption>
+Port Forwarding in a simple network system
+</figcaption>
+</figure>
+<!-- /wp:image -->
+<!-- wp:paragraph -->
+<p>
+The client side is not allowed to access subnet 192.168.2.0 directly but
+server 192.168.1.2 can help to redirect the TCP request to the subnet
+192.168.2.0. It can also prevent to expose the subnet IP to the public.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">
+<strong>Implementation</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+We are going to build a tunnel by two threads on the script. One of
+threads is a socket client and another one is socket server. What we are
+going to do is connect both of them together and the packet stream can
+be streaming here.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+The libraries we need to import:
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:jetpack/markdown {"source":"```python3\n\nimport time\nimport socket\nimport _thread\nimport sys\nimport getopt\n```\n"} -->
+<div class="wp-block-jetpack-markdown">
+<pre><code class="language-python3">
+import time
+import socket
+import _thread
+import sys
+import getopt
+</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+<!-- wp:paragraph -->
+<p>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">
+How to run the script
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:jetpack/markdown {"source":"```python3\n\ndef exception():\n    print('Usage : port_forward.py -f  -i  -p ')\n\n\ndef main(argv):\n    from_port = 0\n    ip = ''\n    to_port = 0\n    try:\n        opts, args = getopt.getopt(\n            argv, \u0022h:f:i:t:\u0022, [\u0022help\u0022, \u0022from_port=\u0022, \u0022ip=\u0022, \u0022to_port=\u0022])\n        if len(opts) != 3:\n            exception()\n        for opt, arg in opts:\n            if opt in (\u0022-h\u0022, \u0022\u002d\u002dhelp\u0022):\n                exception()\n            elif opt in (\u0022-f\u0022, \u0022\u002d\u002dfrom_port\u0022):\n                from_port = int(arg)\n            elif opt in (\u0022-i\u0022, \u0022\u002d\u002dip\u0022):\n                ip = arg\n            elif opt in (\u0022-t\u0022, \u0022\u002d\u002dto_port\u0022):\n                to_port = int(arg)\n    except getopt.GetoptError:\n        exception()\n    tunnel(from_port, ip, to_port)\n\n\nif __name__ == '__main__':\n    main(sys.argv[1:])\n\n```"} -->
+<div class="wp-block-jetpack-markdown">
+<pre><code class="language-python3">
+def exception():
+    print('Usage : port_forward.py -f  -i  -p ')
+
+
+def main(argv):
+    from_port = 0
+    ip = ''
+    to_port = 0
+    try:
+        opts, args = getopt.getopt(
+            argv, &quot;h:f:i:t:&quot;, [&quot;help&quot;, &quot;from_port=&quot;, &quot;ip=&quot;, &quot;to_port=&quot;])
+        if len(opts) != 3:
+            exception()
+        for opt, arg in opts:
+            if opt in (&quot;-h&quot;, &quot;--help&quot;):
+                exception()
+            elif opt in (&quot;-f&quot;, &quot;--from_port&quot;):
+                from_port = int(arg)
+            elif opt in (&quot;-i&quot;, &quot;--ip&quot;):
+                ip = arg
+            elif opt in (&quot;-t&quot;, &quot;--to_port&quot;):
+                to_port = int(arg)
+    except getopt.GetoptError:
+        exception()
+    tunnel(from_port, ip, to_port)
+
+
+if __name__ == '__main__':
+    main(sys.argv[1:])
+
+</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+<!-- wp:jetpack/markdown {"source":"\u0026gt; python3 port_forward.py -f (from port)  -i (ip)  -p  (to port)"} -->
+<div class="wp-block-jetpack-markdown">
+<p>
+&gt; python3 port_forward.py -f (from port) -i (ip) -p (to port)
+</p>
+</div>
+<!-- /wp:jetpack/markdown -->
+<!-- wp:paragraph -->
+<p>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+For example of localhost:8089 mapping to localhost:8081
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:jetpack/markdown {"source":"```python3 \ntunnel(8089, '127.0.0.1', 8081)\n```"} -->
+<div class="wp-block-jetpack-markdown">
+<pre><code class="language-python3">tunnel(8089, '127.0.0.1', 8081)
+</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+<!-- wp:paragraph -->
+<p>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+Build and connect the socket tunnel between host and destination by two
+threads.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:jetpack/markdown {"source":"```python3\n\n# Buffer size\nbuffer = 2048\n# Maximum connections\nbacklog = 10\nlocalhost = '127.0.0.1'\n```"} -->
+<div class="wp-block-jetpack-markdown">
+<pre><code class="language-python3">
+# Buffer size
+buffer = 2048
+# Maximum connections
+backlog = 10
+localhost = '127.0.0.1'
+</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+<!-- wp:jetpack/markdown {"source":"```python3\n\ndef tunnel(from_port, to_ip, to_port, local_ip=''):\n    global backlog\n    if local_ip is '' or local_ip is None:\n        local_ip = localhost\n    if to_ip is '' or to_ip is None:\n        to_ip = localhost\n    print(\u0022Listening from {} to {}\u0022.format(\n        full_address(local_ip, from_port), full_address(to_ip, to_port)))\n    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    sock.bind((local_ip, from_port))\n    sock.listen(backlog)\n    while True:\n        sock, address = sock.accept()\n        print(\u0022Connected from local port{} to destination {}\u0022.format(\n            from_port, address[0]))\n        forward = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n        try:\n            forward.connect((to_ip, to_port))\n            build_tunnel(sock, forward)\n        except Exception as ex:\n            print(\u0022Connection Error {}, retry after 5 seconds \u0022.format(ex))\n            time.sleep(5)\n            tunnel(from_port, to_ip, to_port, local_ip)\n```"} -->
+<div class="wp-block-jetpack-markdown">
+<pre><code class="language-python3">
+def tunnel(from_port, to_ip, to_port, local_ip=''):
+    global backlog
+    if local_ip is '' or local_ip is None:
+        local_ip = localhost
+    if to_ip is '' or to_ip is None:
+        to_ip = localhost
+    print(&quot;Listening from {} to {}&quot;.format(
+        full_address(local_ip, from_port), full_address(to_ip, to_port)))
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    sock.bind((local_ip, from_port))
+    sock.listen(backlog)
+    while True:
+        sock, address = sock.accept()
+        print(&quot;Connected from local port{} to destination {}&quot;.format(
+            from_port, address[0]))
+        forward = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        try:
+            forward.connect((to_ip, to_port))
+            build_tunnel(sock, forward)
+        except Exception as ex:
+            print(&quot;Connection Error {}, retry after 5 seconds &quot;.format(ex))
+            time.sleep(5)
+            tunnel(from_port, to_ip, to_port, local_ip)
+</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+<!-- wp:jetpack/markdown {"source":"```python3\n\ndef build_tunnel(socket, forward):\n    try:\n        _thread.start_new_thread(socket_pipeline, (socket, forward))\n        _thread.start_new_thread(socket_pipeline, (forward, socket))\n    except Exception as e:\n        print(\u0022error {}\u0022.format(e))\n        raise e\n    while True:\n        pass\n```"} -->
+<div class="wp-block-jetpack-markdown">
+<pre><code class="language-python3">
+def build_tunnel(socket, forward):
+    try:
+        _thread.start_new_thread(socket_pipeline, (socket, forward))
+        _thread.start_new_thread(socket_pipeline, (forward, socket))
+    except Exception as e:
+        print(&quot;error {}&quot;.format(e))
+        raise e
+    while True:
+        pass
+</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+<!-- wp:jetpack/markdown {"source":"```python3\n\ndef socket_pipeline(source, sink):\n    print(\u0022Socket pipeline created from {} to {}\u0022.format(\n        source.getpeername(), sink.getpeername()))\n    global buffer\n    while True:\n        try:\n            data = source.recv(buffer)\n            if not data:\n                break\n            sink.send(data)\n        except Exception as ex:\n            print(\u0022error {}\u0022.format(ex))\n            raise ex\n    source.close()\n    sink.close()\n```"} -->
+<div class="wp-block-jetpack-markdown">
+<pre><code class="language-python3">
+def socket_pipeline(source, sink):
+    print(&quot;Socket pipeline created from {} to {}&quot;.format(
+        source.getpeername(), sink.getpeername()))
+    global buffer
+    while True:
+        try:
+            data = source.recv(buffer)
+            if not data:
+                break
+            sink.send(data)
+        except Exception as ex:
+            print(&quot;error {}&quot;.format(ex))
+            raise ex
+    source.close()
+    sink.close()
+</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+
+</body>
+</html>

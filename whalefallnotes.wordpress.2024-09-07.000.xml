@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2024-09-04 17:30"-->
+<!-- generator="WordPress.com" created="2024-09-07 16:57"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>鯨落筆記 Whale Fall Notes</title>
 <link>http://whalefallnotes.blog</link>
 <description>原始佛教 Pre-sectarian (Original) Buddhism｜道教 Taoism (Daoism)｜古瑜伽 Ancient Yoga｜哲學 Philosophy｜靈氣 Reiki｜薩滿 Shaman｜太極 Tai Chi｜氣功 Qi-Gong｜軟件工程 Software Engineering</description>
-<pubDate>Wed, 04 Sep 2024 17:30:20 +0000</pubDate>
+<pubDate>Sat, 07 Sep 2024 16:57:58 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -7477,178 +7477,6 @@ https://www.youtube.com/watch?v=HFWybbyg5PI
   </wp:postmeta>
 </item>
 <item>
-  <title><![CDATA[API Gateway in NodeJS]]></title>
-  <link>http://whalefallnotes.blog/2022/11/23/api-gateway-in-nodejs/</link>
-  <pubDate>Wed, 23 Nov 2022 12:29:12 +0000</pubDate>
-  <dc:creator>luciusbright</dc:creator>
-  <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4025</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:jetpack/slideshow {"ids":[4029,4030],"sizeSlug":"large"} -->
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4029" data-id="4029" src="https://whalefallnotes.blog/wp-content/uploads/2022/05/apigateway-components-1.png?w=1024" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4030" data-id="4030" src="https://whalefallnotes.blog/wp-content/uploads/2022/05/auth-login-sequence.png?w=1024" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
-<!-- /wp:jetpack/slideshow -->
-
-<!-- wp:paragraph -->
-<p><a href="https://github.com/life-is-curiosity/js-apigateway" target="_blank" rel="noreferrer noopener">https://github.com/life-is-curiosity/js-apigateway</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Feature</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><!-- wp:list-item -->
-<li><strong>API Rules</strong><br>Parameter checking<br>Support regular-expression<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Distributed Load-Balancing Algorithms</strong><br>Random-Weighted Average Load-balancing algorithms to route the requests to different microservice endpoints.<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Asymmetric JWT Double-Lock Session</strong><br>Support private api, asymmetric key lock and basic session management<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Rate-Limit Components</strong><br>Able to customize the rate-limit for preventing the system loading<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Http API Proxy Gateway</strong><br>Http API redirect to other internal service endpoints<br></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Single Redis Instance</strong><br>Session or any persistance by Redis</li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
-<h2>Environment Construction</h2>
-<!-- /wp:heading -->
-
-<!-- wp:code -->
-<pre class="wp-block-code"><code>npm install or yarn install</code></pre>
-<!-- /wp:code -->
-
-<!-- wp:heading -->
-<h2>Configuration</h2>
-<!-- /wp:heading -->
-
-<!-- wp:code -->
-<pre class="wp-block-code"><code>{
-  "redis": {
-    "host": "localhost",
-    "port": 6379,
-    "auth": "",
-    "db": 0,
-    "max_clients": 30,
-    "tls": false
-  },
-  "rate_limit": {
-    "interval_ms": "60000",
-    "max_requests": "120"
-  },
-  "service_endpoints": {
-    "timeout": 5000,
-    "user": &#091;
-      {
-        "hostname": "localhost",
-        "port": 3001,
-        "weight": 10
-      },
-      {
-        "hostname": "localhost",
-        "port": 3002,
-        "weight": 2
-      },
-      {
-        "hostname": "localhost",
-        "port": 3003,
-        "weight": 2
-      },
-      {
-        "hostname": "localhost",
-        "port": 3004,
-        "weight": 4
-      }
-    ]
-  },
-  "session": {
-    "algorithm": "RS256",
-    "expire": 180
-  }
-}
-</code></pre>
-<!-- /wp:code -->
-
-<!-- wp:heading -->
-<h2>Execution</h2>
-<!-- /wp:heading -->
-
-<!-- wp:code -->
-<pre class="wp-block-code"><code>pm2 start pm2.json --env local &gt; /dev/null</code></pre>
-<!-- /wp:code -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[Simple API NodeJS Gateway ]]></excerpt:encoded>
-  <wp:post_id>4025</wp:post_id>
-  <wp:post_date>2022-11-23 20:29:12</wp:post_date>
-  <wp:post_date_gmt>2022-11-23 12:29:12</wp:post_date_gmt>
-  <wp:post_modified>2022-11-23 20:30:38</wp:post_modified>
-  <wp:post_modified_gmt>2022-11-23 12:30:38</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>api-gateway-in-nodejs</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
-    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>wordads_ufa</wp:meta_key>
-    <wp:meta_value><![CDATA[s:wpcom-ufa-v3-beta:1669206898]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_rest_api_published</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>timeline_notification</wp:meta_key>
-    <wp:meta_value><![CDATA[1669206555]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_old_date</wp:meta_key>
-    <wp:meta_value><![CDATA[2022-08-01]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_job_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_rest_api_client_id</wp:meta_key>
-    <wp:meta_value><![CDATA[-1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_done_external</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{s:7:"twitter";a:1:{i:27752124;s:62:"https://twitter.com/LifeisCuriosity/status/1595394048319262720";}}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_done_24281674</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_27752124</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>publicize_twitter_user</wp:meta_key>
-    <wp:meta_value><![CDATA[LifeisCuriosity]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title><![CDATA[人生目標總是要追求所謂的幸福嗎？]]></title>
   <link>http://whalefallnotes.blog/2022/06/16/%e4%ba%ba%e7%94%9f%e7%9b%ae%e6%a8%99%e6%98%af%e8%a6%81%e8%bf%bd%e6%b1%82%e6%89%80%e8%ac%82%e5%b9%b8%e7%a6%8f%e5%97%8e%ef%bc%9f/</link>
   <pubDate>Thu, 16 Jun 2022 12:53:51 +0000</pubDate>
@@ -9050,109 +8878,6 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   </wp:postmeta>
 </item>
 <item>
-  <title><![CDATA[人生最大的痛苦是覺得自己沒有選擇]]></title>
-  <link>http://whalefallnotes.blog/2022/12/23/%e4%ba%ba%e7%94%9f%e6%9c%80%e5%a4%a7%e7%9a%84%e7%97%9b%e8%8b%a6%e6%98%af%e8%a6%ba%e5%be%97%e8%87%aa%e5%b7%b1%e6%b2%92%e6%9c%89%e9%81%b8%e6%93%87/</link>
-  <pubDate>Fri, 23 Dec 2022 10:03:52 +0000</pubDate>
-  <dc:creator>luciusbright</dc:creator>
-  <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5462</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">由韓國的自殺文化說起</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>韓國作為已發展國家，娛樂工業發展盛行，不論音樂、影視娛樂、舞蹈都風糜世界十餘年，已經成為主流世界流行文化之一。但據南韓在2022年9月南韓統計廳公佈的數據顯示，在2021年有大約13,300人，相當於每10萬人中有26人透過不同方法自殺， 平均每日有40人輕生，自殺比例在各經合組織國（OECD）中的比率是最高的，成為繼2018年以後連續2年世界自殺率最高的國家。自新冠肺炎疫情、戰爭、以及經濟週期所造成的環球經濟衰退，在經濟表現不佳時，自殺現象往往會增加。雖然去年南韓經濟從疫情期間的逐漸回復，但失業率仍一度觸及1999年以來的最高比率。經濟可以說是近年很多自殺事件的導火線。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>據《韓國先驅報（The Korea Herald）》<a rel="noreferrer noopener" href="https://www.koreaherald.com/view.php?ud=20220614000856" target="_blank">指出</a>，2020年20至29歲青年族群的自殺率與前一年相比，大增12.8%。其中，32.4%的女性、22.9%的男性曾自殘或嘗試輕生。令人擔心的是，自殺已經成為40歲以下韓國人的主要死因，也在40至59歲族群中排名第二，比癌細胞具有更強的殺傷力。不僅如此，自殺風氣更已向下蔓延到9至24歲的年輕人，自殺數字從2017年開始便連年攀升，2020年共有957條年輕生命自我了結，平均每日都有兩人輕生。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">認為自己人生沒有其他選擇所帶來的絕望感</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>歸納國內外媒體分析，「韓國社會問題」被認為是近年自殺率大升的主要原因，包括校園欺凌、職場霸凌、社會階級固化、貧富懸殊、儒家高壓文化（高考、社會倫理等背後意識形態）等等，背後其實都有一個核心的心理原因造成人們情緒病或者自殺等問題，就是<strong>「<span style="text-decoration: underline">認為自己的人生沒有其他選擇所帶來的絕望感</span>」</strong>。就像被霸凌者都會覺得自己的處境是不能被改變的心態一樣，不斷沉迷在「金錢」、「社會地位」、「考試」以及職業是否體面等標準不斷和別人互相比較，如果達不到某種社會標準就會覺得自己的人生就是「完全失敗」。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>對社會標準的絕望</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>高度資本化的社會所產生的社會問題去年在中國內地甚至引起「躺平主義」的興起。在筆者另一篇文章《<a href="https://curiosityforever.wordpress.com/2022/10/07/%e8%ba%ba%e5%b9%b3%e4%b8%bb%e7%be%a9/">「躺平主義」：對現代社會既定意識形態的反抗，擺脫因「過度的勞動」所導致的思考停滯</a>》有詳細指出在高度資本化的社會對每個人建立的「社會框架」綑綁所造成人們的心理問題。<strong>因為在資本主義的操作下，它重新建構我們對「好」的標準，讓我們認為自身不滿於「好」的標準而產生需求或恐懼， 再透過資本市場產生一大堆聲稱可以滿足需求的產品，繼而不斷加深我們對這些產品產生的依賴。</strong>社會的標準包括讀書考試分數的標準、對成功的標準、對貧富的標準等等，最後很多人對自己人生的選擇會局限於一個由資本主義社會框架所限制下的選擇，就算有人有能力認知到自己有很多人生選擇，也會寧願選擇自殺也沒有勇氣去嘗試另一種人生。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>對被霸凌的絕望</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>校園欺凌、職場霸凌和等因「權力」造成對弱勢社群的壓迫常常是讓人感到絕望的原因。處於弱勢社群的人會感受到「現狀不能被改變」的絕望，甚至覺得自己「應該」被別人霸凌欺壓，更相信是屬於自己的「命運」，對現狀產生「除了被欺凌外沒有其他選擇的絕望」。筆者在另一篇文章《<a href="https://curiosityforever.wordpress.com/2022/11/21/%e6%a0%a1%e5%9c%92%e6%ac%ba%e5%87%8c%e6%98%af%e5%8f%af%e4%bb%a5%e5%ae%8c%e5%85%a8%e6%91%a7%e6%af%80%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%ba%e7%94%9f/">校園欺凌是可以完全摧毀一個人的人生</a>》採討校園欺凌是如何撤底改變一個人的人生，很多人因童年被欺凌後正在用餘生去彌補童年的陰影。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">認知人的選擇幾乎是無窮無盡，不要被自己的意識形態所限制</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>一個人在每刻的選擇可以是無窮無盡，當然宗教、法律或者普世道德價值等等意識形態會讓一個人的可選範圍縮細，但數量仍然大到在人生有限的時間下也不可能把這些選擇都一一探索。把一些理所當然地存在於自己腦中的意識形態一一拿出來審視思考，不斷將一些對人生會造成壓力或者負擔的意識形態一一去除，盡量擴大人生每一刻的可選擇範圍。另外，多點主動了解別人的人生經歷也是非常有幫助，有人喜歡長途拔涉長年在山野間作地質研究，有人喜歡在室內勞動手作皮具產品；有人不堪內卷回家種地逍遙自在，有人樂此不疲玩資本遊戲。不要被外在環境過度限制你自己的人生，多點嘗試人生的其他選擇，不要害怕失敗而放棄，放棄只是因為你沒有興趣而已，人生是可以隨時再換其他選擇。</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[包括校園欺凌、職場霸凌、社會階級固化、貧富懸殊、儒家高壓文化（高考、社會倫理等背後意識形態）等等。背後都有一個核心的心理原因造成人們情緒病或者自殺等問題，就是「認為自己的人生沒有其他選擇所帶來的絕望感」。]]></excerpt:encoded>
-  <wp:post_id>5462</wp:post_id>
-  <wp:post_date>2022-12-23 18:03:52</wp:post_date>
-  <wp:post_date_gmt>2022-12-23 10:03:52</wp:post_date_gmt>
-  <wp:post_modified>2023-01-10 00:56:23</wp:post_modified>
-  <wp:post_modified_gmt>2023-01-09 16:56:23</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>%e4%ba%ba%e7%94%9f%e6%9c%80%e5%a4%a7%e7%9a%84%e7%97%9b%e8%8b%a6%e6%98%af%e8%a6%ba%e5%be%97%e8%87%aa%e5%b7%b1%e6%b2%92%e6%9c%89%e9%81%b8%e6%93%87</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="life"><![CDATA[life]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
-    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>wordads_ufa</wp:meta_key>
-    <wp:meta_value><![CDATA[s:wpcom-ufa-v3-beta:1673283386]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_thumbnail_id</wp:meta_key>
-    <wp:meta_value><![CDATA[5503]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>timeline_notification</wp:meta_key>
-    <wp:meta_value><![CDATA[1671789836]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_job_id</wp:meta_key>
-    <wp:meta_value><![CDATA[79897239468]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_done_external</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{s:7:"twitter";a:1:{i:27752124;s:62:"https://twitter.com/LifeisCuriosity/status/1606229115895521282";}}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_done_24281674</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_27752124</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>publicize_twitter_user</wp:meta_key>
-    <wp:meta_value><![CDATA[LifeisCuriosity]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title><![CDATA[freedom]]></title>
   <link>http://whalefallnotes.blog/2022/12/23/%e4%ba%ba%e7%94%9f%e6%9c%80%e5%a4%a7%e7%9a%84%e7%97%9b%e8%8b%a6%e6%98%af%e8%a6%ba%e5%be%97%e8%87%aa%e5%b7%b1%e6%b2%92%e6%9c%89%e9%81%b8%e6%93%87/freedom/</link>
   <pubDate>Fri, 23 Dec 2022 10:03:37 +0000</pubDate>
@@ -9585,7 +9310,7 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>jetpack_memberships_price</wp:meta_key>
-    <wp:meta_value><![CDATA[5.00]]></wp:meta_value>
+    <wp:meta_value><![CDATA[5]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>jetpack_memberships_currency</wp:meta_key>
@@ -10689,6 +10414,146 @@ The essence of meditation is to simulate "death." When the body is sufficiently 
   <wp:postmeta>
     <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
     <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Subscription Plan A]]></title>
+  <link>http://whalefallnotes.blog/?jp_mem_plan=subscription-plan-a</link>
+  <pubDate>Sat, 07 Sep 2024 12:20:48 +0000</pubDate>
+  <dc:creator>luciusbright</dc:creator>
+  <guid isPermaLink="false">https://whalefallnotes.blog/?jp_mem_plan=subscription-plan-a</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>11003</wp:post_id>
+  <wp:post_date>2024-09-07 20:20:48</wp:post_date>
+  <wp:post_date_gmt>2024-09-07 12:20:48</wp:post_date_gmt>
+  <wp:post_modified>2024-09-07 20:20:48</wp:post_modified>
+  <wp:post_modified_gmt>2024-09-07 12:20:48</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>subscription-plan-a</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>jp_mem_plan</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_product_id</wp:meta_key>
+    <wp:meta_value><![CDATA[474592]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_interval</wp:meta_key>
+    <wp:meta_value><![CDATA[1 month]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_price</wp:meta_key>
+    <wp:meta_value><![CDATA[12.00]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_currency</wp:meta_key>
+    <wp:meta_value><![CDATA[USD]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_multiple</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_site_subscriber</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_welcome_email_content</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_type</wp:meta_key>
+    <wp:meta_value><![CDATA[tier]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_is_editable</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_is_sandboxed</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Subscription Plan A]]></title>
+  <link>http://whalefallnotes.blog/?jp_mem_plan=subscription-plan-a-2</link>
+  <pubDate>Sat, 07 Sep 2024 12:20:51 +0000</pubDate>
+  <dc:creator>luciusbright</dc:creator>
+  <guid isPermaLink="false">https://whalefallnotes.blog/?jp_mem_plan=subscription-plan-a-2</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>11004</wp:post_id>
+  <wp:post_date>2024-09-07 20:20:51</wp:post_date>
+  <wp:post_date_gmt>2024-09-07 12:20:51</wp:post_date_gmt>
+  <wp:post_modified>2024-09-07 20:20:51</wp:post_modified>
+  <wp:post_modified_gmt>2024-09-07 12:20:51</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>subscription-plan-a-2</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>jp_mem_plan</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_product_id</wp:meta_key>
+    <wp:meta_value><![CDATA[474593]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_interval</wp:meta_key>
+    <wp:meta_value><![CDATA[1 year]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_price</wp:meta_key>
+    <wp:meta_value><![CDATA[100.00]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_currency</wp:meta_key>
+    <wp:meta_value><![CDATA[USD]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_multiple</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_site_subscriber</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_welcome_email_content</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_type</wp:meta_key>
+    <wp:meta_value><![CDATA[tier]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_tier</wp:meta_key>
+    <wp:meta_value><![CDATA[11003]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_is_editable</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_memberships_is_sandboxed</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -12441,6 +12306,178 @@ Many of the concepts derived from primitive religions that we hear in various da
   <wp:postmeta>
     <wp:meta_key>reader_suggested_tags</wp:meta_key>
     <wp:meta_value><![CDATA[["Buddhism","Spirituality","Mindfulness","Religion","Philosophy"]]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[API Gateway in NodeJS]]></title>
+  <link>http://whalefallnotes.blog/2022/11/23/api-gateway-in-nodejs/</link>
+  <pubDate>Wed, 23 Nov 2022 12:29:12 +0000</pubDate>
+  <dc:creator>luciusbright</dc:creator>
+  <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=4025</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:jetpack/slideshow {"ids":[4029,4030],"sizeSlug":"large"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4029" data-id="4029" src="https://whalefallnotes.blog/wp-content/uploads/2022/05/apigateway-components-1.png?w=1024" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-4030" data-id="4030" src="https://whalefallnotes.blog/wp-content/uploads/2022/05/auth-login-sequence.png?w=1024" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/life-is-curiosity/js-apigateway" target="_blank" rel="noreferrer noopener">https://github.com/life-is-curiosity/js-apigateway</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Feature</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>API Rules</strong><br>Parameter checking<br>Support regular-expression<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Distributed Load-Balancing Algorithms</strong><br>Random-Weighted Average Load-balancing algorithms to route the requests to different microservice endpoints.<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Asymmetric JWT Double-Lock Session</strong><br>Support private api, asymmetric key lock and basic session management<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Rate-Limit Components</strong><br>Able to customize the rate-limit for preventing the system loading<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Http API Proxy Gateway</strong><br>Http API redirect to other internal service endpoints<br></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Single Redis Instance</strong><br>Session or any persistance by Redis</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Environment Construction</h2>
+<!-- /wp:heading -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>npm install or yarn install</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:heading -->
+<h2>Configuration</h2>
+<!-- /wp:heading -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>{
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "auth": "",
+    "db": 0,
+    "max_clients": 30,
+    "tls": false
+  },
+  "rate_limit": {
+    "interval_ms": "60000",
+    "max_requests": "120"
+  },
+  "service_endpoints": {
+    "timeout": 5000,
+    "user": &#091;
+      {
+        "hostname": "localhost",
+        "port": 3001,
+        "weight": 10
+      },
+      {
+        "hostname": "localhost",
+        "port": 3002,
+        "weight": 2
+      },
+      {
+        "hostname": "localhost",
+        "port": 3003,
+        "weight": 2
+      },
+      {
+        "hostname": "localhost",
+        "port": 3004,
+        "weight": 4
+      }
+    ]
+  },
+  "session": {
+    "algorithm": "RS256",
+    "expire": 180
+  }
+}
+</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:heading -->
+<h2>Execution</h2>
+<!-- /wp:heading -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>pm2 start pm2.json --env local &gt; /dev/null</code></pre>
+<!-- /wp:code -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[Simple API NodeJS Gateway ]]></excerpt:encoded>
+  <wp:post_id>4025</wp:post_id>
+  <wp:post_date>2022-11-23 20:29:12</wp:post_date>
+  <wp:post_date_gmt>2022-11-23 12:29:12</wp:post_date_gmt>
+  <wp:post_modified>2022-11-23 20:30:38</wp:post_modified>
+  <wp:post_modified_gmt>2022-11-23 12:30:38</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>api-gateway-in-nodejs</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>wordads_ufa</wp:meta_key>
+    <wp:meta_value><![CDATA[s:wpcom-ufa-v3-beta:1669206898]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_rest_api_published</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1669206555]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_date</wp:meta_key>
+    <wp:meta_value><![CDATA[2022-08-01]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_rest_api_client_id</wp:meta_key>
+    <wp:meta_value><![CDATA[-1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:7:"twitter";a:1:{i:27752124;s:62:"https://twitter.com/LifeisCuriosity/status/1595394048319262720";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_24281674</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_27752124</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>publicize_twitter_user</wp:meta_key>
+    <wp:meta_value><![CDATA[LifeisCuriosity]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -14517,6 +14554,109 @@ For those who doubt their intelligence, the problem is often not their "IQ" but 
   <wp:postmeta>
     <wp:meta_key>_wp_old_date</wp:meta_key>
     <wp:meta_value><![CDATA[2022-12-03]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[人生最大的痛苦是覺得自己沒有選擇]]></title>
+  <link>http://whalefallnotes.blog/2022/12/23/%e4%ba%ba%e7%94%9f%e6%9c%80%e5%a4%a7%e7%9a%84%e7%97%9b%e8%8b%a6%e6%98%af%e8%a6%ba%e5%be%97%e8%87%aa%e5%b7%b1%e6%b2%92%e6%9c%89%e9%81%b8%e6%93%87/</link>
+  <pubDate>Fri, 23 Dec 2022 10:03:52 +0000</pubDate>
+  <dc:creator>luciusbright</dc:creator>
+  <guid isPermaLink="false">https://curiosityforever.wordpress.com/?p=5462</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">由韓國的自殺文化說起</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>韓國作為已發展國家，娛樂工業發展盛行，不論音樂、影視娛樂、舞蹈都風糜世界十餘年，已經成為主流世界流行文化之一。但據南韓在2022年9月南韓統計廳公佈的數據顯示，在2021年有大約13,300人，相當於每10萬人中有26人透過不同方法自殺， 平均每日有40人輕生，自殺比例在各經合組織國（OECD）中的比率是最高的，成為繼2018年以後連續2年世界自殺率最高的國家。自新冠肺炎疫情、戰爭、以及經濟週期所造成的環球經濟衰退，在經濟表現不佳時，自殺現象往往會增加。雖然去年南韓經濟從疫情期間的逐漸回復，但失業率仍一度觸及1999年以來的最高比率。經濟可以說是近年很多自殺事件的導火線。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>據《韓國先驅報（The Korea Herald）》<a rel="noreferrer noopener" href="https://www.koreaherald.com/view.php?ud=20220614000856" target="_blank">指出</a>，2020年20至29歲青年族群的自殺率與前一年相比，大增12.8%。其中，32.4%的女性、22.9%的男性曾自殘或嘗試輕生。令人擔心的是，自殺已經成為40歲以下韓國人的主要死因，也在40至59歲族群中排名第二，比癌細胞具有更強的殺傷力。不僅如此，自殺風氣更已向下蔓延到9至24歲的年輕人，自殺數字從2017年開始便連年攀升，2020年共有957條年輕生命自我了結，平均每日都有兩人輕生。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">認為自己人生沒有其他選擇所帶來的絕望感</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>歸納國內外媒體分析，「韓國社會問題」被認為是近年自殺率大升的主要原因，包括校園欺凌、職場霸凌、社會階級固化、貧富懸殊、儒家高壓文化（高考、社會倫理等背後意識形態）等等，背後其實都有一個核心的心理原因造成人們情緒病或者自殺等問題，就是<strong>「<span style="text-decoration: underline">認為自己的人生沒有其他選擇所帶來的絕望感</span>」</strong>。就像被霸凌者都會覺得自己的處境是不能被改變的心態一樣，不斷沉迷在「金錢」、「社會地位」、「考試」以及職業是否體面等標準不斷和別人互相比較，如果達不到某種社會標準就會覺得自己的人生就是「完全失敗」。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>對社會標準的絕望</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>高度資本化的社會所產生的社會問題去年在中國內地甚至引起「躺平主義」的興起。在筆者另一篇文章《<a href="https://curiosityforever.wordpress.com/2022/10/07/%e8%ba%ba%e5%b9%b3%e4%b8%bb%e7%be%a9/">「躺平主義」：對現代社會既定意識形態的反抗，擺脫因「過度的勞動」所導致的思考停滯</a>》有詳細指出在高度資本化的社會對每個人建立的「社會框架」綑綁所造成人們的心理問題。<strong>因為在資本主義的操作下，它重新建構我們對「好」的標準，讓我們認為自身不滿於「好」的標準而產生需求或恐懼， 再透過資本市場產生一大堆聲稱可以滿足需求的產品，繼而不斷加深我們對這些產品產生的依賴。</strong>社會的標準包括讀書考試分數的標準、對成功的標準、對貧富的標準等等，最後很多人對自己人生的選擇會局限於一個由資本主義社會框架所限制下的選擇，就算有人有能力認知到自己有很多人生選擇，也會寧願選擇自殺也沒有勇氣去嘗試另一種人生。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>對被霸凌的絕望</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>校園欺凌、職場霸凌和等因「權力」造成對弱勢社群的壓迫常常是讓人感到絕望的原因。處於弱勢社群的人會感受到「現狀不能被改變」的絕望，甚至覺得自己「應該」被別人霸凌欺壓，更相信是屬於自己的「命運」，對現狀產生「除了被欺凌外沒有其他選擇的絕望」。筆者在另一篇文章《<a href="https://curiosityforever.wordpress.com/2022/11/21/%e6%a0%a1%e5%9c%92%e6%ac%ba%e5%87%8c%e6%98%af%e5%8f%af%e4%bb%a5%e5%ae%8c%e5%85%a8%e6%91%a7%e6%af%80%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%ba%e7%94%9f/">校園欺凌是可以完全摧毀一個人的人生</a>》採討校園欺凌是如何撤底改變一個人的人生，很多人因童年被欺凌後正在用餘生去彌補童年的陰影。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">認知人的選擇幾乎是無窮無盡，不要被自己的意識形態所限制</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>一個人在每刻的選擇可以是無窮無盡，當然宗教、法律或者普世道德價值等等意識形態會讓一個人的可選範圍縮細，但數量仍然大到在人生有限的時間下也不可能把這些選擇都一一探索。把一些理所當然地存在於自己腦中的意識形態一一拿出來審視思考，不斷將一些對人生會造成壓力或者負擔的意識形態一一去除，盡量擴大人生每一刻的可選擇範圍。另外，多點主動了解別人的人生經歷也是非常有幫助，有人喜歡長途拔涉長年在山野間作地質研究，有人喜歡在室內勞動手作皮具產品；有人不堪內卷回家種地逍遙自在，有人樂此不疲玩資本遊戲。不要被外在環境過度限制你自己的人生，多點嘗試人生的其他選擇，不要害怕失敗而放棄，放棄只是因為你沒有興趣而已，人生是可以隨時再換其他選擇。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[包括校園欺凌、職場霸凌、社會階級固化、貧富懸殊、儒家高壓文化（高考、社會倫理等背後意識形態）等等。背後都有一個核心的心理原因造成人們情緒病或者自殺等問題，就是「認為自己的人生沒有其他選擇所帶來的絕望感」。]]></excerpt:encoded>
+  <wp:post_id>5462</wp:post_id>
+  <wp:post_date>2022-12-23 18:03:52</wp:post_date>
+  <wp:post_date_gmt>2022-12-23 10:03:52</wp:post_date_gmt>
+  <wp:post_modified>2023-01-10 00:56:23</wp:post_modified>
+  <wp:post_modified_gmt>2023-01-09 16:56:23</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>%e4%ba%ba%e7%94%9f%e6%9c%80%e5%a4%a7%e7%9a%84%e7%97%9b%e8%8b%a6%e6%98%af%e8%a6%ba%e5%be%97%e8%87%aa%e5%b7%b1%e6%b2%92%e6%9c%89%e9%81%b8%e6%93%87</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="life"><![CDATA[life]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>wordads_ufa</wp:meta_key>
+    <wp:meta_value><![CDATA[s:wpcom-ufa-v3-beta:1673283386]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[5503]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1671789836]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[79897239468]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:7:"twitter";a:1:{i:27752124;s:62:"https://twitter.com/LifeisCuriosity/status/1606229115895521282";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_24281674</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_27752124</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>publicize_twitter_user</wp:meta_key>
+    <wp:meta_value><![CDATA[LifeisCuriosity]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -20062,15 +20202,15 @@ audio/mpeg
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">《燭照法》修練系統</h2>
+<h2 class="wp-block-heading">《燭照法》修行系統</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>《燭照法》依不同的步驟同時進入「鬆靜、定、慧、空明、涅盤獨存」的不同修行狀態：</p>
+<p>《燭照法》依不同的步驟逐步進入「鬆靜、定、慧、空明、涅盤獨存」的不同修行狀態：</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center"><strong><span style="text-decoration: underline">修行深度</span></strong></th><th class="has-text-align-center" data-align="center"><span style="text-decoration: underline">修行目的</span></th><th class="has-text-align-center" data-align="center"><strong><span style="text-decoration: underline">修行方式</span></strong></th><th class="has-text-align-center" data-align="center"><span style="text-decoration: underline">修行狀態</span></th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">第一階段</td><td class="has-text-align-center" data-align="center">開啟經脈</td><td class="has-text-align-center" data-align="center">站樁立禪</td><td class="has-text-align-center" data-align="center">鬆靜自然</td></tr><tr><td class="has-text-align-center" data-align="center">第二階段</td><td class="has-text-align-center" data-align="center">以*意識錨點抑止心念<br>(訓練覺知與抑止能力)</td><td class="has-text-align-center" data-align="center">止禪</td><td class="has-text-align-center" data-align="center">定</td></tr><tr><td class="has-text-align-center" data-align="center">第三階段</td><td class="has-text-align-center" data-align="center">深入認識*意識錨點<br>(訓練平等觀照能力)</td><td class="has-text-align-center" data-align="center">法無我觀</td><td class="has-text-align-center" data-align="center">慧</td></tr><tr><td class="has-text-align-center" data-align="center">第四階段</td><td class="has-text-align-center" data-align="center">無上正等正覺</td><td class="has-text-align-center" data-align="center">無為守一</td><td class="has-text-align-center" data-align="center">空明</td></tr><tr><td class="has-text-align-center" data-align="center">第五階段</td><td class="has-text-align-center" data-align="center">去除生與死的二元狀態</td><td class="has-text-align-center" data-align="center">念死無常</td><td class="has-text-align-center" data-align="center">涅盤獨存</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center"><strong><span style="text-decoration: underline">修行深度</span></strong></th><th class="has-text-align-center" data-align="center"><span style="text-decoration: underline">修行目的</span></th><th class="has-text-align-center" data-align="center"><strong><span style="text-decoration: underline">修行方式</span></strong></th><th class="has-text-align-center" data-align="center"><span style="text-decoration: underline">修行狀態</span></th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">第一階段</td><td class="has-text-align-center" data-align="center">開啟經脈</td><td class="has-text-align-center" data-align="center">站樁立禪<br>自然坐禪</td><td class="has-text-align-center" data-align="center">鬆靜自然</td></tr><tr><td class="has-text-align-center" data-align="center">第二階段</td><td class="has-text-align-center" data-align="center">以*意識錨點抑止心念<br>(訓練覺知與抑止能力)</td><td class="has-text-align-center" data-align="center">止禪</td><td class="has-text-align-center" data-align="center">定</td></tr><tr><td class="has-text-align-center" data-align="center">第三階段</td><td class="has-text-align-center" data-align="center">深入認識*意識錨點<br>(訓練平等觀照能力)</td><td class="has-text-align-center" data-align="center">法無我觀</td><td class="has-text-align-center" data-align="center">慧</td></tr><tr><td class="has-text-align-center" data-align="center">第四階段</td><td class="has-text-align-center" data-align="center">正等正覺</td><td class="has-text-align-center" data-align="center">無為守一</td><td class="has-text-align-center" data-align="center">空明</td></tr><tr><td class="has-text-align-center" data-align="center">第五階段</td><td class="has-text-align-center" data-align="center">去除生與死的二元狀態</td><td class="has-text-align-center" data-align="center">念死無常</td><td class="has-text-align-center" data-align="center">涅盤獨存</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:quote -->
@@ -20104,19 +20244,29 @@ audio/mpeg
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>在修行站樁立禪法期間有任何身體狀況變化，如身體整體或局部體溫改變、身體自發動作如晃動或轉動等等皆是自然現象，不需大驚少怪，只需順其自然，感受自己身體變化的細節不必作過多聯想，盡量保持「鬆、靜、自然無為的狀態」。</p>
+<p>在修行站樁立禪期間有任何身體狀況變化，如身體整體或局部體溫改變、身體自發動作如晃動或轉動等等皆是自然現象，不需大驚少怪，只需順其自然，感受自己身體變化的細節不必作過多聯想，盡量保持「鬆、靜、自然無為的狀態」。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center">自然坐禪</td></tr><tr><td class="has-text-align-center" data-align="center">靜坐時只需隨意而坐，不必在意坐的姿勢、手的擺放，不管呼吸，也不刻意求靜，不採取任何有意的行為，完全放任自然，讓身體自然跟著氣動，心靜下來像要準備睡覺一樣，讓心自然靜下來。<br><br>身心保持「鬆、靜、自然無為」，不需意守身體某個部位或進行某種運氣方式，只需簡單自然地靜坐。</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>當修行站樁立禪一段時間後，身體和氣脈的修正逐漸完成，可以嘗試加入自然坐禪在一天的修行當中。因為坐禪不像立禪需要分出一小部份心念來平衡身體，只需坐穩自己的身體即可，所以坐禪更加傾向意識層面的修行。如果在沒有在立樁立禪打通身體氣脈，從一開始就進行坐禪修行會很容易因為昏沉或散亂導致常常不能常入狀態，事倍功半。但經由修行站樁立禪，因為身體的氣脈已被打通更容易在坐禪進入更深層次的意識層面的修行，也是準備進行第二階段及之後深入意識的修行。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/paywall /-->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">第二階段—「以意識錨點抑止心念，訓練顯意識的對潛意識的覺知與抑止能力」</h2>
 <!-- /wp:heading -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center">止禪</td></tr><tr><td class="has-text-align-center" data-align="center">以心念為意識錨點為例，在身心以「鬆、靜、自然」的狀態下，讓身體以坐或臥的姿體狀態下保持覺知在意識心念的生起處，即使任何念頭生起可以都可以讓自己即時知道的狀態。要求自己不要隨著念頭跑，也不要壓制念頭，不要忘記覺知，不要修整念頭。<br><br>也不對任何念頭生起感受如喜愛、排斥抗拒、想要、想吃等等二元分別心 (二元狀態分別)。當覺知到念頭生起，同時就要進行「勿隨勿壓勿忘，不加修整，不分別」否則心就會即時亂動，也進入不了下一階段，也就代表不會進入「定」的狀態。</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center">止禪</td></tr><tr><td class="has-text-align-center" data-align="center">以心念為意識錨點，在身心以「鬆、靜、自然」的狀態下，讓身體以坐或臥的姿體狀態下保持覺知在意識心念的生起處，即使任何念頭生起可以都可以讓自己即時知道的狀態。要求自己不要隨著念頭跑，也不要壓制念頭，不要忘記覺知，不要修整念頭。<br><br>也不對任何念頭生起感受如喜愛、排斥抗拒、想要、想吃等等二元分別心 (二元狀態分別)。當覺知到念頭生起，同時就要進行「勿隨勿壓勿忘，不加修整，不分別」否則心就會即時亂動，也進入不了下一階段，也不會進入「定」的狀態。</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>當修行止禪一段時間後中如發現自己沒有任何進展，可進入第三階段坐行「法無我觀」來增加對念頭本質的理解，這可以反過來增加修行止禪的效益和深度。</p>
+<p>當修行止禪一段時間後中如發現自己沒有任何進展，可進入第三階段修行「法無我觀」來增加對念頭本質的理解，這可以反過來增加修行止禪的效益和深度。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -20124,19 +20274,19 @@ audio/mpeg
 <!-- /wp:heading -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center">法無我觀</td></tr><tr><td class="has-text-align-center" data-align="center">以心念為意識錨點為例，當有了足夠的「定」時，可以深入感受、認知、了解心念、慾望或情緒等等大腦雜訊的細節，如了解及認知其「大與小」、「粗與細」、性質、本質、出處等等。<br><br>保持住覺知的「定」順其自然和細緻地觀看任何突然出現在大腦意識層面的雜訊，承擔起對這些雜訊的感受產生的沖擊。在清楚明白這些雜訊的本質就會產生「離」的感覺，不再依附在其中，心再也不受此大腦訊息所限，平等心地洞察所有大腦訊息的的本質，<br>就是「慧」。</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center">法無我觀</td></tr><tr><td class="has-text-align-center" data-align="center">以心念為意識錨點，當有了足夠的「定」時，可以深入感受、認知、了解心念、慾望或情緒等等大腦雜訊的細節，如了解及認知其「大與小」、「粗與細」、性質、本質、出處等等。<br><br>保持住覺知的「定」順其自然和細緻地觀看任何突然出現在大腦意識層面的雜訊，承擔起對這些雜訊的感受產生的沖擊。在清楚明白這些雜訊的本質就會產生「離」的感覺，不再依附在其中，心再也不受此大腦訊息所限，平等心地洞察所有大腦訊息的本質，<br>就是「慧」。</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>沒有穩定堅硬如金鋼之「定」，就承擔不住「觀」時可能產生如浪濤般的沖擊。失去了「定」之後心就會亂動，並會開始向外在事物產生執著。所以修「止」的時間要足夠長，避免讓心輕易被扯離當下，也會看不清這些大腦雜訊的本質， 無法體會和品味其性質，也無法對其本質之虛無產生了解和明白。 </p>
+<p>沒有穩定堅硬如金鋼之「定」，就承擔不住「觀」時可能產生如浪濤般的沖擊。失去了「定」之後心就會亂動，並會開始向外在事物產生執著。所以修「止」的時間要足夠長，避免讓心輕易被扯離當下，看不清這些大腦雜訊的本質， 無法體會和品味其性質，也無法對其本質之虛無產生了解和明白。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">第四階段—「無上正等正覺」</h2>
+<h2 class="wp-block-heading">第四階段—「正等正覺」</h2>
 <!-- /wp:heading -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center">無為守一</td></tr><tr><td class="has-text-align-center" data-align="center">隨時可以覺知到自己的情緒、顯意識和潛意識變化是為「正覺」，覺知後無論生起的感覺有多難受恐怖、回憶有多令人憎恨、幻覺有多真實或者心情有多愉悅，也可以抽離自己以第三身角度去觀察這些二元狀態，不被這些二元分別觀念所影響，是為「正等」。<br><br>而「無上」是指將正等正覺修練到最極致的狀態。這時候不需再作任何刻意的覺知和觀照，只需停止和保留在這個狀態，不作任何的思考和聯想。<br><br>這個階段心念完全被抑止，也沒有任何念頭情緒和慾望等大腦訊息，進入「空明」狀態。「空」<strong>是指心念活動和潛意識活動被完全停止，並對所有包括意識和身體內在狀態和事物都「明了」的特殊意識狀態，</strong>也就是一種「仍存在主觀感知的空性」。</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center">無為守一</td></tr><tr><td class="has-text-align-center" data-align="center">隨時可以覺知到自己的情緒、顯意識和潛意識變化是為「正覺」，覺知後無論生起的感覺有多難受恐怖、回憶有多令人憎恨、幻覺有多真實或者心情有多愉悅，也可以抽離自己以第三身角度去觀察這些二元狀態，不被這些二元分別觀念所影響，是為「正等」。<br><br>「空」是指心念活動和潛意識活動被完全停止，並對所有包括意識和身體內在狀態和事物都「明了」的特殊意識狀態<strong>，</strong>也就是進入一種「仍存在主觀感知的空性」的狀態。</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
@@ -20148,7 +20298,7 @@ audio/mpeg
 <!-- /wp:heading -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center">念死無常</td></tr><tr><td class="has-text-align-center" data-align="center">當在進入「空明」一段時間後，身體會出現強力瀕死反應，也就是正在準備清除最終極的二元狀態─「生與死」。當完全失去對身體的感知並產生意識與肉體的特殊剝離感，潛意識會在此時因其求生「本能」所產生強力掙扎，這些掙扎會產生大量大腦雜訊如巨浪般沖擊顯意識，而這個階段就是在經歷「涅槃」。<br><br>潛意識會讓你直面因死亡所失去的任何事物，包括親人朋友、金錢物質，妻子兒女等等你自以為「擁有」的一切事物，企圖把你從正在進行的「涅槃」狀態中扯走。<br><br>「涅槃」狀態分為「有餘涅槃」和「無餘涅槃」，「有餘涅槃」在「涅槃」進行到途中被潛意識拉扯離開當下的瀕死狀態，但潛意識仍然會因曾直面「死亡」威脅下清除部份潛意識，但未能清除掉生而為人天生自帶的本能—「求生慾」或其他執著；當了解生命與死亡的正確關係，了解生存與死亡的二元分別和一體性，真正完全地接受自身的死亡後，便會進入「無餘涅槃」，顯意識真正獨存於天地之間，也就是超越太極(所有二元現象)，進入「無極」。</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center">念死無常</td></tr><tr><td class="has-text-align-center" data-align="center">當在進入「空明」一段時間後，身體會出現強力瀕死反應，也就是正在準備清除最終極的二元狀態─「生與死」。當完全失去對身體的感知並產生意識與肉體的特殊剝離感，潛意識會在此時因其求生「本能」所產生強力掙扎，這些掙扎會產生大量大腦雜訊如巨浪般沖擊顯意識，而這個階段就是在經歷「涅槃」。<br><br>潛意識會讓你直面因死亡所失去的任何事物，包括親人朋友、金錢物質，妻子兒女等等你自以為「擁有」的一切事物，企圖把你從正在進行的「涅槃」狀態中扯走。<br><br>「涅槃」狀態分為「有餘涅槃」和「無餘涅槃」，「有餘涅槃」在「涅槃」進行到途中被潛意識拉扯離開當下的瀕死狀態，但潛意識仍然會因曾直面「死亡」威脅下清除部份潛意識裡的執著，但未能清除掉生而為人天生自帶的本能—「求生慾」或其他更粗大的執著；當了解生命與死亡的正確關係，了解生存與死亡的二元分別和一體性，真正完全地接受自身的死亡後，便會進入「無餘涅槃」，顯意識真正獨存於天地之間，也就是超越太極(所有二元現象)，進入「無極」。</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:heading -->
@@ -20178,8 +20328,8 @@ audio/mpeg
   <wp:post_id>10090</wp:post_id>
   <wp:post_date>2024-07-06 20:15:17</wp:post_date>
   <wp:post_date_gmt>2024-07-06 12:15:17</wp:post_date_gmt>
-  <wp:post_modified>2024-09-05 01:21:03</wp:post_modified>
-  <wp:post_modified_gmt>2024-09-04 17:21:03</wp:post_modified_gmt>
+  <wp:post_modified>2024-09-07 20:33:05</wp:post_modified>
+  <wp:post_modified_gmt>2024-09-07 12:33:05</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>candlelight-enlightenment-mediation-how-to-use-your-consciousness-as-a-candlelight-to-focus-into-taos-meditation</wp:post_name>
@@ -20220,7 +20370,7 @@ audio/mpeg
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>wordads_ufa</wp:meta_key>
-    <wp:meta_value><![CDATA[s:wpcom-ufa-v4:1725470467]]></wp:meta_value>
+    <wp:meta_value><![CDATA[s:wpcom-ufa-v4:1725712389]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>reader_suggested_tags</wp:meta_key>
@@ -20233,6 +20383,62 @@ audio/mpeg
   <wp:postmeta>
     <wp:meta_key>_elasticsearch_data_sharing_indexed_on</wp:meta_key>
     <wp:meta_value><![CDATA[2024-07-13 11:38:43]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>advanced_seo_description</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_seo_html_title</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>jetpack_seo_noindex</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_coblocks_attr</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_coblocks_dimensions</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_coblocks_responsive_height</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_coblocks_accordion_ie_support</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_jetpack_post_was_ever_published</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_jetpack_newsletter_access</wp:meta_key>
+    <wp:meta_value><![CDATA[paid_subscribers]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_jetpack_dont_email_post_to_subs</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_jetpack_memberships_contains_paywalled_content</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>footnotes</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_feature_enabled</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_options</wp:meta_key>
+    <wp:meta_value><![CDATA[a:2:{s:24:"image_generator_settings";a:2:{s:8:"template";s:7:"highway";s:7:"enabled";b:0;}s:7:"version";d:2;}]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>

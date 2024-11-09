@@ -33,223 +33,195 @@
 <script>window.onload = function () { twemoji.parse(document.body);}</script>	
 </head>
 
-<body><h1 id="tcp-port-forwarding-in-python">TCP Port Forwarding in
-Python</h1>
-<p>Date: 2020-09-17 13:37:32</p>
-<!-- wp:paragraph -->
-<p>
-In computer networking, <strong>Port forwarding</strong> or <strong>Port
-mapping</strong> is an application of network address translation (NAT)
-that redirects a communication request from one address and port
-number combination to another while the packets are traversing a network
-gateway. This technique is most commonly used to make services on a host
-residing on a protected or masqueraded (internal) network available to
-hosts on the opposite side of the gateway (external network), by
-remapping the destination IP address and port number of the
-communication to an internal host.
-</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>
-</p>
-<!-- /wp:paragraph -->
-<!-- wp:image {"id":145,"width":910,"height":429,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized">
-<img src="https://whalefallnotes.blog/wp-content/uploads/2020/09/port-forwading-in-python.png?w=1021" alt="" class="wp-image-145" width="910" height="429" />
-<figcaption>
-Port Forwarding in a simple network system
-</figcaption>
-</figure>
-<!-- /wp:image -->
-<!-- wp:paragraph -->
-<p>
-The client side is not allowed to access subnet 192.168.2.0 directly but
-server 192.168.1.2 can help to redirect the TCP request to the subnet
-192.168.2.0. It can also prevent to expose the subnet IP to the public.
-</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">
-<strong>Implementation</strong>
-</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>
-We are going to build a tunnel by two threads on the script. One of
-threads is a socket client and another one is socket server. What we are
-going to do is connect both of them together and the packet stream can
-be streaming here.
-</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>
-The libraries we need to import:
-</p>
-<!-- /wp:paragraph -->
-<!-- wp:jetpack/markdown {"source":"```python3\n\nimport time\nimport socket\nimport _thread\nimport sys\nimport getopt\n```\n"} -->
-<div class="wp-block-jetpack-markdown">
-<pre><code class="language-python3">
-import time
-import socket
-import _thread
-import sys
-import getopt
-</code></pre>
-</div>
-<!-- /wp:jetpack/markdown -->
-<!-- wp:paragraph -->
-<p>
-</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph {"fontSize":"normal"} -->
-<p class="has-normal-font-size">
-How to run the script
-</p>
-<!-- /wp:paragraph -->
-<!-- wp:jetpack/markdown {"source":"```python3\n\ndef exception():\n    print('Usage : port_forward.py -f  -i  -p ')\n\n\ndef main(argv):\n    from_port = 0\n    ip = ''\n    to_port = 0\n    try:\n        opts, args = getopt.getopt(\n            argv, \u0022h:f:i:t:\u0022, [\u0022help\u0022, \u0022from_port=\u0022, \u0022ip=\u0022, \u0022to_port=\u0022])\n        if len(opts) != 3:\n            exception()\n        for opt, arg in opts:\n            if opt in (\u0022-h\u0022, \u0022\u002d\u002dhelp\u0022):\n                exception()\n            elif opt in (\u0022-f\u0022, \u0022\u002d\u002dfrom_port\u0022):\n                from_port = int(arg)\n            elif opt in (\u0022-i\u0022, \u0022\u002d\u002dip\u0022):\n                ip = arg\n            elif opt in (\u0022-t\u0022, \u0022\u002d\u002dto_port\u0022):\n                to_port = int(arg)\n    except getopt.GetoptError:\n        exception()\n    tunnel(from_port, ip, to_port)\n\n\nif __name__ == '__main__':\n    main(sys.argv[1:])\n\n```"} -->
-<div class="wp-block-jetpack-markdown">
-<pre><code class="language-python3">
-def exception():
-    print('Usage : port_forward.py -f  -i  -p ')
-
-
-def main(argv):
-    from_port = 0
-    ip = ''
-    to_port = 0
-    try:
-        opts, args = getopt.getopt(
-            argv, &quot;h:f:i:t:&quot;, [&quot;help&quot;, &quot;from_port=&quot;, &quot;ip=&quot;, &quot;to_port=&quot;])
-        if len(opts) != 3:
-            exception()
-        for opt, arg in opts:
-            if opt in (&quot;-h&quot;, &quot;--help&quot;):
-                exception()
-            elif opt in (&quot;-f&quot;, &quot;--from_port&quot;):
-                from_port = int(arg)
-            elif opt in (&quot;-i&quot;, &quot;--ip&quot;):
-                ip = arg
-            elif opt in (&quot;-t&quot;, &quot;--to_port&quot;):
-                to_port = int(arg)
-    except getopt.GetoptError:
-        exception()
-    tunnel(from_port, ip, to_port)
-
-
-if __name__ == '__main__':
-    main(sys.argv[1:])
-
-</code></pre>
-</div>
-<!-- /wp:jetpack/markdown -->
-<!-- wp:jetpack/markdown {"source":"\u0026gt; python3 port_forward.py -f (from port)  -i (ip)  -p  (to port)"} -->
-<div class="wp-block-jetpack-markdown">
-<p>
-&gt; python3 port_forward.py -f (from port) -i (ip) -p (to port)
-</p>
-</div>
-<!-- /wp:jetpack/markdown -->
+<body><h1
+id="什麼是順其應自然而不是反自然-如何做到無為-what-does-it-mean-to-go-with-the-flow-natural-instead-of-anti-natural-how-can-we-achieve-non-reaction">什麼是「順其(應)自然」而不是「反自然」?
+如何做到「無為」? What does it mean to “go with the flow (Natural)”
+instead of Anti-Natural ? How can we achieve “non-reaction”?</h1>
+<p>Date: 2024-11-09 17:12:12</p>
 <!-- wp:paragraph -->
 <p>
 </p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>
-For example of localhost:8089 mapping to localhost:8081
-</p>
-<!-- /wp:paragraph -->
-<!-- wp:jetpack/markdown {"source":"```python3 \ntunnel(8089, '127.0.0.1', 8081)\n```"} -->
-<div class="wp-block-jetpack-markdown">
-<pre><code class="language-python3">tunnel(8089, '127.0.0.1', 8081)
-</code></pre>
-</div>
-<!-- /wp:jetpack/markdown -->
-<!-- wp:paragraph -->
-<p>
+要知道如何做到「順其(應)自然」，首先要知道什麼是「反自然」。以下是一些人的日常生活行為讓我們產生「反自然」感覺的例子：
 </p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>
-Build and connect the socket tunnel between host and destination by two
-threads.
+To understand how to “go with the flow(natural)” you first need to know
+what “anti-natural” means. Here are some examples of behaviors in
+people’s daily lives that make us feel “anti-natural”:
 </p>
 <!-- /wp:paragraph -->
-<!-- wp:jetpack/markdown {"source":"```python3\n\n# Buffer size\nbuffer = 2048\n# Maximum connections\nbacklog = 10\nlocalhost = '127.0.0.1'\n```"} -->
-<div class="wp-block-jetpack-markdown">
-<pre><code class="language-python3">
-# Buffer size
-buffer = 2048
-# Maximum connections
-backlog = 10
-localhost = '127.0.0.1'
-</code></pre>
-</div>
-<!-- /wp:jetpack/markdown -->
-<!-- wp:jetpack/markdown {"source":"```python3\n\ndef tunnel(from_port, to_ip, to_port, local_ip=''):\n    global backlog\n    if local_ip is '' or local_ip is None:\n        local_ip = localhost\n    if to_ip is '' or to_ip is None:\n        to_ip = localhost\n    print(\u0022Listening from {} to {}\u0022.format(\n        full_address(local_ip, from_port), full_address(to_ip, to_port)))\n    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    sock.bind((local_ip, from_port))\n    sock.listen(backlog)\n    while True:\n        sock, address = sock.accept()\n        print(\u0022Connected from local port{} to destination {}\u0022.format(\n            from_port, address[0]))\n        forward = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n        try:\n            forward.connect((to_ip, to_port))\n            build_tunnel(sock, forward)\n        except Exception as ex:\n            print(\u0022Connection Error {}, retry after 5 seconds \u0022.format(ex))\n            time.sleep(5)\n            tunnel(from_port, to_ip, to_port, local_ip)\n```"} -->
-<div class="wp-block-jetpack-markdown">
-<pre><code class="language-python3">
-def tunnel(from_port, to_ip, to_port, local_ip=''):
-    global backlog
-    if local_ip is '' or local_ip is None:
-        local_ip = localhost
-    if to_ip is '' or to_ip is None:
-        to_ip = localhost
-    print(&quot;Listening from {} to {}&quot;.format(
-        full_address(local_ip, from_port), full_address(to_ip, to_port)))
-    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    sock.bind((local_ip, from_port))
-    sock.listen(backlog)
-    while True:
-        sock, address = sock.accept()
-        print(&quot;Connected from local port{} to destination {}&quot;.format(
-            from_port, address[0]))
-        forward = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        try:
-            forward.connect((to_ip, to_port))
-            build_tunnel(sock, forward)
-        except Exception as ex:
-            print(&quot;Connection Error {}, retry after 5 seconds &quot;.format(ex))
-            time.sleep(5)
-            tunnel(from_port, to_ip, to_port, local_ip)
-</code></pre>
-</div>
-<!-- /wp:jetpack/markdown -->
-<!-- wp:jetpack/markdown {"source":"```python3\n\ndef build_tunnel(socket, forward):\n    try:\n        _thread.start_new_thread(socket_pipeline, (socket, forward))\n        _thread.start_new_thread(socket_pipeline, (forward, socket))\n    except Exception as e:\n        print(\u0022error {}\u0022.format(e))\n        raise e\n    while True:\n        pass\n```"} -->
-<div class="wp-block-jetpack-markdown">
-<pre><code class="language-python3">
-def build_tunnel(socket, forward):
-    try:
-        _thread.start_new_thread(socket_pipeline, (socket, forward))
-        _thread.start_new_thread(socket_pipeline, (forward, socket))
-    except Exception as e:
-        print(&quot;error {}&quot;.format(e))
-        raise e
-    while True:
-        pass
-</code></pre>
-</div>
-<!-- /wp:jetpack/markdown -->
-<!-- wp:jetpack/markdown {"source":"```python3\n\ndef socket_pipeline(source, sink):\n    print(\u0022Socket pipeline created from {} to {}\u0022.format(\n        source.getpeername(), sink.getpeername()))\n    global buffer\n    while True:\n        try:\n            data = source.recv(buffer)\n            if not data:\n                break\n            sink.send(data)\n        except Exception as ex:\n            print(\u0022error {}\u0022.format(ex))\n            raise ex\n    source.close()\n    sink.close()\n```"} -->
-<div class="wp-block-jetpack-markdown">
-<pre><code class="language-python3">
-def socket_pipeline(source, sink):
-    print(&quot;Socket pipeline created from {} to {}&quot;.format(
-        source.getpeername(), sink.getpeername()))
-    global buffer
-    while True:
-        try:
-            data = source.recv(buffer)
-            if not data:
-                break
-            sink.send(data)
-        except Exception as ex:
-            print(&quot;error {}&quot;.format(ex))
-            raise ex
-    source.close()
-    sink.close()
-</code></pre>
-</div>
-<!-- /wp:jetpack/markdown -->
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list">
+<!-- wp:list-item -->
+<li>
+當一個人為了禮貌或社交原因而假裝微笑時，這種表情通常沒有真正微笑所帶來的溫暖和真誠感覺。<br>When
+a person pretends to smile for the sake of politeness or social reasons,
+this expression usually lacks the warmth and sincerity that a genuine
+smile brings.<br>
+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>
+當一個人過度謙虛或貶低自己。<br>When a person is overly modest or
+belittles themselves.<br>
+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>
+一個人跑步時，如果手臂擺動得過於誇張，超過了肩膀的水平，甚至大幅度地揮動，這就屬於一種反自然的跑步姿態。<br>When
+a person runs with overly exaggerated arm swings, moving beyond shoulder
+level, or making large sweeping motions, it is considered an
+anti-natural running posture.<br>
+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>
+當一個人突然變得過於熱情和友好，這種行為與他們平時的表現不一致。<br>When
+a person suddenly becomes overly enthusiastic and friendly, this
+behavior is inconsistent with their usual demeanor.<br>
+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>
+在一個輕鬆的場合中，如果有人使用過於正式或專業的語言，這會讓人感覺反自然。<br>In
+a relaxed setting, if someone uses overly formal or professional
+language, it can make people feel anti-natural.
+</li>
+<!-- /wp:list-item -->
+</ol>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p>
+以上這些例子都會讓我們本能地產生「反自然」的感覺，這種感覺就像在一片寧靜的森林中漫步，周圍都是自然的聲音和景象：鳥兒在歌唱，樹葉在微風中沙沙作響。然而，在這樣一個完全自然的環境中，突然發現了一隻手錶掛在樹上。這隻手錶的存在顯得突兀而反自然，因為它是明顯經過人類設計並製造的現代物品，與周圍的自然景觀格格不入。這種情況會讓人感到反自然，因為手錶的精密設計和人工材料在這樣的環境中顯得非常異常。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+All these examples instinctively give us a sense of “anti-naturalness”
+similar to walking in a tranquil forest surrounded by natural sounds and
+sights: birds singing, leaves rustling in the breeze. However, in such a
+completely natural setting, you suddenly find a watch hanging on a tree.
+The presence of the watch seems jarring and unnatural because it is an
+obvious modern object designed and manufactured by humans, which is
+completely out of place with the natural landscape. This situation feels
+unnatural, as the watch’s intricate design and artificial materials
+appear highly unusual in such an environment.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+「反自然」的感覺與人的價值判斷密切相關，當我們認為某個事物或行為不符合我們對自然或真實的預期和標準時，就會產生「反自然」的感覺。這種感覺往往基於文化、經驗、情感和認知的綜合作用。例如，人工製造的事物可能因為缺乏自然事物的細節或特質而被認為反自然；行為上，假笑或過於正式的語言也因為不符合我們對真誠和放鬆的預期而顯得反自然。這些判斷都是基於我們的經驗和文化背景來進行的。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+The feeling of “anti-naturalness” is closely related to human value
+judgments. When we perceive that a certain object or behavior does not
+meet our expectations and standards of what is natural or real, we
+experience a sense of “anti-naturalness”. This feeling is often based on
+a combination of cultural, experiential, emotional, and cognitive
+factors. For example, artificial objects may be considered unnatural due
+to their lack of details or characteristics found in natural objects.
+Similarly, behaviors such as fake smiles or overly formal language can
+seem unnatural because they do not align with our expectations of
+sincerity and relaxation. These judgments are shaped by our experiences
+and cultural backgrounds.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+所以，「反自然的事物」就是一種讓人感覺到是被經過計算和設計後的事物；<strong>而「反自然的行為」，就是一種讓人感到經過計算和設計後的行為，而這種行為企圖或正在抗衡和改變當下自然存在的</strong>環境、情況和事實。所有的計算和設計其實都是了為作出「二元價值判斷」後達到某種目的，這意味著我們在計算、決策或設計過程中都使用了一種或多種如「是或否」、「好或壞」、「合理與不合理」等等的二元價值判斷的正負標準。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+So, “anti-natural objects” are those that people perceive as being
+calculated and designed; while “anti-natural behaviors” are those that
+people feel are calculated and designed actions that attempt to
+counteract or change the existing natural environment, situation, and
+reality. All calculations and designs are essentially meant to achieve a
+certain purpose through binary value judgments, which means that in the
+process of calculation, decision-making, or design, we use one or more
+positive and negative standards of binary value judgments such as “yes
+or no”, “good or bad”, “reasonable or unreasonable” etc.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+因為我們都想自己可達到自己心目中所謂屬於「正」的標準，而抗拒自己心目中屬於「負」的標準，想「擁有
+(追求)」某些事物，害怕「失去」某些事物等等，這些都是反自然行為背後的自覺或不自覺的目的。很多的情緒都是來自過度的二元價值判斷所產生的反自然，因為反自然所以會造成緊張、執著、焦慮、恐懼等等情緒，進一步影響身體造成蹦緊脹痛，影響血壓甚至免疫系統功能失調或癌症等等大大小小的疾病。<strong>但如果過度追求放鬆而企圖改變因為反自然而造成的緊張，這並沒有接受正在緊張的現實，也是「反自然」，只會繼續造成更大的緊張
+(就像對失眠的自己強行放鬆入睡一樣)。</strong>
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+Because we all want to reach what we consider the “positive” standards
+and resist what we consider “negative” standards, we seek to “possess
+(pursue)” certain things and fear “losing” certain things. These are the
+conscious or unconscious goals behind anti-natural behaviors. Many
+emotions arise from the unnaturalness produced by excessive binary value
+judgments. Unnaturalness leads to tension, obsession, anxiety, fear, and
+other emotions, which further impact the body, causing tightness, pain,
+affecting blood pressure, and even leading to immune system dysfunction
+or various diseases, including cancer. However, if we excessively pursue
+relaxation to counteract the tension caused by unnaturalness, this does
+not accept the reality of the current tension and is also
+“anti-natural”. It only continues to cause greater tension (like trying
+to force oneself to relax and sleep when suffering from insomnia).
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+要做到「順其自然」先要做到「無為」，無為就是消除我們的大腦對當下的現實企圖所作出的所有的二元判斷。我們相當於一個站在路邊的人，觀察來來往往的人群，就算在觀察過程中下大雨、看見路過身穿奇裝異服的人或有人在進行某種荒誕行為企圖吸引別人的注意，甚至發生鎗擊案等等，當我們觀察到這些「自然現象」時，我們並不能阻止行人在街上行走甚至不能阻止車禍的發生，但我們可以消除我們的大腦對任何正在發生的「現象」企圖作出的二元價值判斷，如「好看」或「不好看」、「危險」或「不危險」、「好笑」或「不好笑」、「驚慌」或「鎮定」等等。當不斷制止自己的大腦企圖作出的二元價值判斷後，讓所有事情不斷地「自然地發生」，就是意識上動態地「順其」在現實不斷流動的「自然」
+。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+To “go with the flow (Natural)” one must first achieve “non-reaction”.
+Non-reaction means eliminating all binary judgments that our mind tries
+to make about the current reality. It is akin to a person standing by
+the roadside, observing the passing crowd. Even if it starts to rain
+heavily, or you see someone passing by in bizarre clothing, or someone
+engaging in absurd behavior to attract attention, or even if a shooting
+incident occurs, these are all “natural phenomena” that we observe. We
+cannot stop people from walking on the street or prevent accidents from
+happening, but we can eliminate our mind’s binary judgments about any
+“phenomena” that occur, such as “good looking” or “not good looking”,
+“dangerous” or “not dangerous”, “funny” or “not funny”, “panic” or
+“calm” etc. By continually stopping our mind from making binary value
+judgments and allowing everything to “naturally happen”, we consciously
+“go with” the ever-flowing “nature” of reality.
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+其實人並沒有任何能力準確判斷任何二元價值，因為每一個人其實都持有不同的二元價值觀。例如你認為你的一百萬元是富有，對於其他人來說可以是一文不值；你認為你的外貌很美麗，其他人可以覺得你醜陋不堪；你認為的放鬆，在他人眼中可以是緊張；你認為你的不幸，其實是其他的認為的幸福；這些標準在客觀視角下其實並不存在一種絕對的客觀標準去定義你是富有或貧窮、美或醜、幸福或不幸、放鬆或緊張，只有存在於不同人腦中的相對標準。我們沒有能力在各種相對標準之間定出一個絕對標準，也沒有能力阻止或改變別人在他們的標準下對你的感覺，甚至所有你認為「好」與「壞」的標準只存在你的腦內，並沒有對別人產生任何影響，由作出二元分別的一刻起只對你自己產生影響。
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>
+In reality, people have no ability to accurately judge any binary values
+because each person holds different binary value perspectives. For
+example, you might think that having one million dollars makes you
+wealthy, but to others, it could be worthless; you might consider your
+appearance to be beautiful, while others might find you unattractive;
+what you consider relaxing might seem tense to someone else; what you
+see as misfortune might be happiness to others. These standards do not
+exist as absolute, objective criteria to define wealth or poverty,
+beauty or ugliness, happiness or misfortune, relaxation or tension; they
+only exist as relative standards in the minds of different people. We
+lack the ability to establish an absolute standard among various
+relative standards and cannot prevent or change others’ perceptions of
+you according to their standards. Indeed, all the standards you consider
+“good” or “bad” only exist in your mind and have no effect on others.
+From the moment you make a binary distinction, it only affects you.
+</p>
+<!-- /wp:paragraph -->
 
 </body>
 </html>
